@@ -1,0 +1,50 @@
+{
+  "model_name": "meatlens_mobilenetv3small_8fold_processed_roi_cnn_only",
+  "backbone": "MobileNetV3Small",
+  "model_input_mode": "cnn_only",
+  "image_crop_mode": "preprocessed_hsv_lab_threshold_roi_224",
+  "input_shape": [
+    224,
+    224,
+    3
+  ],
+  "target_size": [
+    224,
+    224
+  ],
+  "label_order": [
+    "fresh",
+    "not fresh",
+    "spoiled"
+  ],
+  "label_to_index": {
+    "fresh": 0,
+    "not fresh": 1,
+    "spoiled": 2
+  },
+  "index_to_label": {
+    "0": "fresh",
+    "1": "not fresh",
+    "2": "spoiled"
+  },
+  "split_mode": "cross_rotation_interval200_8samples_processed_roi",
+  "fold_name": "fold4",
+  "seed": 42,
+  "held_out_sample": "pork_belly_sample_4",
+  "held_out_cut": "belly",
+  "capture_source": "partner_home",
+  "phone_group": "old_phone",
+  "accuracy": 0.8,
+  "macro_precision": 0.8244538231240358,
+  "macro_recall": 0.8166666666666668,
+  "macro_f1": 0.8008247287184669,
+  "top_2_accuracy": 0.9490909090909091,
+  "adjacent_accuracy": 0.9545454545454546,
+  "severe_error_rate": 0.045454545454545456,
+  "mean_absolute_ordinal_error": 0.24545454545454545,
+  "model_path": "e:\\Thesis Code\\training_outputs\\mobilenetv3small_8fold_processed_roi_cnn_only\\models\\meatlens_best_processed_roi8_cnn_only_mobilenetv3small.h5",
+  "tflite_path": "e:\\Thesis Code\\training_outputs\\mobilenetv3small_8fold_processed_roi_cnn_only\\models\\meatlens_best_processed_roi8_cnn_only_mobilenetv3small.tflite",
+  "training_output_root": "e:\\Thesis Code\\training_outputs\\mobilenetv3small_8fold_processed_roi_cnn_only",
+  "preprocessing_note": "Input images are preprocessed HSV/LAB-threshold segmented ROI images with neutralized background, expected to be 224x224 RGB before MobileNetV3Small preprocessing. No handcrafted RGB/HSV/LAB/GLCM feature branch is used.",
+  "timestamp": "2026-05-19T12:45:07.037042"
+}

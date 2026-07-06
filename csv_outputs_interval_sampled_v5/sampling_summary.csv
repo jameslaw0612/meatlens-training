@@ -1,0 +1,25 @@
+sample_number,meat_part,label,raw_count,sampled_count,retention_ratio
+1,Pork Shoulder,fresh,315,200,0.6349
+1,Pork Shoulder,not fresh,475,200,0.4211
+1,Pork Shoulder,spoiled,1878,200,0.1065
+2,Pork Shoulder,fresh,461,200,0.4338
+2,Pork Shoulder,not fresh,436,200,0.4587
+2,Pork Shoulder,spoiled,1708,200,0.1171
+3,Pork Belly,fresh,118,118,1.0
+3,Pork Belly,not fresh,479,200,0.4175
+3,Pork Belly,spoiled,1796,200,0.1114
+4,Pork Belly,fresh,150,150,1.0
+4,Pork Belly,not fresh,450,200,0.4444
+4,Pork Belly,spoiled,2247,200,0.089
+5,Pork Ham,fresh,465,200,0.4301
+5,Pork Ham,not fresh,479,200,0.4175
+5,Pork Ham,spoiled,1431,200,0.1398
+6,Pork Ham,fresh,552,200,0.3623
+6,Pork Ham,not fresh,836,200,0.2392
+6,Pork Ham,spoiled,2179,200,0.0918
+7,Pork Loin,fresh,147,147,1.0
+7,Pork Loin,not fresh,200,200,1.0
+7,Pork Loin,spoiled,200,200,1.0
+8,Pork Loin,fresh,200,200,1.0
+8,Pork Loin,not fresh,200,200,1.0
+8,Pork Loin,spoiled,200,200,1.0

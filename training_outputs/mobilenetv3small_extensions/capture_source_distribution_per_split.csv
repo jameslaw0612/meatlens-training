@@ -1,0 +1,85 @@
+split_key,split_name,dataset_partition,capture_source,pork_cut,label,sample_id,count
+fold1_train,fold1,train,partner_home,belly,fresh,pork_belly_sample_4,127
+fold1_train,fold1,train,partner_home,belly,not fresh,pork_belly_sample_4,132
+fold1_train,fold1,train,partner_home,belly,spoiled,pork_belly_sample_4,146
+fold1_train,fold1,train,partner_home,shoulder,fresh,pork_shoulder_sample_2,132
+fold1_train,fold1,train,partner_home,shoulder,not fresh,pork_shoulder_sample_2,125
+fold1_train,fold1,train,partner_home,shoulder,spoiled,pork_shoulder_sample_2,127
+fold1_train,fold1,train,researcher_home,belly,fresh,pork_belly_sample_3,100
+fold1_train,fold1,train,researcher_home,belly,not fresh,pork_belly_sample_3,129
+fold1_train,fold1,train,researcher_home,belly,spoiled,pork_belly_sample_3,143
+fold1_val,fold1,val,partner_home,belly,fresh,pork_belly_sample_4,23
+fold1_val,fold1,val,partner_home,belly,not fresh,pork_belly_sample_4,18
+fold1_val,fold1,val,partner_home,belly,spoiled,pork_belly_sample_4,26
+fold1_val,fold1,val,partner_home,shoulder,fresh,pork_shoulder_sample_2,22
+fold1_val,fold1,val,partner_home,shoulder,not fresh,pork_shoulder_sample_2,20
+fold1_val,fold1,val,partner_home,shoulder,spoiled,pork_shoulder_sample_2,28
+fold1_val,fold1,val,researcher_home,belly,fresh,pork_belly_sample_3,18
+fold1_val,fold1,val,researcher_home,belly,not fresh,pork_belly_sample_3,30
+fold1_val,fold1,val,researcher_home,belly,spoiled,pork_belly_sample_3,20
+fold1_test,fold1,test,researcher_home,shoulder,fresh,pork_shoulder_sample_1,157
+fold1_test,fold1,test,researcher_home,shoulder,not fresh,pork_shoulder_sample_1,158
+fold1_test,fold1,test,researcher_home,shoulder,spoiled,pork_shoulder_sample_1,170
+fold2_train,fold2,train,partner_home,belly,fresh,pork_belly_sample_4,128
+fold2_train,fold2,train,partner_home,belly,not fresh,pork_belly_sample_4,127
+fold2_train,fold2,train,partner_home,belly,spoiled,pork_belly_sample_4,148
+fold2_train,fold2,train,researcher_home,belly,fresh,pork_belly_sample_3,99
+fold2_train,fold2,train,researcher_home,belly,not fresh,pork_belly_sample_3,131
+fold2_train,fold2,train,researcher_home,belly,spoiled,pork_belly_sample_3,137
+fold2_train,fold2,train,researcher_home,shoulder,fresh,pork_shoulder_sample_1,134
+fold2_train,fold2,train,researcher_home,shoulder,not fresh,pork_shoulder_sample_1,139
+fold2_train,fold2,train,researcher_home,shoulder,spoiled,pork_shoulder_sample_1,144
+fold2_val,fold2,val,partner_home,belly,fresh,pork_belly_sample_4,22
+fold2_val,fold2,val,partner_home,belly,not fresh,pork_belly_sample_4,23
+fold2_val,fold2,val,partner_home,belly,spoiled,pork_belly_sample_4,24
+fold2_val,fold2,val,researcher_home,belly,fresh,pork_belly_sample_3,19
+fold2_val,fold2,val,researcher_home,belly,not fresh,pork_belly_sample_3,28
+fold2_val,fold2,val,researcher_home,belly,spoiled,pork_belly_sample_3,26
+fold2_val,fold2,val,researcher_home,shoulder,fresh,pork_shoulder_sample_1,23
+fold2_val,fold2,val,researcher_home,shoulder,not fresh,pork_shoulder_sample_1,19
+fold2_val,fold2,val,researcher_home,shoulder,spoiled,pork_shoulder_sample_1,26
+fold2_test,fold2,test,partner_home,shoulder,fresh,pork_shoulder_sample_2,154
+fold2_test,fold2,test,partner_home,shoulder,not fresh,pork_shoulder_sample_2,145
+fold2_test,fold2,test,partner_home,shoulder,spoiled,pork_shoulder_sample_2,155
+fold3_train,fold3,train,partner_home,belly,fresh,pork_belly_sample_4,127
+fold3_train,fold3,train,partner_home,belly,not fresh,pork_belly_sample_4,131
+fold3_train,fold3,train,partner_home,belly,spoiled,pork_belly_sample_4,146
+fold3_train,fold3,train,partner_home,shoulder,fresh,pork_shoulder_sample_2,131
+fold3_train,fold3,train,partner_home,shoulder,not fresh,pork_shoulder_sample_2,118
+fold3_train,fold3,train,partner_home,shoulder,spoiled,pork_shoulder_sample_2,131
+fold3_train,fold3,train,researcher_home,shoulder,fresh,pork_shoulder_sample_1,134
+fold3_train,fold3,train,researcher_home,shoulder,not fresh,pork_shoulder_sample_1,136
+fold3_train,fold3,train,researcher_home,shoulder,spoiled,pork_shoulder_sample_1,145
+fold3_val,fold3,val,partner_home,belly,fresh,pork_belly_sample_4,23
+fold3_val,fold3,val,partner_home,belly,not fresh,pork_belly_sample_4,19
+fold3_val,fold3,val,partner_home,belly,spoiled,pork_belly_sample_4,26
+fold3_val,fold3,val,partner_home,shoulder,fresh,pork_shoulder_sample_2,23
+fold3_val,fold3,val,partner_home,shoulder,not fresh,pork_shoulder_sample_2,27
+fold3_val,fold3,val,partner_home,shoulder,spoiled,pork_shoulder_sample_2,24
+fold3_val,fold3,val,researcher_home,shoulder,fresh,pork_shoulder_sample_1,23
+fold3_val,fold3,val,researcher_home,shoulder,not fresh,pork_shoulder_sample_1,22
+fold3_val,fold3,val,researcher_home,shoulder,spoiled,pork_shoulder_sample_1,25
+fold3_test,fold3,test,researcher_home,belly,fresh,pork_belly_sample_3,118
+fold3_test,fold3,test,researcher_home,belly,not fresh,pork_belly_sample_3,159
+fold3_test,fold3,test,researcher_home,belly,spoiled,pork_belly_sample_3,163
+fold4_train,fold4,train,partner_home,shoulder,fresh,pork_shoulder_sample_2,131
+fold4_train,fold4,train,partner_home,shoulder,not fresh,pork_shoulder_sample_2,117
+fold4_train,fold4,train,partner_home,shoulder,spoiled,pork_shoulder_sample_2,132
+fold4_train,fold4,train,researcher_home,belly,fresh,pork_belly_sample_3,99
+fold4_train,fold4,train,researcher_home,belly,not fresh,pork_belly_sample_3,137
+fold4_train,fold4,train,researcher_home,belly,spoiled,pork_belly_sample_3,136
+fold4_train,fold4,train,researcher_home,shoulder,fresh,pork_shoulder_sample_1,134
+fold4_train,fold4,train,researcher_home,shoulder,not fresh,pork_shoulder_sample_1,139
+fold4_train,fold4,train,researcher_home,shoulder,spoiled,pork_shoulder_sample_1,147
+fold4_val,fold4,val,partner_home,shoulder,fresh,pork_shoulder_sample_2,23
+fold4_val,fold4,val,partner_home,shoulder,not fresh,pork_shoulder_sample_2,28
+fold4_val,fold4,val,partner_home,shoulder,spoiled,pork_shoulder_sample_2,23
+fold4_val,fold4,val,researcher_home,belly,fresh,pork_belly_sample_3,19
+fold4_val,fold4,val,researcher_home,belly,not fresh,pork_belly_sample_3,22
+fold4_val,fold4,val,researcher_home,belly,spoiled,pork_belly_sample_3,27
+fold4_val,fold4,val,researcher_home,shoulder,fresh,pork_shoulder_sample_1,23
+fold4_val,fold4,val,researcher_home,shoulder,not fresh,pork_shoulder_sample_1,19
+fold4_val,fold4,val,researcher_home,shoulder,spoiled,pork_shoulder_sample_1,23
+fold4_test,fold4,test,partner_home,belly,fresh,pork_belly_sample_4,150
+fold4_test,fold4,test,partner_home,belly,not fresh,pork_belly_sample_4,150
+fold4_test,fold4,test,partner_home,belly,spoiled,pork_belly_sample_4,172

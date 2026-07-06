@@ -1,0 +1,279 @@
+image_file_name,sample_number,meat_part,label,time_frame,file_destination,sample_id,pork_cut,split_type,fold,source
+20260429_182540.jpg,4,Pork Belly,spoiled,12:32:42,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_182540.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260423_125434.jpg,2,Pork Shoulder,not fresh,08:55:27,E:\Thesis Code\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_125434.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260429_070015.jpg,4,Pork Belly,fresh,00:45:54,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_070015.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260424_110343.jpg,1,Pork Shoulder,fresh,06:32:52,E:\Thesis Code\Pork Shoulder - sample 1\Fresh - 0 to 8 hours\20260424_110343.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260429_231029.jpg,3,Pork Belly,spoiled,18:04:21,E:\Thesis Code\Pork Belly - Sample 3\Spoiled - 16 to 36 hours\20260429_231029.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260424_083039.jpg,1,Pork Shoulder,fresh,02:40:31,E:\Thesis Code\Pork Shoulder - sample 1\Fresh - 0 to 8 hours\20260424_083039.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260424_113144.jpg,1,Pork Shoulder,fresh,07:15:40,E:\Thesis Code\Pork Shoulder - sample 1\Fresh - 0 to 8 hours\20260424_113144.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260430_083128.jpg,4,Pork Belly,spoiled,20:19:27,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_083128.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260424_161339.jpg,2,Pork Shoulder,spoiled,37:36:19,E:\Thesis Code\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_161339.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260424_163656.jpg,1,Pork Shoulder,not fresh,12:35:27,E:\Thesis Code\Pork Shoulder - sample 1\Not Fresh - 8 to 16 hours\20260424_163656.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260426_033246.jpg,1,Pork Shoulder,spoiled,47:29:19,E:\Thesis Code\Pork Shoulder - sample 1\Spoiled - 16 to 48 hours\20260426_033246.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260429_231427.jpg,4,Pork Belly,spoiled,18:39:26,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_231427.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260429_152742.jpg,4,Pork Belly,not fresh,07:57:04,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_152742.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+IMG20260423062957.jpg,2,Pork Shoulder,fresh,00:13:17,E:\Thesis Code\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423062957.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260423_130334.jpg,2,Pork Shoulder,not fresh,09:05:23,E:\Thesis Code\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_130334.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260429_175335.jpg,4,Pork Belly,not fresh,11:50:23,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_175335.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260426_002544.jpg,1,Pork Shoulder,spoiled,44:18:02,E:\Thesis Code\Pork Shoulder - sample 1\Spoiled - 16 to 48 hours\20260426_002544.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+IMG20260423085135.jpg,2,Pork Shoulder,fresh,03:53:30,E:\Thesis Code\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423085135.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260425_121219.jpg,1,Pork Shoulder,spoiled,32:17:54,E:\Thesis Code\Pork Shoulder - sample 1\Spoiled - 16 to 48 hours\20260425_121219.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260429_071648.jpg,4,Pork Belly,fresh,02:05:38,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_071648.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260426_000344.jpg,1,Pork Shoulder,spoiled,43:55:31,E:\Thesis Code\Pork Shoulder - sample 1\Spoiled - 16 to 48 hours\20260426_000344.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260429_174025.jpg,3,Pork Belly,not fresh,13:36:24,E:\Thesis Code\Pork Belly - Sample 3\Not Fresh - 8 to 16 hours\20260429_174025.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260423_161340.jpg,2,Pork Shoulder,not fresh,11:59:10,E:\Thesis Code\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_161340.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260424_115609.jpg,2,Pork Shoulder,spoiled,27:30:03,E:\Thesis Code\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_115609.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260426_014245.jpg,1,Pork Shoulder,spoiled,45:36:48,E:\Thesis Code\Pork Shoulder - sample 1\Spoiled - 16 to 48 hours\20260426_014245.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260429_054700.jpg,3,Pork Belly,fresh,05:20:00,E:\Thesis Code\Pork Belly - Sample 3\Fresh - 0 to 8 hours\20260429_054700.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260430_104148.jpg,4,Pork Belly,spoiled,23:06:09,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_104148.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260429_163425.jpg,3,Pork Belly,not fresh,12:30:08,E:\Thesis Code\Pork Belly - Sample 3\Not Fresh - 8 to 16 hours\20260429_163425.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260424_141946.jpg,1,Pork Shoulder,not fresh,10:18:44,E:\Thesis Code\Pork Shoulder - sample 1\Not Fresh - 8 to 16 hours\20260424_141946.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260429_151840.jpg,4,Pork Belly,not fresh,07:42:38,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_151840.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+IMG20260423091106.jpg,2,Pork Shoulder,fresh,04:23:57,E:\Thesis Code\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423091106.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260425_223543.jpg,1,Pork Shoulder,spoiled,42:25:31,E:\Thesis Code\Pork Shoulder - sample 1\Spoiled - 16 to 48 hours\20260425_223543.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260429_164725.jpg,4,Pork Belly,not fresh,10:04:33,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_164725.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260429_183843.jpg,4,Pork Belly,spoiled,12:49:22,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_183843.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260429_142702.jpg,4,Pork Belly,not fresh,06:20:51,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_142702.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260423_170254.jpg,2,Pork Shoulder,spoiled,12:53:09,E:\Thesis Code\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_170254.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260430_042932.jpg,3,Pork Belly,spoiled,21:37:36,E:\Thesis Code\Pork Belly - Sample 3\Spoiled - 16 to 36 hours\20260430_042932.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+IMG20260423081233.jpg,2,Pork Shoulder,fresh,02:52:35,E:\Thesis Code\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423081233.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260430_030131.jpg,3,Pork Belly,spoiled,20:38:46,E:\Thesis Code\Pork Belly - Sample 3\Spoiled - 16 to 36 hours\20260430_030131.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260429_164625.jpg,3,Pork Belly,not fresh,12:42:11,E:\Thesis Code\Pork Belly - Sample 3\Not Fresh - 8 to 16 hours\20260429_164625.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+IMG20260423095739.jpg,2,Pork Shoulder,fresh,05:36:34,E:\Thesis Code\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423095739.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260429_164925.jpg,3,Pork Belly,not fresh,12:45:11,E:\Thesis Code\Pork Belly - Sample 3\Not Fresh - 8 to 16 hours\20260429_164925.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260429_164325.jpg,3,Pork Belly,not fresh,12:39:10,E:\Thesis Code\Pork Belly - Sample 3\Not Fresh - 8 to 16 hours\20260429_164325.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260429_055100.jpg,3,Pork Belly,fresh,05:28:12,E:\Thesis Code\Pork Belly - Sample 3\Fresh - 0 to 8 hours\20260429_055100.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260423_173558.jpg,2,Pork Shoulder,spoiled,13:36:27,E:\Thesis Code\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_173558.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260423_194041.jpg,2,Pork Shoulder,spoiled,16:18:50,E:\Thesis Code\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_194041.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260424_103759.jpg,2,Pork Shoulder,spoiled,24:26:01,E:\Thesis Code\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_103759.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260429_172825.jpg,3,Pork Belly,not fresh,13:24:21,E:\Thesis Code\Pork Belly - Sample 3\Not Fresh - 8 to 16 hours\20260429_172825.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260424_111543.jpg,1,Pork Shoulder,fresh,06:51:13,E:\Thesis Code\Pork Shoulder - sample 1\Fresh - 0 to 8 hours\20260424_111543.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260429_174626.jpg,3,Pork Belly,not fresh,13:42:26,E:\Thesis Code\Pork Belly - Sample 3\Not Fresh - 8 to 16 hours\20260429_174626.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260430_234456.jpg,3,Pork Belly,spoiled,33:52:59,E:\Thesis Code\Pork Belly - Sample 3\Spoiled - 16 to 36 hours\20260430_234456.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260429_171729.jpg,4,Pork Belly,not fresh,10:52:39,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_171729.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260425_055814.jpg,1,Pork Shoulder,spoiled,25:55:20,E:\Thesis Code\Pork Shoulder - sample 1\Spoiled - 16 to 48 hours\20260425_055814.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260423_105636.jpg,2,Pork Shoulder,not fresh,06:46:21,E:\Thesis Code\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_105636.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260425_135121.jpg,1,Pork Shoulder,spoiled,33:59:10,E:\Thesis Code\Pork Shoulder - sample 1\Spoiled - 16 to 48 hours\20260425_135121.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+IMG20260423073631.jpg,2,Pork Shoulder,fresh,01:56:21,E:\Thesis Code\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423073631.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260424_140446.jpg,1,Pork Shoulder,not fresh,10:03:33,E:\Thesis Code\Pork Shoulder - sample 1\Not Fresh - 8 to 16 hours\20260424_140446.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+IMG20260423095009.jpg,2,Pork Shoulder,fresh,05:24:52,E:\Thesis Code\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423095009.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260429_145406.jpg,4,Pork Belly,not fresh,07:04:09,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_145406.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260429_114546.jpg,3,Pork Belly,fresh,02:11:17,E:\Thesis Code\Pork Belly - Sample 3\Fresh - 0 to 8 hours\20260429_114546.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260426_022645.jpg,1,Pork Shoulder,spoiled,46:21:48,E:\Thesis Code\Pork Shoulder - sample 1\Spoiled - 16 to 48 hours\20260426_022645.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260430_133116.jpg,4,Pork Belly,spoiled,26:42:51,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_133116.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260429_205828.jpg,3,Pork Belly,spoiled,16:36:06,E:\Thesis Code\Pork Belly - Sample 3\Spoiled - 16 to 36 hours\20260429_205828.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260429_074823.jpg,4,Pork Belly,fresh,04:37:51,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_074823.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260423_115257.jpg,2,Pork Shoulder,not fresh,07:48:25,E:\Thesis Code\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_115257.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260424_144141.jpg,2,Pork Shoulder,spoiled,33:59:47,E:\Thesis Code\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_144141.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260429_124321.jpg,3,Pork Belly,not fresh,08:38:10,E:\Thesis Code\Pork Belly - Sample 3\Not Fresh - 8 to 16 hours\20260429_124321.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260424_142753.jpg,2,Pork Shoulder,spoiled,33:27:19,E:\Thesis Code\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_142753.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260424_082438.jpg,2,Pork Shoulder,spoiled,19:12:03,E:\Thesis Code\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_082438.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260429_181910.jpg,4,Pork Belly,spoiled,12:24:22,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_181910.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260424_151648.jpg,1,Pork Shoulder,not fresh,11:16:27,E:\Thesis Code\Pork Shoulder - sample 1\Not Fresh - 8 to 16 hours\20260424_151648.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260429_164123.jpg,4,Pork Belly,not fresh,09:54:55,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_164123.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+IMG20260423063557.jpg,2,Pork Shoulder,fresh,00:22:39,E:\Thesis Code\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423063557.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260429_174304.jpg,4,Pork Belly,not fresh,11:33:32,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_174304.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260429_171926.jpg,3,Pork Belly,not fresh,13:15:19,E:\Thesis Code\Pork Belly - Sample 3\Not Fresh - 8 to 16 hours\20260429_171926.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260429_173232.jpg,4,Pork Belly,not fresh,11:16:42,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_173232.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260429_124022.jpg,3,Pork Belly,not fresh,08:35:09,E:\Thesis Code\Pork Belly - Sample 3\Not Fresh - 8 to 16 hours\20260429_124022.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260424_125120.jpg,2,Pork Shoulder,spoiled,29:39:58,E:\Thesis Code\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_125120.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+IMG20260423091707.jpg,2,Pork Shoulder,fresh,04:33:19,E:\Thesis Code\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423091707.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260424_074238.jpg,1,Pork Shoulder,fresh,01:27:08,E:\Thesis Code\Pork Shoulder - sample 1\Fresh - 0 to 8 hours\20260424_074238.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260424_081439.jpg,1,Pork Shoulder,fresh,02:16:03,E:\Thesis Code\Pork Shoulder - sample 1\Fresh - 0 to 8 hours\20260424_081439.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260423_134409.jpg,2,Pork Shoulder,not fresh,09:50:04,E:\Thesis Code\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_134409.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+IMG20260423070759.jpg,2,Pork Shoulder,fresh,01:11:51,E:\Thesis Code\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423070759.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+IMG20260423074531.jpg,2,Pork Shoulder,fresh,02:10:25,E:\Thesis Code\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423074531.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260429_140121.jpg,3,Pork Belly,not fresh,09:56:29,E:\Thesis Code\Pork Belly - Sample 3\Not Fresh - 8 to 16 hours\20260429_140121.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260430_105439.jpg,3,Pork Belly,spoiled,25:54:59,E:\Thesis Code\Pork Belly - Sample 3\Spoiled - 16 to 36 hours\20260430_105439.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+IMG20260423084405.jpg,2,Pork Shoulder,fresh,03:41:47,E:\Thesis Code\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423084405.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260425_203342.jpg,1,Pork Shoulder,spoiled,40:21:44,E:\Thesis Code\Pork Shoulder - sample 1\Spoiled - 16 to 48 hours\20260425_203342.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+IMG20260423100940.jpg,2,Pork Shoulder,fresh,05:55:19,E:\Thesis Code\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423100940.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260424_092642.jpg,1,Pork Shoulder,fresh,04:06:07,E:\Thesis Code\Pork Shoulder - sample 1\Fresh - 0 to 8 hours\20260424_092642.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260424_100547.jpg,2,Pork Shoulder,spoiled,23:10:14,E:\Thesis Code\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_100547.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260429_075024.jpg,4,Pork Belly,fresh,04:47:31,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_075024.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260430_054634.jpg,3,Pork Belly,spoiled,22:29:05,E:\Thesis Code\Pork Belly - Sample 3\Spoiled - 16 to 36 hours\20260430_054634.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260429_142401.jpg,4,Pork Belly,not fresh,06:16:02,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_142401.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260424_193859.jpg,1,Pork Shoulder,not fresh,15:37:43,E:\Thesis Code\Pork Shoulder - sample 1\Not Fresh - 8 to 16 hours\20260424_193859.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260424_100542.jpg,1,Pork Shoulder,fresh,05:04:12,E:\Thesis Code\Pork Shoulder - sample 1\Fresh - 0 to 8 hours\20260424_100542.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260424_145548.jpg,1,Pork Shoulder,not fresh,10:55:11,E:\Thesis Code\Pork Shoulder - sample 1\Not Fresh - 8 to 16 hours\20260424_145548.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260424_084841.jpg,1,Pork Shoulder,fresh,03:08:02,E:\Thesis Code\Pork Shoulder - sample 1\Fresh - 0 to 8 hours\20260424_084841.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260424_091949.jpg,2,Pork Shoulder,spoiled,21:21:58,E:\Thesis Code\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_091949.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260425_062014.jpg,1,Pork Shoulder,spoiled,26:17:50,E:\Thesis Code\Pork Shoulder - sample 1\Spoiled - 16 to 48 hours\20260425_062014.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260430_141241.jpg,3,Pork Belly,spoiled,28:07:21,E:\Thesis Code\Pork Belly - Sample 3\Spoiled - 16 to 36 hours\20260430_141241.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260424_191458.jpg,1,Pork Shoulder,not fresh,15:13:25,E:\Thesis Code\Pork Shoulder - sample 1\Not Fresh - 8 to 16 hours\20260424_191458.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260426_024846.jpg,1,Pork Shoulder,spoiled,46:44:18,E:\Thesis Code\Pork Shoulder - sample 1\Spoiled - 16 to 48 hours\20260426_024846.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+IMG20260423072730.jpg,2,Pork Shoulder,fresh,01:42:18,E:\Thesis Code\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423072730.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260429_192827.jpg,3,Pork Belly,not fresh,15:24:51,E:\Thesis Code\Pork Belly - Sample 3\Not Fresh - 8 to 16 hours\20260429_192827.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+IMG20260423071059.jpg,2,Pork Shoulder,fresh,01:16:32,E:\Thesis Code\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423071059.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+IMG20260423082734.jpg,2,Pork Shoulder,fresh,03:16:01,E:\Thesis Code\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423082734.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+IMG20260423082133.jpg,2,Pork Shoulder,fresh,03:06:38,E:\Thesis Code\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423082133.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260429_161023.jpg,3,Pork Belly,not fresh,12:06:02,E:\Thesis Code\Pork Belly - Sample 3\Not Fresh - 8 to 16 hours\20260429_161023.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260424_110058.jpg,2,Pork Shoulder,spoiled,25:20:08,E:\Thesis Code\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_110058.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260424_135106.jpg,2,Pork Shoulder,spoiled,32:00:42,E:\Thesis Code\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_135106.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260424_121544.jpg,1,Pork Shoulder,not fresh,08:14:11,E:\Thesis Code\Pork Shoulder - sample 1\Not Fresh - 8 to 16 hours\20260424_121544.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260424_160956.jpg,1,Pork Shoulder,not fresh,12:08:06,E:\Thesis Code\Pork Shoulder - sample 1\Not Fresh - 8 to 16 hours\20260424_160956.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260424_101742.jpg,1,Pork Shoulder,fresh,05:22:33,E:\Thesis Code\Pork Shoulder - sample 1\Fresh - 0 to 8 hours\20260424_101742.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260424_193259.jpg,1,Pork Shoulder,not fresh,15:31:39,E:\Thesis Code\Pork Shoulder - sample 1\Not Fresh - 8 to 16 hours\20260424_193259.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260430_193715.jpg,4,Pork Belly,spoiled,34:29:36,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_193715.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260429_044001.jpg,3,Pork Belly,fresh,01:05:38,E:\Thesis Code\Pork Belly - Sample 3\Fresh - 0 to 8 hours\20260429_044001.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260430_115330.jpg,4,Pork Belly,spoiled,24:37:50,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_115330.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260429_155747.jpg,4,Pork Belly,not fresh,08:45:10,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_155747.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260429_064701.jpg,3,Pork Belly,fresh,07:18:58,E:\Thesis Code\Pork Belly - Sample 3\Fresh - 0 to 8 hours\20260429_064701.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260429_070947.jpg,4,Pork Belly,fresh,01:31:49,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_070947.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260429_114646.jpg,3,Pork Belly,fresh,02:15:23,E:\Thesis Code\Pork Belly - Sample 3\Fresh - 0 to 8 hours\20260429_114646.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+IMG20260423074701.jpg,2,Pork Shoulder,fresh,02:12:45,E:\Thesis Code\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423074701.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260424_154127.jpg,2,Pork Shoulder,spoiled,36:20:32,E:\Thesis Code\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_154127.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260429_173425.jpg,3,Pork Belly,not fresh,13:30:23,E:\Thesis Code\Pork Belly - Sample 3\Not Fresh - 8 to 16 hours\20260429_173425.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260423_131706.jpg,2,Pork Shoulder,not fresh,09:20:17,E:\Thesis Code\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_131706.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260424_065624.jpg,1,Pork Shoulder,fresh,00:41:16,E:\Thesis Code\Pork Shoulder - sample 1\Fresh - 0 to 8 hours\20260424_065624.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260425_100017.jpg,1,Pork Shoulder,spoiled,30:02:53,E:\Thesis Code\Pork Shoulder - sample 1\Spoiled - 16 to 48 hours\20260425_100017.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260430_130640.jpg,3,Pork Belly,spoiled,27:23:14,E:\Thesis Code\Pork Belly - Sample 3\Spoiled - 16 to 36 hours\20260430_130640.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+IMG20260423073801.jpg,2,Pork Shoulder,fresh,01:58:42,E:\Thesis Code\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423073801.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260429_122647.jpg,3,Pork Belly,not fresh,08:23:06,E:\Thesis Code\Pork Belly - Sample 3\Not Fresh - 8 to 16 hours\20260429_122647.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260425_070414.jpg,1,Pork Shoulder,spoiled,27:02:51,E:\Thesis Code\Pork Shoulder - sample 1\Spoiled - 16 to 48 hours\20260425_070414.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260429_214843.jpg,4,Pork Belly,spoiled,16:51:05,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_214843.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260424_065021.jpg,1,Pork Shoulder,fresh,00:38:13,E:\Thesis Code\Pork Shoulder - sample 1\Fresh - 0 to 8 hours\20260424_065021.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260430_022830.jpg,3,Pork Belly,spoiled,20:16:43,E:\Thesis Code\Pork Belly - Sample 3\Spoiled - 16 to 36 hours\20260430_022830.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260424_101942.jpg,1,Pork Shoulder,fresh,05:25:36,E:\Thesis Code\Pork Shoulder - sample 1\Fresh - 0 to 8 hours\20260424_101942.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260423_125649.jpg,2,Pork Shoulder,not fresh,08:57:56,E:\Thesis Code\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_125649.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260429_150807.jpg,4,Pork Belly,not fresh,07:25:47,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_150807.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+IMG20260423062837.jpg,2,Pork Shoulder,fresh,00:10:56,E:\Thesis Code\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423062837.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260424_155951.jpg,2,Pork Shoulder,spoiled,37:03:50,E:\Thesis Code\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_155951.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260424_061421.jpg,1,Pork Shoulder,fresh,00:13:45,E:\Thesis Code\Pork Shoulder - sample 1\Fresh - 0 to 8 hours\20260424_061421.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260429_074352.jpg,4,Pork Belly,fresh,04:16:06,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_074352.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260424_084737.jpg,2,Pork Shoulder,spoiled,20:06:11,E:\Thesis Code\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_084737.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+IMG20260423090806.jpg,2,Pork Shoulder,fresh,04:19:16,E:\Thesis Code\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423090806.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260423_115042.jpg,2,Pork Shoulder,not fresh,07:45:56,E:\Thesis Code\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_115042.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260429_073852.jpg,4,Pork Belly,fresh,03:51:57,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_073852.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260424_085641.jpg,1,Pork Shoulder,fresh,03:20:15,E:\Thesis Code\Pork Shoulder - sample 1\Fresh - 0 to 8 hours\20260424_085641.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260425_022912.jpg,1,Pork Shoulder,spoiled,22:21:33,E:\Thesis Code\Pork Shoulder - sample 1\Spoiled - 16 to 48 hours\20260425_022912.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260430_021731.jpg,3,Pork Belly,spoiled,20:09:22,E:\Thesis Code\Pork Belly - Sample 3\Spoiled - 16 to 36 hours\20260430_021731.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260425_141321.jpg,1,Pork Shoulder,spoiled,34:21:40,E:\Thesis Code\Pork Shoulder - sample 1\Spoiled - 16 to 48 hours\20260425_141321.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260425_183923.jpg,1,Pork Shoulder,spoiled,38:51:43,E:\Thesis Code\Pork Shoulder - sample 1\Spoiled - 16 to 48 hours\20260425_183923.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260424_093641.jpg,1,Pork Shoulder,fresh,04:21:24,E:\Thesis Code\Pork Shoulder - sample 1\Fresh - 0 to 8 hours\20260424_093641.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260424_095200.jpg,2,Pork Shoulder,spoiled,22:37:45,E:\Thesis Code\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_095200.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260424_122445.jpg,1,Pork Shoulder,not fresh,08:23:17,E:\Thesis Code\Pork Shoulder - sample 1\Not Fresh - 8 to 16 hours\20260424_122445.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260423_124017.jpg,2,Pork Shoulder,not fresh,08:40:33,E:\Thesis Code\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_124017.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260429_042601.jpg,3,Pork Belly,fresh,00:08:12,E:\Thesis Code\Pork Belly - Sample 3\Fresh - 0 to 8 hours\20260429_042601.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260430_184436.jpg,4,Pork Belly,spoiled,33:22:55,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_184436.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260424_074038.jpg,1,Pork Shoulder,fresh,01:24:05,E:\Thesis Code\Pork Shoulder - sample 1\Fresh - 0 to 8 hours\20260424_074038.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260429_203627.jpg,3,Pork Belly,spoiled,16:21:24,E:\Thesis Code\Pork Belly - Sample 3\Spoiled - 16 to 36 hours\20260429_203627.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260424_090841.jpg,1,Pork Shoulder,fresh,03:38:36,E:\Thesis Code\Pork Shoulder - sample 1\Fresh - 0 to 8 hours\20260424_090841.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260501_003957.jpg,3,Pork Belly,spoiled,34:29:45,E:\Thesis Code\Pork Belly - Sample 3\Spoiled - 16 to 36 hours\20260501_003957.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260424_080838.jpg,1,Pork Shoulder,fresh,02:06:53,E:\Thesis Code\Pork Shoulder - sample 1\Fresh - 0 to 8 hours\20260424_080838.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260430_204855.jpg,3,Pork Belly,spoiled,31:55:19,E:\Thesis Code\Pork Belly - Sample 3\Spoiled - 16 to 36 hours\20260430_204855.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260424_134630.jpg,2,Pork Shoulder,spoiled,31:49:53,E:\Thesis Code\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_134630.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260425_122321.jpg,1,Pork Shoulder,spoiled,32:29:09,E:\Thesis Code\Pork Shoulder - sample 1\Spoiled - 16 to 48 hours\20260425_122321.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260429_143303.jpg,4,Pork Belly,not fresh,06:30:28,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_143303.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+IMG20260423093508.jpg,2,Pork Shoulder,fresh,05:01:26,E:\Thesis Code\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423093508.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260429_070502.jpg,3,Pork Belly,fresh,07:55:54,E:\Thesis Code\Pork Belly - Sample 3\Fresh - 0 to 8 hours\20260429_070502.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260429_195527.jpg,3,Pork Belly,not fresh,15:51:58,E:\Thesis Code\Pork Belly - Sample 3\Not Fresh - 8 to 16 hours\20260429_195527.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260430_145559.jpg,4,Pork Belly,spoiled,28:31:12,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_145559.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260424_104942.jpg,1,Pork Shoulder,fresh,06:11:28,E:\Thesis Code\Pork Shoulder - sample 1\Fresh - 0 to 8 hours\20260424_104942.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260423_104735.jpg,2,Pork Shoulder,not fresh,06:36:25,E:\Thesis Code\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_104735.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260423_102502.jpg,2,Pork Shoulder,not fresh,06:11:35,E:\Thesis Code\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_102502.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260429_162621.jpg,4,Pork Belly,not fresh,09:30:52,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_162621.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260429_071348.jpg,4,Pork Belly,fresh,01:51:08,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_071348.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260424_152849.jpg,1,Pork Shoulder,not fresh,11:28:36,E:\Thesis Code\Pork Shoulder - sample 1\Not Fresh - 8 to 16 hours\20260424_152849.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260429_074222.jpg,4,Pork Belly,fresh,04:08:52,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_074222.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260425_233043.jpg,1,Pork Shoulder,spoiled,43:21:46,E:\Thesis Code\Pork Shoulder - sample 1\Spoiled - 16 to 48 hours\20260425_233043.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260430_174527.jpg,4,Pork Belly,spoiled,32:07:54,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_174527.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260424_180257.jpg,1,Pork Shoulder,not fresh,14:00:30,E:\Thesis Code\Pork Shoulder - sample 1\Not Fresh - 8 to 16 hours\20260424_180257.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260430_183654.jpg,3,Pork Belly,spoiled,30:27:05,E:\Thesis Code\Pork Belly - Sample 3\Spoiled - 16 to 36 hours\20260430_183654.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260424_080638.jpg,1,Pork Shoulder,fresh,02:03:49,E:\Thesis Code\Pork Shoulder - sample 1\Fresh - 0 to 8 hours\20260424_080638.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260430_023930.jpg,3,Pork Belly,spoiled,20:24:04,E:\Thesis Code\Pork Belly - Sample 3\Spoiled - 16 to 36 hours\20260430_023930.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260423_124232.jpg,2,Pork Shoulder,not fresh,08:43:02,E:\Thesis Code\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_124232.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260423_113024.jpg,2,Pork Shoulder,not fresh,07:23:35,E:\Thesis Code\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_113024.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260429_201628.jpg,4,Pork Belly,spoiled,14:54:23,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_201628.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260424_154549.jpg,1,Pork Shoulder,not fresh,11:43:48,E:\Thesis Code\Pork Shoulder - sample 1\Not Fresh - 8 to 16 hours\20260424_154549.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260429_073121.jpg,4,Pork Belly,fresh,03:15:42,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_073121.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260424_140746.jpg,1,Pork Shoulder,not fresh,10:06:35,E:\Thesis Code\Pork Shoulder - sample 1\Not Fresh - 8 to 16 hours\20260424_140746.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260429_194627.jpg,3,Pork Belly,not fresh,15:42:56,E:\Thesis Code\Pork Belly - Sample 3\Not Fresh - 8 to 16 hours\20260429_194627.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260430_014430.jpg,3,Pork Belly,spoiled,19:47:18,E:\Thesis Code\Pork Belly - Sample 3\Spoiled - 16 to 36 hours\20260430_014430.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260423_175230.jpg,2,Pork Shoulder,spoiled,13:58:06,E:\Thesis Code\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_175230.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260424_192058.jpg,1,Pork Shoulder,not fresh,15:19:30,E:\Thesis Code\Pork Shoulder - sample 1\Not Fresh - 8 to 16 hours\20260424_192058.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260423_154206.jpg,2,Pork Shoulder,not fresh,11:24:25,E:\Thesis Code\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_154206.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260424_110142.jpg,1,Pork Shoulder,fresh,06:29:49,E:\Thesis Code\Pork Shoulder - sample 1\Fresh - 0 to 8 hours\20260424_110142.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260430_142324.jpg,4,Pork Belly,spoiled,27:49:32,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_142324.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260423_121745.jpg,2,Pork Shoulder,not fresh,08:15:43,E:\Thesis Code\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_121745.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260424_123045.jpg,1,Pork Shoulder,not fresh,08:29:22,E:\Thesis Code\Pork Shoulder - sample 1\Not Fresh - 8 to 16 hours\20260424_123045.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+IMG20260423083204.jpg,2,Pork Shoulder,fresh,03:23:02,E:\Thesis Code\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423083204.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260430_201555.jpg,3,Pork Belly,spoiled,31:33:16,E:\Thesis Code\Pork Belly - Sample 3\Spoiled - 16 to 36 hours\20260430_201555.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260429_191026.jpg,3,Pork Belly,not fresh,15:06:47,E:\Thesis Code\Pork Belly - Sample 3\Not Fresh - 8 to 16 hours\20260429_191026.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260424_084240.jpg,1,Pork Shoulder,fresh,02:58:51,E:\Thesis Code\Pork Shoulder - sample 1\Fresh - 0 to 8 hours\20260424_084240.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260424_142317.jpg,2,Pork Shoulder,spoiled,33:16:29,E:\Thesis Code\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_142317.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260424_090601.jpg,2,Pork Shoulder,spoiled,20:49:29,E:\Thesis Code\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_090601.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260429_145706.jpg,4,Pork Belly,not fresh,07:08:57,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_145706.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260429_232058.jpg,4,Pork Belly,spoiled,18:47:46,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_232058.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260429_185826.jpg,3,Pork Belly,not fresh,14:54:44,E:\Thesis Code\Pork Belly - Sample 3\Not Fresh - 8 to 16 hours\20260429_185826.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260424_160427.jpg,2,Pork Shoulder,spoiled,37:14:39,E:\Thesis Code\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_160427.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260430_090436.jpg,3,Pork Belly,spoiled,24:41:27,E:\Thesis Code\Pork Belly - Sample 3\Spoiled - 16 to 36 hours\20260430_090436.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260429_153723.jpg,3,Pork Belly,not fresh,11:32:53,E:\Thesis Code\Pork Belly - Sample 3\Not Fresh - 8 to 16 hours\20260429_153723.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260429_195655.jpg,4,Pork Belly,spoiled,14:29:23,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_195655.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260423_134840.jpg,2,Pork Shoulder,not fresh,09:55:02,E:\Thesis Code\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_134840.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260429_170227.jpg,4,Pork Belly,not fresh,10:28:36,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_170227.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260424_082002.jpg,2,Pork Shoulder,spoiled,19:01:14,E:\Thesis Code\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_082002.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260424_131545.jpg,1,Pork Shoulder,not fresh,09:14:56,E:\Thesis Code\Pork Shoulder - sample 1\Not Fresh - 8 to 16 hours\20260424_131545.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260424_124644.jpg,2,Pork Shoulder,spoiled,29:29:08,E:\Thesis Code\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_124644.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260429_114747.jpg,3,Pork Belly,fresh,02:19:29,E:\Thesis Code\Pork Belly - Sample 3\Fresh - 0 to 8 hours\20260429_114747.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260423_152619.jpg,2,Pork Shoulder,not fresh,11:07:02,E:\Thesis Code\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_152619.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260429_055301.jpg,3,Pork Belly,fresh,05:32:18,E:\Thesis Code\Pork Belly - Sample 3\Fresh - 0 to 8 hours\20260429_055301.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260429_052500.jpg,3,Pork Belly,fresh,04:34:52,E:\Thesis Code\Pork Belly - Sample 3\Fresh - 0 to 8 hours\20260429_052500.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260424_134646.jpg,1,Pork Shoulder,not fresh,09:45:19,E:\Thesis Code\Pork Shoulder - sample 1\Not Fresh - 8 to 16 hours\20260424_134646.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260429_042801.jpg,3,Pork Belly,fresh,00:16:25,E:\Thesis Code\Pork Belly - Sample 3\Fresh - 0 to 8 hours\20260429_042801.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260430_183134.jpg,4,Pork Belly,spoiled,33:06:15,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_183134.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260429_062301.jpg,3,Pork Belly,fresh,06:29:45,E:\Thesis Code\Pork Belly - Sample 3\Fresh - 0 to 8 hours\20260429_062301.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260430_000530.jpg,3,Pork Belly,spoiled,18:41:07,E:\Thesis Code\Pork Belly - Sample 3\Spoiled - 16 to 36 hours\20260430_000530.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260429_072550.jpg,4,Pork Belly,fresh,02:49:08,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_072550.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+IMG20260423094539.jpg,2,Pork Shoulder,fresh,05:17:50,E:\Thesis Code\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423094539.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260430_130512.jpg,4,Pork Belly,spoiled,26:09:31,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_130512.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260423_103619.jpg,2,Pork Shoulder,not fresh,06:24:00,E:\Thesis Code\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_103619.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+IMG20260423080632.jpg,2,Pork Shoulder,fresh,02:43:13,E:\Thesis Code\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423080632.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260423_160909.jpg,2,Pork Shoulder,not fresh,11:54:12,E:\Thesis Code\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_160909.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260429_162523.jpg,3,Pork Belly,not fresh,12:21:05,E:\Thesis Code\Pork Belly - Sample 3\Not Fresh - 8 to 16 hours\20260429_162523.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260429_073922.jpg,4,Pork Belly,fresh,03:54:22,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_073922.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260424_111744.jpg,1,Pork Shoulder,fresh,06:54:16,E:\Thesis Code\Pork Shoulder - sample 1\Fresh - 0 to 8 hours\20260424_111744.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260430_113839.jpg,3,Pork Belly,spoiled,26:24:24,E:\Thesis Code\Pork Belly - Sample 3\Spoiled - 16 to 36 hours\20260430_113839.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260425_211743.jpg,1,Pork Shoulder,spoiled,41:06:45,E:\Thesis Code\Pork Shoulder - sample 1\Spoiled - 16 to 48 hours\20260425_211743.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260429_072149.jpg,4,Pork Belly,fresh,02:29:48,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_072149.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260423_135525.jpg,2,Pork Shoulder,not fresh,10:02:29,E:\Thesis Code\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_135525.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260429_150438.jpg,4,Pork Belly,not fresh,07:20:59,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_150438.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260424_153149.jpg,1,Pork Shoulder,not fresh,11:31:39,E:\Thesis Code\Pork Shoulder - sample 1\Not Fresh - 8 to 16 hours\20260424_153149.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260423_114140.jpg,2,Pork Shoulder,not fresh,07:36:00,E:\Thesis Code\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_114140.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260429_160723.jpg,3,Pork Belly,not fresh,12:03:01,E:\Thesis Code\Pork Belly - Sample 3\Not Fresh - 8 to 16 hours\20260429_160723.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260424_142246.jpg,1,Pork Shoulder,not fresh,10:21:46,E:\Thesis Code\Pork Shoulder - sample 1\Not Fresh - 8 to 16 hours\20260424_142246.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260429_074022.jpg,4,Pork Belly,fresh,03:59:12,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_074022.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260425_172222.jpg,1,Pork Shoulder,spoiled,37:32:57,E:\Thesis Code\Pork Shoulder - sample 1\Spoiled - 16 to 48 hours\20260425_172222.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260429_175035.jpg,4,Pork Belly,not fresh,11:45:34,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_175035.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260429_191749.jpg,4,Pork Belly,spoiled,13:39:23,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_191749.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260430_095611.jpg,4,Pork Belly,spoiled,22:07:48,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_095611.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260429_051300.jpg,3,Pork Belly,fresh,04:10:15,E:\Thesis Code\Pork Belly - Sample 3\Fresh - 0 to 8 hours\20260429_051300.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+IMG20260423075132.jpg,2,Pork Shoulder,fresh,02:19:47,E:\Thesis Code\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423075132.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+IMG20260423064328.jpg,2,Pork Shoulder,fresh,00:34:22,E:\Thesis Code\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423064328.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260424_211800.jpg,1,Pork Shoulder,spoiled,17:17:44,E:\Thesis Code\Pork Shoulder - sample 1\Spoiled - 16 to 48 hours\20260424_211800.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260424_120344.jpg,1,Pork Shoulder,not fresh,08:02:02,E:\Thesis Code\Pork Shoulder - sample 1\Not Fresh - 8 to 16 hours\20260424_120344.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260429_063701.jpg,3,Pork Belly,fresh,06:58:28,E:\Thesis Code\Pork Belly - Sample 3\Fresh - 0 to 8 hours\20260429_063701.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260426_004745.jpg,1,Pork Shoulder,spoiled,44:40:32,E:\Thesis Code\Pork Shoulder - sample 1\Spoiled - 16 to 48 hours\20260426_004745.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260425_053614.jpg,1,Pork Shoulder,spoiled,25:32:50,E:\Thesis Code\Pork Shoulder - sample 1\Spoiled - 16 to 48 hours\20260425_053614.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260430_110122.jpg,4,Pork Belly,spoiled,23:31:09,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_110122.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260429_131621.jpg,3,Pork Belly,not fresh,09:11:18,E:\Thesis Code\Pork Belly - Sample 3\Not Fresh - 8 to 16 hours\20260429_131621.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260429_173703.jpg,4,Pork Belly,not fresh,11:23:55,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_173703.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260429_173833.jpg,4,Pork Belly,not fresh,11:26:20,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_173833.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260423_190653.jpg,2,Pork Shoulder,spoiled,15:35:32,E:\Thesis Code\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_190653.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260423_174414.jpg,2,Pork Shoulder,spoiled,13:47:17,E:\Thesis Code\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_174414.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+IMG20260423072900.jpg,2,Pork Shoulder,fresh,01:44:39,E:\Thesis Code\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423072900.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260430_180500.jpg,4,Pork Belly,spoiled,32:32:55,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_180500.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260429_153423.jpg,3,Pork Belly,not fresh,11:29:52,E:\Thesis Code\Pork Belly - Sample 3\Not Fresh - 8 to 16 hours\20260429_153423.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260429_074553.jpg,4,Pork Belly,fresh,04:25:46,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_074553.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260429_043901.jpg,3,Pork Belly,fresh,01:01:32,E:\Thesis Code\Pork Belly - Sample 3\Fresh - 0 to 8 hours\20260429_043901.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260424_074315.jpg,2,Pork Shoulder,spoiled,17:34:37,E:\Thesis Code\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_074315.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260429_165626.jpg,4,Pork Belly,not fresh,10:18:59,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_165626.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260429_062901.jpg,3,Pork Belly,fresh,06:42:03,E:\Thesis Code\Pork Belly - Sample 3\Fresh - 0 to 8 hours\20260429_062901.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260429_072820.jpg,4,Pork Belly,fresh,03:01:12,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_072820.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+20260429_152011.jpg,4,Pork Belly,not fresh,07:45:02,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_152011.jpg,pork_belly_sample_4,belly,random_70_15_15,random,meatlens
+IMG20260423093208.jpg,2,Pork Shoulder,fresh,04:56:45,E:\Thesis Code\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423093208.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260423_112554.jpg,2,Pork Shoulder,not fresh,07:18:37,E:\Thesis Code\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_112554.jpg,pork_shoulder_sample_2,shoulder,random_70_15_15,random,meatlens
+20260424_070023.jpg,1,Pork Shoulder,fresh,00:44:20,E:\Thesis Code\Pork Shoulder - sample 1\Fresh - 0 to 8 hours\20260424_070023.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260425_170022.jpg,1,Pork Shoulder,spoiled,37:10:27,E:\Thesis Code\Pork Shoulder - sample 1\Spoiled - 16 to 48 hours\20260425_170022.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens
+20260430_060834.jpg,3,Pork Belly,spoiled,22:43:47,E:\Thesis Code\Pork Belly - Sample 3\Spoiled - 16 to 36 hours\20260430_060834.jpg,pork_belly_sample_3,belly,random_70_15_15,random,meatlens
+20260425_174422.jpg,1,Pork Shoulder,spoiled,37:55:28,E:\Thesis Code\Pork Shoulder - sample 1\Spoiled - 16 to 48 hours\20260425_174422.jpg,pork_shoulder_sample_1,shoulder,random_70_15_15,random,meatlens

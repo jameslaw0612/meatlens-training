@@ -1,0 +1,5 @@
+fold,held_out_sample,held_out_cut,held_out_absent_from_train,held_out_absent_from_val,held_out_present_in_test,status
+fold1,pork_shoulder_sample_1,shoulder,True,True,True,PASS
+fold2,pork_shoulder_sample_2,shoulder,True,True,True,PASS
+fold3,pork_belly_sample_3,belly,True,True,True,PASS
+fold4,pork_belly_sample_4,belly,True,True,True,PASS

@@ -1,0 +1,7 @@
+timestamp,fold_name,seed,model_input_mode,image_crop_mode,error
+2026-05-19T03:34:38.091489,fold1,42,cnn_only,preprocessed_hsv_lab_threshold_roi_224,InternalError()
+2026-05-19T03:36:04.980190,fold1,123,cnn_only,preprocessed_hsv_lab_threshold_roi_224,InternalError()
+2026-05-19T03:37:02.733043,fold1,2026,cnn_only,preprocessed_hsv_lab_threshold_roi_224,InternalError()
+2026-05-19T03:38:01.328754,fold2,42,cnn_only,preprocessed_hsv_lab_threshold_roi_224,InternalError()
+2026-05-19T03:39:36.444727,fold2,123,cnn_only,preprocessed_hsv_lab_threshold_roi_224,InternalError()
+2026-05-19T03:40:51.299162,fold2,2026,cnn_only,preprocessed_hsv_lab_threshold_roi_224,InternalError()

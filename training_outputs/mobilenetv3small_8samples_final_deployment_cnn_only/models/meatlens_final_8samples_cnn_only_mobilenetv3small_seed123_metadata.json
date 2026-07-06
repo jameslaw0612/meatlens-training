@@ -1,0 +1,53 @@
+{
+  "model_name": "meatlens_final_8samples_cnn_only_mobilenetv3small",
+  "backbone": "MobileNetV3Small",
+  "model_input_mode": "cnn_only",
+  "image_crop_mode": "preprocessed_hsv_lab_threshold_roi_224",
+  "input_shape": [
+    224,
+    224,
+    3
+  ],
+  "target_size": [
+    224,
+    224
+  ],
+  "label_order": [
+    "fresh",
+    "not fresh",
+    "spoiled"
+  ],
+  "label_to_index": {
+    "fresh": 0,
+    "not fresh": 1,
+    "spoiled": 2
+  },
+  "index_to_label": {
+    "0": "fresh",
+    "1": "not fresh",
+    "2": "spoiled"
+  },
+  "split_mode": "final_8samples_train_val_only",
+  "train_count": 3922,
+  "val_count": 693,
+  "seed": 123,
+  "class_weights": {
+    "0": 1.0876317249029395,
+    "1": 0.9612745098039216,
+    "2": 0.9612745098039216
+  },
+  "validation_accuracy": 0.963924963924964,
+  "validation_macro_precision": 0.9638265719278377,
+  "validation_macro_recall": 0.9651017214397496,
+  "validation_macro_f1": 0.9640903544856737,
+  "validation_top_2_accuracy": 1.0,
+  "validation_adjacent_accuracy": 1.0,
+  "validation_severe_error_rate": 0.0,
+  "validation_mean_absolute_ordinal_error": 0.03607503607503607,
+  "model_path": "e:\\Thesis Code\\training_outputs\\mobilenetv3small_8samples_final_deployment_cnn_only\\models\\meatlens_final_8samples_cnn_only_mobilenetv3small_seed123.h5",
+  "tflite_path": "e:\\Thesis Code\\training_outputs\\mobilenetv3small_8samples_final_deployment_cnn_only\\models\\meatlens_final_8samples_cnn_only_mobilenetv3small_seed123.tflite",
+  "training_output_root": "e:\\Thesis Code\\training_outputs\\mobilenetv3small_8samples_final_deployment_cnn_only",
+  "preprocessing_note": "Input images are preprocessed HSV/LAB-threshold segmented ROI images with neutralized background, expected to be 224x224 RGB before MobileNetV3Small preprocessing. No handcrafted RGB/HSV/LAB/GLCM feature branch is used.",
+  "deployment_note": "This final model was trained using all 8 validated samples for deployment/demo use. Official evaluation metrics should be taken from the 8-fold cross-rotation experiment, not from this final training run.",
+  "timestamp": "2026-05-19T14:20:51.623184"
+}

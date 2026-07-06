@@ -1,0 +1,63 @@
+{
+  "source_image": "E:\\Thesis Code\\processed_hsv_lab_threshold_roi_224\\sample 1\\fresh\\20260424_055602.jpg",
+  "probabilities": {
+    "horizontal_flip": 0.3,
+    "gaussian_noise": 0.3,
+    "blur_or_sharpen": 0.2
+  },
+  "ranges": {
+    "brightness_delta": [
+      -0.04,
+      0.04
+    ],
+    "contrast_factor": [
+      0.95,
+      1.05
+    ],
+    "gaussian_noise_stddev": 0.01,
+    "filter_blend": {
+      "original": 0.9,
+      "filtered": 0.1
+    }
+  },
+  "kernels": {
+    "blur": [
+      [
+        0.1111111111111111,
+        0.1111111111111111,
+        0.1111111111111111
+      ],
+      [
+        0.1111111111111111,
+        0.1111111111111111,
+        0.1111111111111111
+      ],
+      [
+        0.1111111111111111,
+        0.1111111111111111,
+        0.1111111111111111
+      ]
+    ],
+    "sharpen": [
+      [
+        0,
+        -1,
+        0
+      ],
+      [
+        -1,
+        5,
+        -1
+      ],
+      [
+        0,
+        -1,
+        0
+      ]
+    ]
+  },
+  "notes": [
+    "Representative demo images were generated from the first image in processed_hsv_lab_threshold_roi_224/sample 1/fresh.",
+    "The two random_aug images follow the same augmentation logic and probabilities used by the training library."
+  ]
+}

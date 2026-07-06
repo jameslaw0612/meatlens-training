@@ -1,0 +1,13 @@
+split_key,expected_count,observed_count,count_match,expected_labels,observed_labels,label_match
+fold1_train,1161,1161,True,"{""fresh"": 359, ""not fresh"": 386, ""spoiled"": 416}","{""spoiled"": 416, ""not fresh"": 386, ""fresh"": 359}",True
+fold1_val,205,205,True,"{""fresh"": 63, ""not fresh"": 68, ""spoiled"": 74}","{""spoiled"": 74, ""not fresh"": 68, ""fresh"": 63}",True
+fold1_test,485,485,True,"{""fresh"": 157, ""not fresh"": 158, ""spoiled"": 170}","{""spoiled"": 170, ""not fresh"": 158, ""fresh"": 157}",True
+fold2_train,1187,1187,True,"{""fresh"": 361, ""not fresh"": 397, ""spoiled"": 429}","{""spoiled"": 429, ""not fresh"": 397, ""fresh"": 361}",True
+fold2_val,210,210,True,"{""fresh"": 64, ""not fresh"": 70, ""spoiled"": 76}","{""spoiled"": 76, ""not fresh"": 70, ""fresh"": 64}",True
+fold2_test,454,454,True,"{""fresh"": 154, ""not fresh"": 145, ""spoiled"": 155}","{""spoiled"": 155, ""fresh"": 154, ""not fresh"": 145}",True
+fold3_train,1199,1199,True,"{""fresh"": 392, ""not fresh"": 385, ""spoiled"": 422}","{""spoiled"": 422, ""fresh"": 392, ""not fresh"": 385}",True
+fold3_val,212,212,True,"{""fresh"": 69, ""not fresh"": 68, ""spoiled"": 75}","{""spoiled"": 75, ""fresh"": 69, ""not fresh"": 68}",True
+fold3_test,440,440,True,"{""fresh"": 118, ""not fresh"": 159, ""spoiled"": 163}","{""spoiled"": 163, ""not fresh"": 159, ""fresh"": 118}",True
+fold4_train,1172,1172,True,"{""fresh"": 364, ""not fresh"": 393, ""spoiled"": 415}","{""spoiled"": 415, ""not fresh"": 393, ""fresh"": 364}",True
+fold4_val,207,207,True,"{""fresh"": 65, ""not fresh"": 69, ""spoiled"": 73}","{""spoiled"": 73, ""not fresh"": 69, ""fresh"": 65}",True
+fold4_test,472,472,True,"{""fresh"": 150, ""not fresh"": 150, ""spoiled"": 172}","{""spoiled"": 172, ""fresh"": 150, ""not fresh"": 150}",True

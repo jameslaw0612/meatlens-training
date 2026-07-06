@@ -1,0 +1,601 @@
+image_file_name,sample_number,meat_part,label,time_frame,file_destination
+IMG20260423061521.jpg,2,Pork Shoulder,fresh,00:00:00,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423061521.jpg
+IMG20260423061821.jpg,2,Pork Shoulder,fresh,00:01:49,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423061821.jpg
+IMG20260423062037.jpg,2,Pork Shoulder,fresh,00:03:37,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423062037.jpg
+IMG20260423062237.jpg,2,Pork Shoulder,fresh,00:05:26,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423062237.jpg
+IMG20260423062437.jpg,2,Pork Shoulder,fresh,00:07:14,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423062437.jpg
+IMG20260423062737.jpg,2,Pork Shoulder,fresh,00:09:03,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423062737.jpg
+IMG20260423062913.jpg,2,Pork Shoulder,fresh,00:10:51,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423062913.jpg
+IMG20260423062957.jpg,2,Pork Shoulder,fresh,00:12:40,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423062957.jpg
+IMG20260423063057.jpg,2,Pork Shoulder,fresh,00:14:28,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423063057.jpg
+IMG20260423063227.jpg,2,Pork Shoulder,fresh,00:16:17,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423063227.jpg
+IMG20260423063327.jpg,2,Pork Shoulder,fresh,00:18:05,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423063327.jpg
+IMG20260423063427.jpg,2,Pork Shoulder,fresh,00:19:54,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423063427.jpg
+IMG20260423063557.jpg,2,Pork Shoulder,fresh,00:21:43,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423063557.jpg
+IMG20260423063657.jpg,2,Pork Shoulder,fresh,00:23:31,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423063657.jpg
+IMG20260423063757.jpg,2,Pork Shoulder,fresh,00:25:20,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423063757.jpg
+IMG20260423063927.jpg,2,Pork Shoulder,fresh,00:27:08,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423063927.jpg
+IMG20260423064027.jpg,2,Pork Shoulder,fresh,00:28:57,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423064027.jpg
+IMG20260423064127.jpg,2,Pork Shoulder,fresh,00:30:45,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423064127.jpg
+IMG20260423064258.jpg,2,Pork Shoulder,fresh,00:32:34,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423064258.jpg
+IMG20260423064358.jpg,2,Pork Shoulder,fresh,00:34:22,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423064358.jpg
+IMG20260423064458.jpg,2,Pork Shoulder,fresh,00:36:11,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423064458.jpg
+IMG20260423064658.jpg,2,Pork Shoulder,fresh,00:37:59,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423064658.jpg
+IMG20260423064758.jpg,2,Pork Shoulder,fresh,00:39:48,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423064758.jpg
+IMG20260423064858.jpg,2,Pork Shoulder,fresh,00:41:36,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423064858.jpg
+IMG20260423064958.jpg,2,Pork Shoulder,fresh,00:43:25,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423064958.jpg
+IMG20260423065128.jpg,2,Pork Shoulder,fresh,00:45:14,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423065128.jpg
+IMG20260423065228.jpg,2,Pork Shoulder,fresh,00:47:02,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423065228.jpg
+IMG20260423065328.jpg,2,Pork Shoulder,fresh,00:48:51,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423065328.jpg
+IMG20260423065458.jpg,2,Pork Shoulder,fresh,00:50:39,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423065458.jpg
+IMG20260423065558.jpg,2,Pork Shoulder,fresh,00:52:28,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423065558.jpg
+IMG20260423065658.jpg,2,Pork Shoulder,fresh,00:54:16,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423065658.jpg
+IMG20260423065828.jpg,2,Pork Shoulder,fresh,00:56:05,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423065828.jpg
+IMG20260423065928.jpg,2,Pork Shoulder,fresh,00:57:53,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423065928.jpg
+IMG20260423070028.jpg,2,Pork Shoulder,fresh,00:59:42,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423070028.jpg
+IMG20260423070158.jpg,2,Pork Shoulder,fresh,01:01:30,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423070158.jpg
+IMG20260423070259.jpg,2,Pork Shoulder,fresh,01:03:19,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423070259.jpg
+IMG20260423070359.jpg,2,Pork Shoulder,fresh,01:05:08,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423070359.jpg
+IMG20260423070529.jpg,2,Pork Shoulder,fresh,01:06:56,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423070529.jpg
+IMG20260423070629.jpg,2,Pork Shoulder,fresh,01:08:45,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423070629.jpg
+IMG20260423070729.jpg,2,Pork Shoulder,fresh,01:10:33,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423070729.jpg
+IMG20260423070829.jpg,2,Pork Shoulder,fresh,01:12:22,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423070829.jpg
+IMG20260423070959.jpg,2,Pork Shoulder,fresh,01:14:10,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423070959.jpg
+IMG20260423071059.jpg,2,Pork Shoulder,fresh,01:15:59,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423071059.jpg
+IMG20260423071159.jpg,2,Pork Shoulder,fresh,01:17:47,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423071159.jpg
+IMG20260423071329.jpg,2,Pork Shoulder,fresh,01:19:36,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423071329.jpg
+IMG20260423071429.jpg,2,Pork Shoulder,fresh,01:21:24,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423071429.jpg
+IMG20260423071529.jpg,2,Pork Shoulder,fresh,01:23:13,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423071529.jpg
+IMG20260423071659.jpg,2,Pork Shoulder,fresh,01:25:02,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423071659.jpg
+IMG20260423071759.jpg,2,Pork Shoulder,fresh,01:26:50,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423071759.jpg
+IMG20260423071900.jpg,2,Pork Shoulder,fresh,01:28:39,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423071900.jpg
+IMG20260423072030.jpg,2,Pork Shoulder,fresh,01:30:27,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423072030.jpg
+IMG20260423072130.jpg,2,Pork Shoulder,fresh,01:32:16,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423072130.jpg
+IMG20260423072230.jpg,2,Pork Shoulder,fresh,01:34:04,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423072230.jpg
+IMG20260423072400.jpg,2,Pork Shoulder,fresh,01:35:53,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423072400.jpg
+IMG20260423072500.jpg,2,Pork Shoulder,fresh,01:37:41,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423072500.jpg
+IMG20260423072600.jpg,2,Pork Shoulder,fresh,01:39:30,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423072600.jpg
+IMG20260423072700.jpg,2,Pork Shoulder,fresh,01:41:18,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423072700.jpg
+IMG20260423072830.jpg,2,Pork Shoulder,fresh,01:43:07,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423072830.jpg
+IMG20260423072930.jpg,2,Pork Shoulder,fresh,01:44:55,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423072930.jpg
+IMG20260423073030.jpg,2,Pork Shoulder,fresh,01:46:44,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423073030.jpg
+IMG20260423073200.jpg,2,Pork Shoulder,fresh,01:48:33,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423073200.jpg
+IMG20260423073300.jpg,2,Pork Shoulder,fresh,01:50:21,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423073300.jpg
+IMG20260423073400.jpg,2,Pork Shoulder,fresh,01:52:10,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423073400.jpg
+IMG20260423073531.jpg,2,Pork Shoulder,fresh,01:53:58,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423073531.jpg
+IMG20260423073631.jpg,2,Pork Shoulder,fresh,01:55:47,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423073631.jpg
+IMG20260423073731.jpg,2,Pork Shoulder,fresh,01:57:35,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423073731.jpg
+IMG20260423073901.jpg,2,Pork Shoulder,fresh,01:59:24,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423073901.jpg
+IMG20260423074001.jpg,2,Pork Shoulder,fresh,02:01:12,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423074001.jpg
+IMG20260423074101.jpg,2,Pork Shoulder,fresh,02:03:01,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423074101.jpg
+IMG20260423074201.jpg,2,Pork Shoulder,fresh,02:04:49,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423074201.jpg
+IMG20260423074331.jpg,2,Pork Shoulder,fresh,02:06:38,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423074331.jpg
+IMG20260423074431.jpg,2,Pork Shoulder,fresh,02:08:27,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423074431.jpg
+IMG20260423074531.jpg,2,Pork Shoulder,fresh,02:10:15,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423074531.jpg
+IMG20260423074701.jpg,2,Pork Shoulder,fresh,02:12:04,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423074701.jpg
+IMG20260423074801.jpg,2,Pork Shoulder,fresh,02:13:52,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423074801.jpg
+IMG20260423074901.jpg,2,Pork Shoulder,fresh,02:15:41,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423074901.jpg
+IMG20260423075031.jpg,2,Pork Shoulder,fresh,02:17:29,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423075031.jpg
+IMG20260423075132.jpg,2,Pork Shoulder,fresh,02:19:18,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423075132.jpg
+IMG20260423075232.jpg,2,Pork Shoulder,fresh,02:21:06,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423075232.jpg
+IMG20260423075402.jpg,2,Pork Shoulder,fresh,02:22:55,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423075402.jpg
+IMG20260423075502.jpg,2,Pork Shoulder,fresh,02:24:43,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423075502.jpg
+IMG20260423075602.jpg,2,Pork Shoulder,fresh,02:26:32,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423075602.jpg
+IMG20260423075732.jpg,2,Pork Shoulder,fresh,02:28:21,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423075732.jpg
+IMG20260423075832.jpg,2,Pork Shoulder,fresh,02:30:09,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423075832.jpg
+IMG20260423075932.jpg,2,Pork Shoulder,fresh,02:31:58,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423075932.jpg
+IMG20260423080032.jpg,2,Pork Shoulder,fresh,02:33:46,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423080032.jpg
+IMG20260423080202.jpg,2,Pork Shoulder,fresh,02:35:35,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423080202.jpg
+IMG20260423080302.jpg,2,Pork Shoulder,fresh,02:37:23,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423080302.jpg
+IMG20260423080402.jpg,2,Pork Shoulder,fresh,02:39:12,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423080402.jpg
+IMG20260423080532.jpg,2,Pork Shoulder,fresh,02:41:00,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423080532.jpg
+IMG20260423080632.jpg,2,Pork Shoulder,fresh,02:42:49,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423080632.jpg
+IMG20260423080733.jpg,2,Pork Shoulder,fresh,02:44:37,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423080733.jpg
+IMG20260423080903.jpg,2,Pork Shoulder,fresh,02:46:26,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423080903.jpg
+IMG20260423081003.jpg,2,Pork Shoulder,fresh,02:48:14,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423081003.jpg
+IMG20260423081103.jpg,2,Pork Shoulder,fresh,02:50:03,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423081103.jpg
+IMG20260423081233.jpg,2,Pork Shoulder,fresh,02:51:52,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423081233.jpg
+IMG20260423081333.jpg,2,Pork Shoulder,fresh,02:53:40,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423081333.jpg
+IMG20260423081433.jpg,2,Pork Shoulder,fresh,02:55:29,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423081433.jpg
+IMG20260423081603.jpg,2,Pork Shoulder,fresh,02:57:17,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423081603.jpg
+IMG20260423081703.jpg,2,Pork Shoulder,fresh,02:59:06,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423081703.jpg
+IMG20260423081803.jpg,2,Pork Shoulder,fresh,03:00:54,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423081803.jpg
+IMG20260423081903.jpg,2,Pork Shoulder,fresh,03:02:43,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423081903.jpg
+IMG20260423082033.jpg,2,Pork Shoulder,fresh,03:04:31,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423082033.jpg
+IMG20260423082133.jpg,2,Pork Shoulder,fresh,03:06:20,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423082133.jpg
+IMG20260423082233.jpg,2,Pork Shoulder,fresh,03:08:08,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423082233.jpg
+IMG20260423082404.jpg,2,Pork Shoulder,fresh,03:09:57,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423082404.jpg
+IMG20260423082504.jpg,2,Pork Shoulder,fresh,03:11:46,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423082504.jpg
+IMG20260423082604.jpg,2,Pork Shoulder,fresh,03:13:34,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423082604.jpg
+IMG20260423082734.jpg,2,Pork Shoulder,fresh,03:15:23,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423082734.jpg
+IMG20260423082834.jpg,2,Pork Shoulder,fresh,03:17:11,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423082834.jpg
+IMG20260423082934.jpg,2,Pork Shoulder,fresh,03:19:00,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423082934.jpg
+IMG20260423083104.jpg,2,Pork Shoulder,fresh,03:20:48,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423083104.jpg
+IMG20260423083204.jpg,2,Pork Shoulder,fresh,03:22:37,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423083204.jpg
+IMG20260423083304.jpg,2,Pork Shoulder,fresh,03:24:25,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423083304.jpg
+IMG20260423083434.jpg,2,Pork Shoulder,fresh,03:26:14,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423083434.jpg
+IMG20260423083534.jpg,2,Pork Shoulder,fresh,03:28:02,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423083534.jpg
+IMG20260423083634.jpg,2,Pork Shoulder,fresh,03:29:51,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423083634.jpg
+IMG20260423083734.jpg,2,Pork Shoulder,fresh,03:31:39,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423083734.jpg
+IMG20260423083904.jpg,2,Pork Shoulder,fresh,03:33:28,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423083904.jpg
+IMG20260423084005.jpg,2,Pork Shoulder,fresh,03:35:17,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423084005.jpg
+IMG20260423084105.jpg,2,Pork Shoulder,fresh,03:37:05,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423084105.jpg
+IMG20260423084235.jpg,2,Pork Shoulder,fresh,03:38:54,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423084235.jpg
+IMG20260423084335.jpg,2,Pork Shoulder,fresh,03:40:42,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423084335.jpg
+IMG20260423084435.jpg,2,Pork Shoulder,fresh,03:42:31,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423084435.jpg
+IMG20260423084605.jpg,2,Pork Shoulder,fresh,03:44:19,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423084605.jpg
+IMG20260423084705.jpg,2,Pork Shoulder,fresh,03:46:08,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423084705.jpg
+IMG20260423084805.jpg,2,Pork Shoulder,fresh,03:47:56,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423084805.jpg
+IMG20260423084935.jpg,2,Pork Shoulder,fresh,03:49:45,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423084935.jpg
+IMG20260423085035.jpg,2,Pork Shoulder,fresh,03:51:33,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423085035.jpg
+IMG20260423085135.jpg,2,Pork Shoulder,fresh,03:53:22,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423085135.jpg
+IMG20260423085305.jpg,2,Pork Shoulder,fresh,03:55:11,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423085305.jpg
+IMG20260423085405.jpg,2,Pork Shoulder,fresh,03:56:59,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423085405.jpg
+IMG20260423085505.jpg,2,Pork Shoulder,fresh,03:58:48,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423085505.jpg
+IMG20260423085606.jpg,2,Pork Shoulder,fresh,04:00:36,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423085606.jpg
+IMG20260423085736.jpg,2,Pork Shoulder,fresh,04:02:25,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423085736.jpg
+IMG20260423085836.jpg,2,Pork Shoulder,fresh,04:04:13,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423085836.jpg
+IMG20260423085936.jpg,2,Pork Shoulder,fresh,04:06:02,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423085936.jpg
+IMG20260423090106.jpg,2,Pork Shoulder,fresh,04:07:50,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423090106.jpg
+IMG20260423090206.jpg,2,Pork Shoulder,fresh,04:09:39,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423090206.jpg
+IMG20260423090306.jpg,2,Pork Shoulder,fresh,04:11:27,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423090306.jpg
+IMG20260423090436.jpg,2,Pork Shoulder,fresh,04:13:16,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423090436.jpg
+IMG20260423090536.jpg,2,Pork Shoulder,fresh,04:15:05,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423090536.jpg
+IMG20260423090636.jpg,2,Pork Shoulder,fresh,04:16:53,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423090636.jpg
+IMG20260423090806.jpg,2,Pork Shoulder,fresh,04:18:42,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423090806.jpg
+IMG20260423090906.jpg,2,Pork Shoulder,fresh,04:20:30,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423090906.jpg
+IMG20260423091006.jpg,2,Pork Shoulder,fresh,04:22:19,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423091006.jpg
+IMG20260423091106.jpg,2,Pork Shoulder,fresh,04:24:07,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423091106.jpg
+IMG20260423091237.jpg,2,Pork Shoulder,fresh,04:25:56,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423091237.jpg
+IMG20260423091337.jpg,2,Pork Shoulder,fresh,04:27:44,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423091337.jpg
+IMG20260423091437.jpg,2,Pork Shoulder,fresh,04:29:33,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423091437.jpg
+IMG20260423091607.jpg,2,Pork Shoulder,fresh,04:31:21,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423091607.jpg
+IMG20260423091707.jpg,2,Pork Shoulder,fresh,04:33:10,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423091707.jpg
+IMG20260423091807.jpg,2,Pork Shoulder,fresh,04:34:58,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423091807.jpg
+IMG20260423091937.jpg,2,Pork Shoulder,fresh,04:36:47,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423091937.jpg
+IMG20260423092037.jpg,2,Pork Shoulder,fresh,04:38:36,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423092037.jpg
+IMG20260423092137.jpg,2,Pork Shoulder,fresh,04:40:24,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423092137.jpg
+IMG20260423092307.jpg,2,Pork Shoulder,fresh,04:42:13,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423092307.jpg
+IMG20260423092407.jpg,2,Pork Shoulder,fresh,04:44:01,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423092407.jpg
+IMG20260423092507.jpg,2,Pork Shoulder,fresh,04:45:50,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423092507.jpg
+IMG20260423092637.jpg,2,Pork Shoulder,fresh,04:47:38,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423092637.jpg
+IMG20260423092738.jpg,2,Pork Shoulder,fresh,04:49:27,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423092738.jpg
+IMG20260423092838.jpg,2,Pork Shoulder,fresh,04:51:15,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423092838.jpg
+IMG20260423092938.jpg,2,Pork Shoulder,fresh,04:53:04,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423092938.jpg
+IMG20260423093108.jpg,2,Pork Shoulder,fresh,04:54:52,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423093108.jpg
+IMG20260423093208.jpg,2,Pork Shoulder,fresh,04:56:41,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423093208.jpg
+IMG20260423093308.jpg,2,Pork Shoulder,fresh,04:58:30,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423093308.jpg
+IMG20260423093438.jpg,2,Pork Shoulder,fresh,05:00:18,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423093438.jpg
+IMG20260423093538.jpg,2,Pork Shoulder,fresh,05:02:07,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423093538.jpg
+IMG20260423093638.jpg,2,Pork Shoulder,fresh,05:03:55,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423093638.jpg
+IMG20260423093808.jpg,2,Pork Shoulder,fresh,05:05:44,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423093808.jpg
+IMG20260423093908.jpg,2,Pork Shoulder,fresh,05:07:32,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423093908.jpg
+IMG20260423094008.jpg,2,Pork Shoulder,fresh,05:09:21,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423094008.jpg
+IMG20260423094138.jpg,2,Pork Shoulder,fresh,05:11:09,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423094138.jpg
+IMG20260423094238.jpg,2,Pork Shoulder,fresh,05:12:58,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423094238.jpg
+IMG20260423094339.jpg,2,Pork Shoulder,fresh,05:14:46,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423094339.jpg
+IMG20260423094509.jpg,2,Pork Shoulder,fresh,05:16:35,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423094509.jpg
+IMG20260423094609.jpg,2,Pork Shoulder,fresh,05:18:24,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423094609.jpg
+IMG20260423094709.jpg,2,Pork Shoulder,fresh,05:20:12,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423094709.jpg
+IMG20260423094809.jpg,2,Pork Shoulder,fresh,05:22:01,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423094809.jpg
+IMG20260423094939.jpg,2,Pork Shoulder,fresh,05:23:49,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423094939.jpg
+IMG20260423095039.jpg,2,Pork Shoulder,fresh,05:25:38,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423095039.jpg
+IMG20260423095139.jpg,2,Pork Shoulder,fresh,05:27:26,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423095139.jpg
+IMG20260423095309.jpg,2,Pork Shoulder,fresh,05:29:15,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423095309.jpg
+IMG20260423095409.jpg,2,Pork Shoulder,fresh,05:31:03,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423095409.jpg
+IMG20260423095509.jpg,2,Pork Shoulder,fresh,05:32:52,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423095509.jpg
+IMG20260423095639.jpg,2,Pork Shoulder,fresh,05:34:40,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423095639.jpg
+IMG20260423095739.jpg,2,Pork Shoulder,fresh,05:36:29,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423095739.jpg
+IMG20260423095839.jpg,2,Pork Shoulder,fresh,05:38:17,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423095839.jpg
+IMG20260423100010.jpg,2,Pork Shoulder,fresh,05:40:06,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423100010.jpg
+IMG20260423100110.jpg,2,Pork Shoulder,fresh,05:41:55,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423100110.jpg
+IMG20260423100210.jpg,2,Pork Shoulder,fresh,05:43:43,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423100210.jpg
+IMG20260423100340.jpg,2,Pork Shoulder,fresh,05:45:32,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423100340.jpg
+IMG20260423100440.jpg,2,Pork Shoulder,fresh,05:47:20,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423100440.jpg
+IMG20260423100540.jpg,2,Pork Shoulder,fresh,05:49:09,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423100540.jpg
+IMG20260423100640.jpg,2,Pork Shoulder,fresh,05:50:57,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423100640.jpg
+IMG20260423100810.jpg,2,Pork Shoulder,fresh,05:52:46,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423100810.jpg
+IMG20260423100910.jpg,2,Pork Shoulder,fresh,05:54:34,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423100910.jpg
+IMG20260423101010.jpg,2,Pork Shoulder,fresh,05:56:23,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423101010.jpg
+IMG20260423101140.jpg,2,Pork Shoulder,fresh,05:58:11,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423101140.jpg
+IMG20260423101240.jpg,2,Pork Shoulder,fresh,06:00:00,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Fresh 0-6 hours\IMG20260423101240.jpg
+20260423_101426.jpg,2,Pork Shoulder,not fresh,06:00:00,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_101426.jpg
+20260423_101516.jpg,2,Pork Shoulder,not fresh,06:01:49,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_101516.jpg
+20260423_101646.jpg,2,Pork Shoulder,not fresh,06:03:37,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_101646.jpg
+20260423_101902.jpg,2,Pork Shoulder,not fresh,06:05:26,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_101902.jpg
+20260423_102032.jpg,2,Pork Shoulder,not fresh,06:07:14,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_102032.jpg
+20260423_102247.jpg,2,Pork Shoulder,not fresh,06:09:03,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_102247.jpg
+20260423_102417.jpg,2,Pork Shoulder,not fresh,06:10:51,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_102417.jpg
+20260423_102547.jpg,2,Pork Shoulder,not fresh,06:12:40,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_102547.jpg
+20260423_102718.jpg,2,Pork Shoulder,not fresh,06:14:28,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_102718.jpg
+20260423_102933.jpg,2,Pork Shoulder,not fresh,06:16:17,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_102933.jpg
+20260423_103103.jpg,2,Pork Shoulder,not fresh,06:18:05,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_103103.jpg
+20260423_103233.jpg,2,Pork Shoulder,not fresh,06:19:54,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_103233.jpg
+20260423_103403.jpg,2,Pork Shoulder,not fresh,06:21:43,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_103403.jpg
+20260423_103533.jpg,2,Pork Shoulder,not fresh,06:23:31,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_103533.jpg
+20260423_103749.jpg,2,Pork Shoulder,not fresh,06:25:20,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_103749.jpg
+20260423_103919.jpg,2,Pork Shoulder,not fresh,06:27:08,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_103919.jpg
+20260423_104049.jpg,2,Pork Shoulder,not fresh,06:28:57,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_104049.jpg
+20260423_104219.jpg,2,Pork Shoulder,not fresh,06:30:45,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_104219.jpg
+20260423_104349.jpg,2,Pork Shoulder,not fresh,06:32:34,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_104349.jpg
+20260423_104605.jpg,2,Pork Shoulder,not fresh,06:34:22,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_104605.jpg
+20260423_104735.jpg,2,Pork Shoulder,not fresh,06:36:11,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_104735.jpg
+20260423_104905.jpg,2,Pork Shoulder,not fresh,06:37:59,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_104905.jpg
+20260423_105035.jpg,2,Pork Shoulder,not fresh,06:39:48,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_105035.jpg
+20260423_105205.jpg,2,Pork Shoulder,not fresh,06:41:36,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_105205.jpg
+20260423_105335.jpg,2,Pork Shoulder,not fresh,06:43:25,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_105335.jpg
+20260423_105551.jpg,2,Pork Shoulder,not fresh,06:45:14,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_105551.jpg
+20260423_105721.jpg,2,Pork Shoulder,not fresh,06:47:02,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_105721.jpg
+20260423_105851.jpg,2,Pork Shoulder,not fresh,06:48:51,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_105851.jpg
+20260423_110021.jpg,2,Pork Shoulder,not fresh,06:50:39,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_110021.jpg
+20260423_110151.jpg,2,Pork Shoulder,not fresh,06:52:28,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_110151.jpg
+20260423_110406.jpg,2,Pork Shoulder,not fresh,06:54:16,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_110406.jpg
+20260423_110537.jpg,2,Pork Shoulder,not fresh,06:56:05,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_110537.jpg
+20260423_110707.jpg,2,Pork Shoulder,not fresh,06:57:53,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_110707.jpg
+20260423_110837.jpg,2,Pork Shoulder,not fresh,06:59:42,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_110837.jpg
+20260423_111007.jpg,2,Pork Shoulder,not fresh,07:01:30,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_111007.jpg
+20260423_111223.jpg,2,Pork Shoulder,not fresh,07:03:19,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_111223.jpg
+20260423_111353.jpg,2,Pork Shoulder,not fresh,07:05:08,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_111353.jpg
+20260423_111523.jpg,2,Pork Shoulder,not fresh,07:06:56,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_111523.jpg
+20260423_111653.jpg,2,Pork Shoulder,not fresh,07:08:45,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_111653.jpg
+20260423_111823.jpg,2,Pork Shoulder,not fresh,07:10:33,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_111823.jpg
+20260423_111953.jpg,2,Pork Shoulder,not fresh,07:12:22,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_111953.jpg
+20260423_112208.jpg,2,Pork Shoulder,not fresh,07:14:10,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_112208.jpg
+20260423_112339.jpg,2,Pork Shoulder,not fresh,07:15:59,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_112339.jpg
+20260423_112509.jpg,2,Pork Shoulder,not fresh,07:17:47,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_112509.jpg
+20260423_112639.jpg,2,Pork Shoulder,not fresh,07:19:36,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_112639.jpg
+20260423_112809.jpg,2,Pork Shoulder,not fresh,07:21:24,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_112809.jpg
+20260423_113024.jpg,2,Pork Shoulder,not fresh,07:23:13,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_113024.jpg
+20260423_113154.jpg,2,Pork Shoulder,not fresh,07:25:02,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_113154.jpg
+20260423_113325.jpg,2,Pork Shoulder,not fresh,07:26:50,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_113325.jpg
+20260423_113455.jpg,2,Pork Shoulder,not fresh,07:28:39,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_113455.jpg
+20260423_113625.jpg,2,Pork Shoulder,not fresh,07:30:27,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_113625.jpg
+20260423_113755.jpg,2,Pork Shoulder,not fresh,07:32:16,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_113755.jpg
+20260423_114010.jpg,2,Pork Shoulder,not fresh,07:34:04,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_114010.jpg
+20260423_114140.jpg,2,Pork Shoulder,not fresh,07:35:53,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_114140.jpg
+20260423_114311.jpg,2,Pork Shoulder,not fresh,07:37:41,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_114311.jpg
+20260423_114441.jpg,2,Pork Shoulder,not fresh,07:39:30,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_114441.jpg
+20260423_114611.jpg,2,Pork Shoulder,not fresh,07:41:18,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_114611.jpg
+20260423_114826.jpg,2,Pork Shoulder,not fresh,07:43:07,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_114826.jpg
+20260423_114956.jpg,2,Pork Shoulder,not fresh,07:44:55,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_114956.jpg
+20260423_115127.jpg,2,Pork Shoulder,not fresh,07:46:44,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_115127.jpg
+20260423_115257.jpg,2,Pork Shoulder,not fresh,07:48:33,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_115257.jpg
+20260423_115427.jpg,2,Pork Shoulder,not fresh,07:50:21,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_115427.jpg
+20260423_115642.jpg,2,Pork Shoulder,not fresh,07:52:10,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_115642.jpg
+20260423_115812.jpg,2,Pork Shoulder,not fresh,07:53:58,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_115812.jpg
+20260423_115942.jpg,2,Pork Shoulder,not fresh,07:55:47,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_115942.jpg
+20260423_120113.jpg,2,Pork Shoulder,not fresh,07:57:35,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_120113.jpg
+20260423_120243.jpg,2,Pork Shoulder,not fresh,07:59:24,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_120243.jpg
+20260423_120413.jpg,2,Pork Shoulder,not fresh,08:01:12,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_120413.jpg
+20260423_120628.jpg,2,Pork Shoulder,not fresh,08:03:01,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_120628.jpg
+20260423_120758.jpg,2,Pork Shoulder,not fresh,08:04:49,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_120758.jpg
+20260423_120928.jpg,2,Pork Shoulder,not fresh,08:06:38,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_120928.jpg
+20260423_121059.jpg,2,Pork Shoulder,not fresh,08:08:27,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_121059.jpg
+20260423_121229.jpg,2,Pork Shoulder,not fresh,08:10:15,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_121229.jpg
+20260423_121444.jpg,2,Pork Shoulder,not fresh,08:12:04,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_121444.jpg
+20260423_121614.jpg,2,Pork Shoulder,not fresh,08:13:52,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_121614.jpg
+20260423_121745.jpg,2,Pork Shoulder,not fresh,08:15:41,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_121745.jpg
+20260423_121915.jpg,2,Pork Shoulder,not fresh,08:17:29,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_121915.jpg
+20260423_122045.jpg,2,Pork Shoulder,not fresh,08:19:18,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_122045.jpg
+20260423_122300.jpg,2,Pork Shoulder,not fresh,08:21:06,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_122300.jpg
+20260423_122430.jpg,2,Pork Shoulder,not fresh,08:22:55,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_122430.jpg
+20260423_122600.jpg,2,Pork Shoulder,not fresh,08:24:43,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_122600.jpg
+20260423_122731.jpg,2,Pork Shoulder,not fresh,08:26:32,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_122731.jpg
+20260423_122901.jpg,2,Pork Shoulder,not fresh,08:28:21,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_122901.jpg
+20260423_123031.jpg,2,Pork Shoulder,not fresh,08:30:09,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_123031.jpg
+20260423_123246.jpg,2,Pork Shoulder,not fresh,08:31:58,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_123246.jpg
+20260423_123416.jpg,2,Pork Shoulder,not fresh,08:33:46,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_123416.jpg
+20260423_123546.jpg,2,Pork Shoulder,not fresh,08:35:35,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_123546.jpg
+20260423_123717.jpg,2,Pork Shoulder,not fresh,08:37:23,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_123717.jpg
+20260423_123847.jpg,2,Pork Shoulder,not fresh,08:39:12,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_123847.jpg
+20260423_124102.jpg,2,Pork Shoulder,not fresh,08:41:00,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_124102.jpg
+20260423_124232.jpg,2,Pork Shoulder,not fresh,08:42:49,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_124232.jpg
+20260423_124447.jpg,2,Pork Shoulder,not fresh,08:44:37,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_124447.jpg
+20260423_124618.jpg,2,Pork Shoulder,not fresh,08:46:26,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_124618.jpg
+20260423_124748.jpg,2,Pork Shoulder,not fresh,08:48:14,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_124748.jpg
+20260423_124918.jpg,2,Pork Shoulder,not fresh,08:50:03,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_124918.jpg
+20260423_125133.jpg,2,Pork Shoulder,not fresh,08:51:52,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_125133.jpg
+20260423_125304.jpg,2,Pork Shoulder,not fresh,08:53:40,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_125304.jpg
+20260423_125434.jpg,2,Pork Shoulder,not fresh,08:55:29,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_125434.jpg
+20260423_125604.jpg,2,Pork Shoulder,not fresh,08:57:17,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_125604.jpg
+20260423_125734.jpg,2,Pork Shoulder,not fresh,08:59:06,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_125734.jpg
+20260423_125949.jpg,2,Pork Shoulder,not fresh,09:00:54,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_125949.jpg
+20260423_130120.jpg,2,Pork Shoulder,not fresh,09:02:43,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_130120.jpg
+20260423_130250.jpg,2,Pork Shoulder,not fresh,09:04:31,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_130250.jpg
+20260423_130420.jpg,2,Pork Shoulder,not fresh,09:06:20,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_130420.jpg
+20260423_130550.jpg,2,Pork Shoulder,not fresh,09:08:08,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_130550.jpg
+20260423_130805.jpg,2,Pork Shoulder,not fresh,09:09:57,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_130805.jpg
+20260423_130935.jpg,2,Pork Shoulder,not fresh,09:11:46,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_130935.jpg
+20260423_131106.jpg,2,Pork Shoulder,not fresh,09:13:34,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_131106.jpg
+20260423_131235.jpg,2,Pork Shoulder,not fresh,09:15:23,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_131235.jpg
+20260423_131405.jpg,2,Pork Shoulder,not fresh,09:17:11,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_131405.jpg
+20260423_131536.jpg,2,Pork Shoulder,not fresh,09:19:00,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_131536.jpg
+20260423_131751.jpg,2,Pork Shoulder,not fresh,09:20:48,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_131751.jpg
+20260423_131921.jpg,2,Pork Shoulder,not fresh,09:22:37,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_131921.jpg
+20260423_132051.jpg,2,Pork Shoulder,not fresh,09:24:25,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_132051.jpg
+20260423_132222.jpg,2,Pork Shoulder,not fresh,09:26:14,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_132222.jpg
+20260423_132351.jpg,2,Pork Shoulder,not fresh,09:28:02,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_132351.jpg
+20260423_132607.jpg,2,Pork Shoulder,not fresh,09:29:51,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_132607.jpg
+20260423_132737.jpg,2,Pork Shoulder,not fresh,09:31:39,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_132737.jpg
+20260423_132907.jpg,2,Pork Shoulder,not fresh,09:33:28,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_132907.jpg
+20260423_133038.jpg,2,Pork Shoulder,not fresh,09:35:17,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_133038.jpg
+20260423_133207.jpg,2,Pork Shoulder,not fresh,09:37:05,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_133207.jpg
+20260423_133338.jpg,2,Pork Shoulder,not fresh,09:38:54,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_133338.jpg
+20260423_133553.jpg,2,Pork Shoulder,not fresh,09:40:42,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_133553.jpg
+20260423_133723.jpg,2,Pork Shoulder,not fresh,09:42:31,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_133723.jpg
+20260423_133853.jpg,2,Pork Shoulder,not fresh,09:44:19,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_133853.jpg
+20260423_134023.jpg,2,Pork Shoulder,not fresh,09:46:08,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_134023.jpg
+20260423_134154.jpg,2,Pork Shoulder,not fresh,09:47:56,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_134154.jpg
+20260423_134409.jpg,2,Pork Shoulder,not fresh,09:49:45,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_134409.jpg
+20260423_134539.jpg,2,Pork Shoulder,not fresh,09:51:33,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_134539.jpg
+20260423_134709.jpg,2,Pork Shoulder,not fresh,09:53:22,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_134709.jpg
+20260423_134840.jpg,2,Pork Shoulder,not fresh,09:55:11,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_134840.jpg
+20260423_135009.jpg,2,Pork Shoulder,not fresh,09:56:59,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_135009.jpg
+20260423_135225.jpg,2,Pork Shoulder,not fresh,09:58:48,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_135225.jpg
+20260423_135355.jpg,2,Pork Shoulder,not fresh,10:00:36,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_135355.jpg
+20260423_135525.jpg,2,Pork Shoulder,not fresh,10:02:25,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_135525.jpg
+20260423_135655.jpg,2,Pork Shoulder,not fresh,10:04:13,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_135655.jpg
+20260423_135825.jpg,2,Pork Shoulder,not fresh,10:06:02,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_135825.jpg
+20260423_135956.jpg,2,Pork Shoulder,not fresh,10:07:50,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_135956.jpg
+20260423_140211.jpg,2,Pork Shoulder,not fresh,10:09:39,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_140211.jpg
+20260423_140341.jpg,2,Pork Shoulder,not fresh,10:11:27,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_140341.jpg
+20260423_140511.jpg,2,Pork Shoulder,not fresh,10:13:16,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_140511.jpg
+20260423_140641.jpg,2,Pork Shoulder,not fresh,10:15:05,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_140641.jpg
+20260423_140811.jpg,2,Pork Shoulder,not fresh,10:16:53,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_140811.jpg
+20260423_141027.jpg,2,Pork Shoulder,not fresh,10:18:42,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_141027.jpg
+20260423_141157.jpg,2,Pork Shoulder,not fresh,10:20:30,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_141157.jpg
+20260423_141327.jpg,2,Pork Shoulder,not fresh,10:22:19,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_141327.jpg
+20260423_141457.jpg,2,Pork Shoulder,not fresh,10:24:07,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_141457.jpg
+20260423_141627.jpg,2,Pork Shoulder,not fresh,10:25:56,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_141627.jpg
+20260423_141842.jpg,2,Pork Shoulder,not fresh,10:27:44,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_141842.jpg
+20260423_142012.jpg,2,Pork Shoulder,not fresh,10:29:33,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_142012.jpg
+20260423_142228.jpg,2,Pork Shoulder,not fresh,10:31:21,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_142228.jpg
+20260423_142358.jpg,2,Pork Shoulder,not fresh,10:33:10,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_142358.jpg
+20260423_142528.jpg,2,Pork Shoulder,not fresh,10:34:58,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_142528.jpg
+20260423_142658.jpg,2,Pork Shoulder,not fresh,10:36:47,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_142658.jpg
+20260423_150047.jpg,2,Pork Shoulder,not fresh,10:38:36,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_150047.jpg
+20260423_150217.jpg,2,Pork Shoulder,not fresh,10:40:24,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_150217.jpg
+20260423_150347.jpg,2,Pork Shoulder,not fresh,10:42:13,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_150347.jpg
+20260423_150517.jpg,2,Pork Shoulder,not fresh,10:44:01,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_150517.jpg
+20260423_150647.jpg,2,Pork Shoulder,not fresh,10:45:50,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_150647.jpg
+20260423_150903.jpg,2,Pork Shoulder,not fresh,10:47:38,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_150903.jpg
+20260423_151033.jpg,2,Pork Shoulder,not fresh,10:49:27,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_151033.jpg
+20260423_151203.jpg,2,Pork Shoulder,not fresh,10:51:15,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_151203.jpg
+20260423_151333.jpg,2,Pork Shoulder,not fresh,10:53:04,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_151333.jpg
+20260423_151503.jpg,2,Pork Shoulder,not fresh,10:54:52,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_151503.jpg
+20260423_151634.jpg,2,Pork Shoulder,not fresh,10:56:41,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_151634.jpg
+20260423_151849.jpg,2,Pork Shoulder,not fresh,10:58:30,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_151849.jpg
+20260423_152019.jpg,2,Pork Shoulder,not fresh,11:00:18,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_152019.jpg
+20260423_152149.jpg,2,Pork Shoulder,not fresh,11:02:07,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_152149.jpg
+20260423_152319.jpg,2,Pork Shoulder,not fresh,11:03:55,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_152319.jpg
+20260423_152449.jpg,2,Pork Shoulder,not fresh,11:05:44,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_152449.jpg
+20260423_152704.jpg,2,Pork Shoulder,not fresh,11:07:32,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_152704.jpg
+20260423_152835.jpg,2,Pork Shoulder,not fresh,11:09:21,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_152835.jpg
+20260423_153005.jpg,2,Pork Shoulder,not fresh,11:11:09,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_153005.jpg
+20260423_153135.jpg,2,Pork Shoulder,not fresh,11:12:58,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_153135.jpg
+20260423_153305.jpg,2,Pork Shoulder,not fresh,11:14:46,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_153305.jpg
+20260423_153520.jpg,2,Pork Shoulder,not fresh,11:16:35,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_153520.jpg
+20260423_153651.jpg,2,Pork Shoulder,not fresh,11:18:24,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_153651.jpg
+20260423_153821.jpg,2,Pork Shoulder,not fresh,11:20:12,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_153821.jpg
+20260423_153951.jpg,2,Pork Shoulder,not fresh,11:22:01,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_153951.jpg
+20260423_154121.jpg,2,Pork Shoulder,not fresh,11:23:49,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_154121.jpg
+20260423_154251.jpg,2,Pork Shoulder,not fresh,11:25:38,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_154251.jpg
+20260423_154507.jpg,2,Pork Shoulder,not fresh,11:27:26,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_154507.jpg
+20260423_154637.jpg,2,Pork Shoulder,not fresh,11:29:15,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_154637.jpg
+20260423_154807.jpg,2,Pork Shoulder,not fresh,11:31:03,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_154807.jpg
+20260423_154937.jpg,2,Pork Shoulder,not fresh,11:32:52,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_154937.jpg
+20260423_155107.jpg,2,Pork Shoulder,not fresh,11:34:40,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_155107.jpg
+20260423_155322.jpg,2,Pork Shoulder,not fresh,11:36:29,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_155322.jpg
+20260423_155453.jpg,2,Pork Shoulder,not fresh,11:38:17,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_155453.jpg
+20260423_155623.jpg,2,Pork Shoulder,not fresh,11:40:06,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_155623.jpg
+20260423_155753.jpg,2,Pork Shoulder,not fresh,11:41:55,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_155753.jpg
+20260423_155923.jpg,2,Pork Shoulder,not fresh,11:43:43,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_155923.jpg
+20260423_160138.jpg,2,Pork Shoulder,not fresh,11:45:32,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_160138.jpg
+20260423_160308.jpg,2,Pork Shoulder,not fresh,11:47:20,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_160308.jpg
+20260423_160439.jpg,2,Pork Shoulder,not fresh,11:49:09,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_160439.jpg
+20260423_160609.jpg,2,Pork Shoulder,not fresh,11:50:57,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_160609.jpg
+20260423_160739.jpg,2,Pork Shoulder,not fresh,11:52:46,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_160739.jpg
+20260423_160909.jpg,2,Pork Shoulder,not fresh,11:54:34,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_160909.jpg
+20260423_161124.jpg,2,Pork Shoulder,not fresh,11:56:23,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_161124.jpg
+20260423_161255.jpg,2,Pork Shoulder,not fresh,11:58:11,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_161255.jpg
+20260423_161425.jpg,2,Pork Shoulder,not fresh,12:00:00,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Not fresh 6-12 hours\20260423_161425.jpg
+20260423_161510.jpg,2,Pork Shoulder,spoiled,12:00:00,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_161510.jpg
+20260423_162156.jpg,2,Pork Shoulder,spoiled,12:08:27,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_162156.jpg
+20260423_162756.jpg,2,Pork Shoulder,spoiled,12:16:53,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_162756.jpg
+20260423_163442.jpg,2,Pork Shoulder,spoiled,12:25:20,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_163442.jpg
+20260423_164043.jpg,2,Pork Shoulder,spoiled,12:33:46,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_164043.jpg
+20260423_165439.jpg,2,Pork Shoulder,spoiled,12:42:13,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_165439.jpg
+20260423_170039.jpg,2,Pork Shoulder,spoiled,12:50:39,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_170039.jpg
+20260423_170725.jpg,2,Pork Shoulder,spoiled,12:59:06,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_170725.jpg
+20260423_171411.jpg,2,Pork Shoulder,spoiled,13:07:32,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_171411.jpg
+20260423_172012.jpg,2,Pork Shoulder,spoiled,13:15:59,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_172012.jpg
+20260423_172657.jpg,2,Pork Shoulder,spoiled,13:24:25,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_172657.jpg
+20260423_173258.jpg,2,Pork Shoulder,spoiled,13:32:52,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_173258.jpg
+20260423_173943.jpg,2,Pork Shoulder,spoiled,13:41:18,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_173943.jpg
+20260423_174630.jpg,2,Pork Shoulder,spoiled,13:49:45,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_174630.jpg
+20260423_175230.jpg,2,Pork Shoulder,spoiled,13:58:11,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_175230.jpg
+20260423_175916.jpg,2,Pork Shoulder,spoiled,14:06:38,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_175916.jpg
+20260423_180517.jpg,2,Pork Shoulder,spoiled,14:15:05,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_180517.jpg
+20260423_181202.jpg,2,Pork Shoulder,spoiled,14:23:31,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_181202.jpg
+20260423_181803.jpg,2,Pork Shoulder,spoiled,14:31:58,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_181803.jpg
+20260423_182449.jpg,2,Pork Shoulder,spoiled,14:40:24,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_182449.jpg
+20260423_183134.jpg,2,Pork Shoulder,spoiled,14:48:51,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_183134.jpg
+20260423_183735.jpg,2,Pork Shoulder,spoiled,14:57:17,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_183735.jpg
+20260423_184421.jpg,2,Pork Shoulder,spoiled,15:05:44,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_184421.jpg
+20260423_185021.jpg,2,Pork Shoulder,spoiled,15:14:10,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_185021.jpg
+20260423_185707.jpg,2,Pork Shoulder,spoiled,15:22:37,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_185707.jpg
+20260423_190308.jpg,2,Pork Shoulder,spoiled,15:31:03,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_190308.jpg
+20260423_190953.jpg,2,Pork Shoulder,spoiled,15:39:30,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_190953.jpg
+20260423_191639.jpg,2,Pork Shoulder,spoiled,15:47:56,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_191639.jpg
+20260423_192239.jpg,2,Pork Shoulder,spoiled,15:56:23,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_192239.jpg
+20260423_193010.jpg,2,Pork Shoulder,spoiled,16:04:49,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_193010.jpg
+20260423_193611.jpg,2,Pork Shoulder,spoiled,16:13:16,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_193611.jpg
+20260423_194257.jpg,2,Pork Shoulder,spoiled,16:21:43,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_194257.jpg
+20260423_194857.jpg,2,Pork Shoulder,spoiled,16:30:09,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_194857.jpg
+20260423_195543.jpg,2,Pork Shoulder,spoiled,16:38:36,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260423_195543.jpg
+20260424_071159.jpg,2,Pork Shoulder,spoiled,16:47:02,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_071159.jpg
+20260424_071519.jpg,2,Pork Shoulder,spoiled,16:55:29,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_071519.jpg
+20260424_072657.jpg,2,Pork Shoulder,spoiled,17:03:55,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_072657.jpg
+20260424_073017.jpg,2,Pork Shoulder,spoiled,17:12:22,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_073017.jpg
+20260424_073403.jpg,2,Pork Shoulder,spoiled,17:20:48,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_073403.jpg
+20260424_074109.jpg,2,Pork Shoulder,spoiled,17:29:15,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_074109.jpg
+20260424_074431.jpg,2,Pork Shoulder,spoiled,17:37:41,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_074431.jpg
+20260424_074816.jpg,2,Pork Shoulder,spoiled,17:46:08,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_074816.jpg
+20260424_075137.jpg,2,Pork Shoulder,spoiled,17:54:34,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_075137.jpg
+20260424_075522.jpg,2,Pork Shoulder,spoiled,18:03:01,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_075522.jpg
+20260424_075843.jpg,2,Pork Shoulder,spoiled,18:11:27,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_075843.jpg
+20260424_080229.jpg,2,Pork Shoulder,spoiled,18:19:54,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_080229.jpg
+20260424_080614.jpg,2,Pork Shoulder,spoiled,18:28:21,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_080614.jpg
+20260424_080935.jpg,2,Pork Shoulder,spoiled,18:36:47,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_080935.jpg
+20260424_081321.jpg,2,Pork Shoulder,spoiled,18:45:14,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_081321.jpg
+20260424_081641.jpg,2,Pork Shoulder,spoiled,18:53:40,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_081641.jpg
+20260424_082027.jpg,2,Pork Shoulder,spoiled,19:02:07,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_082027.jpg
+20260424_082348.jpg,2,Pork Shoulder,spoiled,19:10:33,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_082348.jpg
+20260424_082734.jpg,2,Pork Shoulder,spoiled,19:19:00,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_082734.jpg
+20260424_083119.jpg,2,Pork Shoulder,spoiled,19:27:26,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_083119.jpg
+20260424_083440.jpg,2,Pork Shoulder,spoiled,19:35:53,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_083440.jpg
+20260424_083825.jpg,2,Pork Shoulder,spoiled,19:44:19,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_083825.jpg
+20260424_084146.jpg,2,Pork Shoulder,spoiled,19:52:46,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_084146.jpg
+20260424_084532.jpg,2,Pork Shoulder,spoiled,20:01:12,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_084532.jpg
+20260424_084918.jpg,2,Pork Shoulder,spoiled,20:09:39,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_084918.jpg
+20260424_085238.jpg,2,Pork Shoulder,spoiled,20:18:05,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_085238.jpg
+20260424_085624.jpg,2,Pork Shoulder,spoiled,20:26:32,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_085624.jpg
+20260424_085945.jpg,2,Pork Shoulder,spoiled,20:34:58,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_085945.jpg
+20260424_090330.jpg,2,Pork Shoulder,spoiled,20:43:25,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_090330.jpg
+20260424_090651.jpg,2,Pork Shoulder,spoiled,20:51:52,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_090651.jpg
+20260424_091037.jpg,2,Pork Shoulder,spoiled,21:00:18,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_091037.jpg
+20260424_091423.jpg,2,Pork Shoulder,spoiled,21:08:45,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_091423.jpg
+20260424_091743.jpg,2,Pork Shoulder,spoiled,21:17:11,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_091743.jpg
+20260424_092129.jpg,2,Pork Shoulder,spoiled,21:25:38,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_092129.jpg
+20260424_092449.jpg,2,Pork Shoulder,spoiled,21:34:04,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_092449.jpg
+20260424_092835.jpg,2,Pork Shoulder,spoiled,21:42:31,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_092835.jpg
+20260424_093156.jpg,2,Pork Shoulder,spoiled,21:50:57,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_093156.jpg
+20260424_093541.jpg,2,Pork Shoulder,spoiled,21:59:24,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_093541.jpg
+20260424_093927.jpg,2,Pork Shoulder,spoiled,22:07:50,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_093927.jpg
+20260424_094248.jpg,2,Pork Shoulder,spoiled,22:16:17,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_094248.jpg
+20260424_094634.jpg,2,Pork Shoulder,spoiled,22:24:43,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_094634.jpg
+20260424_094954.jpg,2,Pork Shoulder,spoiled,22:33:10,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_094954.jpg
+20260424_095340.jpg,2,Pork Shoulder,spoiled,22:41:36,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_095340.jpg
+20260424_095701.jpg,2,Pork Shoulder,spoiled,22:50:03,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_095701.jpg
+20260424_100046.jpg,2,Pork Shoulder,spoiled,22:58:30,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_100046.jpg
+20260424_100432.jpg,2,Pork Shoulder,spoiled,23:06:56,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_100432.jpg
+20260424_100753.jpg,2,Pork Shoulder,spoiled,23:15:23,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_100753.jpg
+20260424_101139.jpg,2,Pork Shoulder,spoiled,23:23:49,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_101139.jpg
+20260424_101459.jpg,2,Pork Shoulder,spoiled,23:32:16,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_101459.jpg
+20260424_101845.jpg,2,Pork Shoulder,spoiled,23:40:42,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_101845.jpg
+20260424_102231.jpg,2,Pork Shoulder,spoiled,23:49:09,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_102231.jpg
+20260424_102551.jpg,2,Pork Shoulder,spoiled,23:57:35,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_102551.jpg
+20260424_102937.jpg,2,Pork Shoulder,spoiled,24:06:02,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_102937.jpg
+20260424_103258.jpg,2,Pork Shoulder,spoiled,24:14:28,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_103258.jpg
+20260424_103644.jpg,2,Pork Shoulder,spoiled,24:22:55,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_103644.jpg
+20260424_104004.jpg,2,Pork Shoulder,spoiled,24:31:21,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_104004.jpg
+20260424_104350.jpg,2,Pork Shoulder,spoiled,24:39:48,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_104350.jpg
+20260424_104736.jpg,2,Pork Shoulder,spoiled,24:48:14,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_104736.jpg
+20260424_105056.jpg,2,Pork Shoulder,spoiled,24:56:41,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_105056.jpg
+20260424_105442.jpg,2,Pork Shoulder,spoiled,25:05:08,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_105442.jpg
+20260424_105803.jpg,2,Pork Shoulder,spoiled,25:13:34,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_105803.jpg
+20260424_110148.jpg,2,Pork Shoulder,spoiled,25:22:01,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_110148.jpg
+20260424_110509.jpg,2,Pork Shoulder,spoiled,25:30:27,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_110509.jpg
+20260424_110855.jpg,2,Pork Shoulder,spoiled,25:38:54,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_110855.jpg
+20260424_111240.jpg,2,Pork Shoulder,spoiled,25:47:20,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_111240.jpg
+20260424_111601.jpg,2,Pork Shoulder,spoiled,25:55:47,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_111601.jpg
+20260424_111947.jpg,2,Pork Shoulder,spoiled,26:04:13,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_111947.jpg
+20260424_112307.jpg,2,Pork Shoulder,spoiled,26:12:40,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_112307.jpg
+20260424_112653.jpg,2,Pork Shoulder,spoiled,26:21:06,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_112653.jpg
+20260424_113039.jpg,2,Pork Shoulder,spoiled,26:29:33,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_113039.jpg
+20260424_113400.jpg,2,Pork Shoulder,spoiled,26:37:59,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_113400.jpg
+20260424_113745.jpg,2,Pork Shoulder,spoiled,26:46:26,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_113745.jpg
+20260424_114106.jpg,2,Pork Shoulder,spoiled,26:54:52,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_114106.jpg
+20260424_114452.jpg,2,Pork Shoulder,spoiled,27:03:19,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_114452.jpg
+20260424_114812.jpg,2,Pork Shoulder,spoiled,27:11:46,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_114812.jpg
+20260424_115158.jpg,2,Pork Shoulder,spoiled,27:20:12,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_115158.jpg
+20260424_115544.jpg,2,Pork Shoulder,spoiled,27:28:39,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_115544.jpg
+20260424_115904.jpg,2,Pork Shoulder,spoiled,27:37:05,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_115904.jpg
+20260424_120250.jpg,2,Pork Shoulder,spoiled,27:45:32,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_120250.jpg
+20260424_120611.jpg,2,Pork Shoulder,spoiled,27:53:58,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_120611.jpg
+20260424_120956.jpg,2,Pork Shoulder,spoiled,28:02:25,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_120956.jpg
+20260424_121317.jpg,2,Pork Shoulder,spoiled,28:10:51,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_121317.jpg
+20260424_121703.jpg,2,Pork Shoulder,spoiled,28:19:18,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_121703.jpg
+20260424_122049.jpg,2,Pork Shoulder,spoiled,28:27:44,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_122049.jpg
+20260424_122409.jpg,2,Pork Shoulder,spoiled,28:36:11,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_122409.jpg
+20260424_122755.jpg,2,Pork Shoulder,spoiled,28:44:37,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_122755.jpg
+20260424_123116.jpg,2,Pork Shoulder,spoiled,28:53:04,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_123116.jpg
+20260424_123501.jpg,2,Pork Shoulder,spoiled,29:01:30,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_123501.jpg
+20260424_123847.jpg,2,Pork Shoulder,spoiled,29:09:57,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_123847.jpg
+20260424_124208.jpg,2,Pork Shoulder,spoiled,29:18:24,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_124208.jpg
+20260424_124553.jpg,2,Pork Shoulder,spoiled,29:26:50,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_124553.jpg
+20260424_124914.jpg,2,Pork Shoulder,spoiled,29:35:17,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_124914.jpg
+20260424_125300.jpg,2,Pork Shoulder,spoiled,29:43:43,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_125300.jpg
+20260424_125620.jpg,2,Pork Shoulder,spoiled,29:52:10,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_125620.jpg
+20260424_130006.jpg,2,Pork Shoulder,spoiled,30:00:36,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_130006.jpg
+20260424_130352.jpg,2,Pork Shoulder,spoiled,30:09:03,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_130352.jpg
+20260424_130712.jpg,2,Pork Shoulder,spoiled,30:17:29,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_130712.jpg
+20260424_131058.jpg,2,Pork Shoulder,spoiled,30:25:56,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_131058.jpg
+20260424_131419.jpg,2,Pork Shoulder,spoiled,30:34:22,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_131419.jpg
+20260424_131805.jpg,2,Pork Shoulder,spoiled,30:42:49,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_131805.jpg
+20260424_132125.jpg,2,Pork Shoulder,spoiled,30:51:15,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_132125.jpg
+20260424_132511.jpg,2,Pork Shoulder,spoiled,30:59:42,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_132511.jpg
+20260424_132857.jpg,2,Pork Shoulder,spoiled,31:08:08,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_132857.jpg
+20260424_133217.jpg,2,Pork Shoulder,spoiled,31:16:35,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_133217.jpg
+20260424_133603.jpg,2,Pork Shoulder,spoiled,31:25:02,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_133603.jpg
+20260424_133924.jpg,2,Pork Shoulder,spoiled,31:33:28,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_133924.jpg
+20260424_134309.jpg,2,Pork Shoulder,spoiled,31:41:55,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_134309.jpg
+20260424_134630.jpg,2,Pork Shoulder,spoiled,31:50:21,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_134630.jpg
+20260424_135016.jpg,2,Pork Shoulder,spoiled,31:58:48,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_135016.jpg
+20260424_135402.jpg,2,Pork Shoulder,spoiled,32:07:14,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_135402.jpg
+20260424_135722.jpg,2,Pork Shoulder,spoiled,32:15:41,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_135722.jpg
+20260424_140108.jpg,2,Pork Shoulder,spoiled,32:24:07,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_140108.jpg
+20260424_140428.jpg,2,Pork Shoulder,spoiled,32:32:34,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_140428.jpg
+20260424_140814.jpg,2,Pork Shoulder,spoiled,32:41:00,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_140814.jpg
+20260424_141200.jpg,2,Pork Shoulder,spoiled,32:49:27,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_141200.jpg
+20260424_141521.jpg,2,Pork Shoulder,spoiled,32:57:53,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_141521.jpg
+20260424_141906.jpg,2,Pork Shoulder,spoiled,33:06:20,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_141906.jpg
+20260424_142227.jpg,2,Pork Shoulder,spoiled,33:14:46,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_142227.jpg
+20260424_142613.jpg,2,Pork Shoulder,spoiled,33:23:13,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_142613.jpg
+20260424_142933.jpg,2,Pork Shoulder,spoiled,33:31:39,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_142933.jpg
+20260424_143319.jpg,2,Pork Shoulder,spoiled,33:40:06,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_143319.jpg
+20260424_143705.jpg,2,Pork Shoulder,spoiled,33:48:33,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_143705.jpg
+20260424_144026.jpg,2,Pork Shoulder,spoiled,33:56:59,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_144026.jpg
+20260424_144411.jpg,2,Pork Shoulder,spoiled,34:05:26,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_144411.jpg
+20260424_144732.jpg,2,Pork Shoulder,spoiled,34:13:52,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_144732.jpg
+20260424_145118.jpg,2,Pork Shoulder,spoiled,34:22:19,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_145118.jpg
+20260424_145438.jpg,2,Pork Shoulder,spoiled,34:30:45,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_145438.jpg
+20260424_145824.jpg,2,Pork Shoulder,spoiled,34:39:12,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_145824.jpg
+20260424_150210.jpg,2,Pork Shoulder,spoiled,34:47:38,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_150210.jpg
+20260424_150530.jpg,2,Pork Shoulder,spoiled,34:56:05,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_150530.jpg
+20260424_150916.jpg,2,Pork Shoulder,spoiled,35:04:31,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_150916.jpg
+20260424_151237.jpg,2,Pork Shoulder,spoiled,35:12:58,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_151237.jpg
+20260424_151623.jpg,2,Pork Shoulder,spoiled,35:21:24,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_151623.jpg
+20260424_152008.jpg,2,Pork Shoulder,spoiled,35:29:51,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_152008.jpg
+20260424_152329.jpg,2,Pork Shoulder,spoiled,35:38:17,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_152329.jpg
+20260424_152715.jpg,2,Pork Shoulder,spoiled,35:46:44,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_152715.jpg
+20260424_153035.jpg,2,Pork Shoulder,spoiled,35:55:11,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_153035.jpg
+20260424_153421.jpg,2,Pork Shoulder,spoiled,36:03:37,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_153421.jpg
+20260424_153742.jpg,2,Pork Shoulder,spoiled,36:12:04,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_153742.jpg
+20260424_154127.jpg,2,Pork Shoulder,spoiled,36:20:30,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_154127.jpg
+20260424_154513.jpg,2,Pork Shoulder,spoiled,36:28:57,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_154513.jpg
+20260424_154834.jpg,2,Pork Shoulder,spoiled,36:37:23,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_154834.jpg
+20260424_155220.jpg,2,Pork Shoulder,spoiled,36:45:50,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_155220.jpg
+20260424_155540.jpg,2,Pork Shoulder,spoiled,36:54:16,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_155540.jpg
+20260424_155926.jpg,2,Pork Shoulder,spoiled,37:02:43,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_155926.jpg
+20260424_160247.jpg,2,Pork Shoulder,spoiled,37:11:09,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_160247.jpg
+20260424_160632.jpg,2,Pork Shoulder,spoiled,37:19:36,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_160632.jpg
+20260424_161018.jpg,2,Pork Shoulder,spoiled,37:28:02,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_161018.jpg
+20260424_161339.jpg,2,Pork Shoulder,spoiled,37:36:29,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_161339.jpg
+20260424_161724.jpg,2,Pork Shoulder,spoiled,37:44:55,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_161724.jpg
+20260424_162045.jpg,2,Pork Shoulder,spoiled,37:53:22,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_162045.jpg
+20260424_162431.jpg,2,Pork Shoulder,spoiled,38:01:49,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_162431.jpg
+20260424_162751.jpg,2,Pork Shoulder,spoiled,38:10:15,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_162751.jpg
+20260424_163137.jpg,2,Pork Shoulder,spoiled,38:18:42,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_163137.jpg
+20260424_163523.jpg,2,Pork Shoulder,spoiled,38:27:08,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_163523.jpg
+20260424_163844.jpg,2,Pork Shoulder,spoiled,38:35:35,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_163844.jpg
+20260424_164229.jpg,2,Pork Shoulder,spoiled,38:44:01,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_164229.jpg
+20260424_164550.jpg,2,Pork Shoulder,spoiled,38:52:28,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_164550.jpg
+20260424_164936.jpg,2,Pork Shoulder,spoiled,39:00:54,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_164936.jpg
+20260424_165322.jpg,2,Pork Shoulder,spoiled,39:09:21,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_165322.jpg
+20260424_165642.jpg,2,Pork Shoulder,spoiled,39:17:47,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_165642.jpg
+20260424_170028.jpg,2,Pork Shoulder,spoiled,39:26:14,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_170028.jpg
+20260424_170349.jpg,2,Pork Shoulder,spoiled,39:34:40,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_170349.jpg
+20260424_170734.jpg,2,Pork Shoulder,spoiled,39:43:07,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_170734.jpg
+20260424_171055.jpg,2,Pork Shoulder,spoiled,39:51:33,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_171055.jpg
+20260424_171441.jpg,2,Pork Shoulder,spoiled,40:00:00,E:\Thesis Code\interval sampled\Pork Shoulder - sample 2\Spoiled level 1 12-40 hours\20260424_171441.jpg

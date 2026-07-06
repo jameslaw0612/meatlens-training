@@ -1,0 +1,6 @@
+true_transition_zone,clear_fresh,borderline_fresh_not_fresh,clear_not_fresh,borderline_not_fresh_spoiled,clear_spoiled
+clear_fresh,1194,991,50,641,304
+borderline_fresh_not_fresh,514,832,178,622,119
+clear_not_fresh,275,555,328,1088,154
+borderline_not_fresh_spoiled,312,491,301,623,673
+clear_spoiled,247,7,325,1001,2020

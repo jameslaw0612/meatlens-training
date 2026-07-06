@@ -1,0 +1,8 @@
+timestamp,fold_name,seed,model_input_mode,image_crop_mode,error
+2026-05-11T22:44:00.384836,fold3,42,cnn_plus_color_texture,preprocessed_segmented_roi_224,InternalError()
+2026-05-11T22:44:36.673529,fold3,123,cnn_plus_color_texture,preprocessed_segmented_roi_224,InternalError()
+2026-05-11T22:45:12.859943,fold3,2026,cnn_plus_color_texture,preprocessed_segmented_roi_224,InternalError()
+2026-05-11T22:53:39.947376,fold4,123,cnn_plus_color_texture,preprocessed_segmented_roi_224,InternalError()
+2026-05-11T22:54:17.471637,fold4,2026,cnn_plus_color_texture,preprocessed_segmented_roi_224,InternalError()
+2026-05-11T23:02:24.665281,fold5,123,cnn_plus_color_texture,preprocessed_segmented_roi_224,InternalError()
+2026-05-11T23:03:00.703648,fold5,2026,cnn_plus_color_texture,preprocessed_segmented_roi_224,InternalError()

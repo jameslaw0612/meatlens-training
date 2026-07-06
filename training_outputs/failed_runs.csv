@@ -1,0 +1,7 @@
+split_mode,split_name,backbone,seed,error
+cross_rotation,fold3,EfficientNetB0,42,"TypeError(""Unable to serialize [2.0896919 2.1128857 2.1081853] to JSON. Unrecognized type <class 'tensorflow.python.framework.ops.EagerTensor'>."")"
+cross_rotation,fold3,EfficientNetB0,123,"TypeError(""Unable to serialize [2.0896919 2.1128857 2.1081853] to JSON. Unrecognized type <class 'tensorflow.python.framework.ops.EagerTensor'>."")"
+cross_rotation,fold3,EfficientNetB0,2026,"TypeError(""Unable to serialize [2.0896919 2.1128857 2.1081853] to JSON. Unrecognized type <class 'tensorflow.python.framework.ops.EagerTensor'>."")"
+cross_rotation,fold4,EfficientNetB0,42,"TypeError(""Unable to serialize [2.0896919 2.1128857 2.1081853] to JSON. Unrecognized type <class 'tensorflow.python.framework.ops.EagerTensor'>."")"
+cross_rotation,fold4,EfficientNetB0,123,"TypeError(""Unable to serialize [2.0896919 2.1128857 2.1081853] to JSON. Unrecognized type <class 'tensorflow.python.framework.ops.EagerTensor'>."")"
+cross_rotation,fold4,EfficientNetB0,2026,"TypeError(""Unable to serialize [2.0896919 2.1128857 2.1081853] to JSON. Unrecognized type <class 'tensorflow.python.framework.ops.EagerTensor'>."")"

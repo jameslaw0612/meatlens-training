@@ -1,0 +1,5 @@
+method,number_of_images,failed_count,mean_mask_area_ratio,std_mask_area_ratio,mean_center_overlap_ratio,failed_rate,preferred_method_candidate
+grabcut_center_rectangle,12,1,0.3713661245748299,0.15013978568778746,0.8313536352040817,0.08333333333333333,False
+hsv_lab_rgb_threshold,12,0,0.5599456579506802,0.1444112425541277,0.9007427189625851,0.0,False
+hsv_lab_threshold,12,0,0.569236288265306,0.14756981358067484,0.9111859587585034,0.0,True
+threshold_plus_grabcut_refinement,12,0,0.5161448368409863,0.13899799268414784,0.89523543792517,0.0,False

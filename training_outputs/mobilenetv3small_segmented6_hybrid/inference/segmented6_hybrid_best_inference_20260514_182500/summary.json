@@ -1,0 +1,23 @@
+{
+  "timestamp": "20260514_182500",
+  "model_path": "e:\\Thesis Code\\training_outputs\\mobilenetv3small_segmented6_hybrid\\models\\meatlens_best_segmented6_hybrid_mobilenetv3small.h5",
+  "metadata_path": "e:\\Thesis Code\\training_outputs\\mobilenetv3small_segmented6_hybrid\\models\\meatlens_best_segmented6_hybrid_mobilenetv3small_metadata.json",
+  "source_folder": "e:\\Thesis Code\\training_outputs\\mobilenetv3small_segmented6_hybrid\\inference\\uploaded_zips\\zip_20260514_182500\\extracted",
+  "run_dir": "e:\\Thesis Code\\training_outputs\\mobilenetv3small_segmented6_hybrid\\inference\\segmented6_hybrid_best_inference_20260514_182500",
+  "processed_dir": "e:\\Thesis Code\\training_outputs\\mobilenetv3small_segmented6_hybrid\\inference\\segmented6_hybrid_best_inference_20260514_182500\\processed_segmented_roi",
+  "background_mode": "gray",
+  "best_fold": "fold5",
+  "best_seed": 42,
+  "total_images": 4,
+  "successful_predictions": 4,
+  "failed_predictions": 0,
+  "segmentation_failed_count": 1,
+  "mean_top_confidence": 0.9973595000000001,
+  "mean_freshness_score": 99.80000000000001,
+  "class_counts": {
+    "fresh": 4
+  },
+  "freshness_band_counts": {
+    "Good for Consumption": 4
+  }
+}

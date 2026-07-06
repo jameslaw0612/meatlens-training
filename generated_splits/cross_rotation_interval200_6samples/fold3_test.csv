@@ -1,0 +1,519 @@
+image_file_name,sample_number,meat_part,label,time_frame,file_destination,sample_id,pork_cut,split_type,fold,source
+20260429_042402.jpg,3,Pork Belly,fresh,00:00:00,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_042402.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_042501.jpg,3,Pork Belly,fresh,00:04:06,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_042501.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_042601.jpg,3,Pork Belly,fresh,00:08:12,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_042601.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_042701.jpg,3,Pork Belly,fresh,00:12:18,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_042701.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_042801.jpg,3,Pork Belly,fresh,00:16:25,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_042801.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_042901.jpg,3,Pork Belly,fresh,00:20:31,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_042901.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_043001.jpg,3,Pork Belly,fresh,00:24:37,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_043001.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_043101.jpg,3,Pork Belly,fresh,00:28:43,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_043101.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_043201.jpg,3,Pork Belly,fresh,00:32:49,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_043201.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_043302.jpg,3,Pork Belly,fresh,00:36:55,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_043302.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_043402.jpg,3,Pork Belly,fresh,00:41:02,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_043402.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_043501.jpg,3,Pork Belly,fresh,00:45:08,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_043501.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_043601.jpg,3,Pork Belly,fresh,00:49:14,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_043601.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_043701.jpg,3,Pork Belly,fresh,00:53:20,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_043701.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_043801.jpg,3,Pork Belly,fresh,00:57:26,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_043801.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_043901.jpg,3,Pork Belly,fresh,01:01:32,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_043901.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_044001.jpg,3,Pork Belly,fresh,01:05:38,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_044001.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_044101.jpg,3,Pork Belly,fresh,01:09:45,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_044101.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_044201.jpg,3,Pork Belly,fresh,01:13:51,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_044201.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_044301.jpg,3,Pork Belly,fresh,01:17:57,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_044301.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_044401.jpg,3,Pork Belly,fresh,01:22:03,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_044401.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_044501.jpg,3,Pork Belly,fresh,01:26:09,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_044501.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_044601.jpg,3,Pork Belly,fresh,01:30:15,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_044601.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_044701.jpg,3,Pork Belly,fresh,01:34:22,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_044701.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_044801.jpg,3,Pork Belly,fresh,01:38:28,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_044801.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_044902.jpg,3,Pork Belly,fresh,01:42:34,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_044902.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_045003.jpg,3,Pork Belly,fresh,01:46:40,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_045003.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_114047.jpg,3,Pork Belly,fresh,01:50:46,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_114047.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_114147.jpg,3,Pork Belly,fresh,01:54:52,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_114147.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_114246.jpg,3,Pork Belly,fresh,01:58:58,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_114246.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_114346.jpg,3,Pork Belly,fresh,02:03:05,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_114346.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_114446.jpg,3,Pork Belly,fresh,02:07:11,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_114446.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_114546.jpg,3,Pork Belly,fresh,02:11:17,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_114546.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_114646.jpg,3,Pork Belly,fresh,02:15:23,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_114646.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_114747.jpg,3,Pork Belly,fresh,02:19:29,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_114747.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_114847.jpg,3,Pork Belly,fresh,02:23:35,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_114847.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_114947.jpg,3,Pork Belly,fresh,02:27:42,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_114947.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_115047.jpg,3,Pork Belly,fresh,02:31:48,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_115047.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_115147.jpg,3,Pork Belly,fresh,02:35:54,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_115147.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_115247.jpg,3,Pork Belly,fresh,02:40:00,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_115247.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_115347.jpg,3,Pork Belly,fresh,02:44:06,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_115347.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_115447.jpg,3,Pork Belly,fresh,02:48:12,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_115447.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_115547.jpg,3,Pork Belly,fresh,02:52:18,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_115547.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_115647.jpg,3,Pork Belly,fresh,02:56:25,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_115647.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_115747.jpg,3,Pork Belly,fresh,03:00:31,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_115747.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_115847.jpg,3,Pork Belly,fresh,03:04:37,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_115847.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_115947.jpg,3,Pork Belly,fresh,03:08:43,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_115947.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_120047.jpg,3,Pork Belly,fresh,03:12:49,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_120047.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_120147.jpg,3,Pork Belly,fresh,03:16:55,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_120147.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_120247.jpg,3,Pork Belly,fresh,03:21:02,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_120247.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_045100.jpg,3,Pork Belly,fresh,03:25:08,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_045100.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_045300.jpg,3,Pork Belly,fresh,03:29:14,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_045300.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_045500.jpg,3,Pork Belly,fresh,03:33:20,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_045500.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_045700.jpg,3,Pork Belly,fresh,03:37:26,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_045700.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_045900.jpg,3,Pork Belly,fresh,03:41:32,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_045900.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_050100.jpg,3,Pork Belly,fresh,03:45:38,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_050100.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_050300.jpg,3,Pork Belly,fresh,03:49:45,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_050300.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_050500.jpg,3,Pork Belly,fresh,03:53:51,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_050500.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_050700.jpg,3,Pork Belly,fresh,03:57:57,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_050700.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_050900.jpg,3,Pork Belly,fresh,04:02:03,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_050900.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_051100.jpg,3,Pork Belly,fresh,04:06:09,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_051100.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_051300.jpg,3,Pork Belly,fresh,04:10:15,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_051300.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_051500.jpg,3,Pork Belly,fresh,04:14:22,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_051500.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_051700.jpg,3,Pork Belly,fresh,04:18:28,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_051700.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_051900.jpg,3,Pork Belly,fresh,04:22:34,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_051900.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_052100.jpg,3,Pork Belly,fresh,04:26:40,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_052100.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_052300.jpg,3,Pork Belly,fresh,04:30:46,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_052300.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_052500.jpg,3,Pork Belly,fresh,04:34:52,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_052500.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_052700.jpg,3,Pork Belly,fresh,04:38:58,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_052700.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_052900.jpg,3,Pork Belly,fresh,04:43:05,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_052900.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_053301.jpg,3,Pork Belly,fresh,04:47:11,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_053301.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_053301.png,3,Pork Belly,fresh,04:51:17,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_053301.png,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_053500.jpg,3,Pork Belly,fresh,04:55:23,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_053500.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_053900.jpg,3,Pork Belly,fresh,04:59:29,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_053900.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_053900.png,3,Pork Belly,fresh,05:03:35,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_053900.png,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_054100.jpg,3,Pork Belly,fresh,05:07:42,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_054100.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_054300.jpg,3,Pork Belly,fresh,05:11:48,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_054300.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_054500.jpg,3,Pork Belly,fresh,05:15:54,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_054500.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_054700.jpg,3,Pork Belly,fresh,05:20:00,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_054700.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_054900.jpg,3,Pork Belly,fresh,05:24:06,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_054900.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_055100.jpg,3,Pork Belly,fresh,05:28:12,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_055100.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_055301.jpg,3,Pork Belly,fresh,05:32:18,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_055301.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_055501.jpg,3,Pork Belly,fresh,05:36:25,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_055501.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_055701.jpg,3,Pork Belly,fresh,05:40:31,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_055701.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_055901.jpg,3,Pork Belly,fresh,05:44:37,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_055901.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_060101.jpg,3,Pork Belly,fresh,05:48:43,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_060101.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_060301.jpg,3,Pork Belly,fresh,05:52:49,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_060301.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_060501.jpg,3,Pork Belly,fresh,05:56:55,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_060501.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_060701.jpg,3,Pork Belly,fresh,06:01:02,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_060701.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_060901.jpg,3,Pork Belly,fresh,06:05:08,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_060901.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_061101.jpg,3,Pork Belly,fresh,06:09:14,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_061101.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_061301.jpg,3,Pork Belly,fresh,06:13:20,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_061301.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_061501.jpg,3,Pork Belly,fresh,06:17:26,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_061501.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_061701.jpg,3,Pork Belly,fresh,06:21:32,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_061701.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_061901.jpg,3,Pork Belly,fresh,06:25:38,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_061901.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_062301.jpg,3,Pork Belly,fresh,06:29:45,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_062301.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_062501.jpg,3,Pork Belly,fresh,06:33:51,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_062501.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_062701.jpg,3,Pork Belly,fresh,06:37:57,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_062701.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_062901.jpg,3,Pork Belly,fresh,06:42:03,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_062901.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_063101.jpg,3,Pork Belly,fresh,06:46:09,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_063101.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_063301.jpg,3,Pork Belly,fresh,06:50:15,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_063301.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_063501.jpg,3,Pork Belly,fresh,06:54:22,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_063501.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_063701.jpg,3,Pork Belly,fresh,06:58:28,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_063701.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_063901.jpg,3,Pork Belly,fresh,07:02:34,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_063901.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_064101.jpg,3,Pork Belly,fresh,07:06:40,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_064101.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_064301.jpg,3,Pork Belly,fresh,07:10:46,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_064301.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_064501.jpg,3,Pork Belly,fresh,07:14:52,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_064501.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_064701.jpg,3,Pork Belly,fresh,07:18:58,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_064701.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_064901.jpg,3,Pork Belly,fresh,07:23:05,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_064901.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_065101.jpg,3,Pork Belly,fresh,07:27:11,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_065101.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_065301.jpg,3,Pork Belly,fresh,07:31:17,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_065301.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_065501.jpg,3,Pork Belly,fresh,07:35:23,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_065501.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_065702.jpg,3,Pork Belly,fresh,07:39:29,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_065702.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_065902.jpg,3,Pork Belly,fresh,07:43:35,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_065902.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_070101.jpg,3,Pork Belly,fresh,07:47:42,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_070101.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_070301.jpg,3,Pork Belly,fresh,07:51:48,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_070301.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_070502.jpg,3,Pork Belly,fresh,07:55:54,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_070502.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_070702.jpg,3,Pork Belly,fresh,08:00:00,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\fresh\20260429_070702.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_120347.jpg,3,Pork Belly,not fresh,08:00:00,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_120347.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_120547.jpg,3,Pork Belly,not fresh,08:02:25,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_120547.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_120847.jpg,3,Pork Belly,not fresh,08:04:49,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_120847.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_121047.jpg,3,Pork Belly,not fresh,08:07:14,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_121047.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_121347.jpg,3,Pork Belly,not fresh,08:09:39,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_121347.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_121547.jpg,3,Pork Belly,not fresh,08:12:04,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_121547.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_121747.jpg,3,Pork Belly,not fresh,08:14:28,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_121747.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_122047.jpg,3,Pork Belly,not fresh,08:16:53,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_122047.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_122247.jpg,3,Pork Belly,not fresh,08:19:18,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_122247.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_122547.jpg,3,Pork Belly,not fresh,08:21:43,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_122547.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_122747.jpg,3,Pork Belly,not fresh,08:24:07,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_122747.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_122947.jpg,3,Pork Belly,not fresh,08:26:32,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_122947.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_123247.jpg,3,Pork Belly,not fresh,08:28:57,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_123247.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_123447.jpg,3,Pork Belly,not fresh,08:31:21,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_123447.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_123747.jpg,3,Pork Belly,not fresh,08:33:46,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_123747.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_124121.jpg,3,Pork Belly,not fresh,08:36:11,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_124121.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_124321.jpg,3,Pork Belly,not fresh,08:38:36,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_124321.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_124621.jpg,3,Pork Belly,not fresh,08:41:00,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_124621.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_124821.jpg,3,Pork Belly,not fresh,08:43:25,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_124821.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_125121.jpg,3,Pork Belly,not fresh,08:45:50,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_125121.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_125321.jpg,3,Pork Belly,not fresh,08:48:14,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_125321.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_125521.jpg,3,Pork Belly,not fresh,08:50:39,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_125521.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_125821.jpg,3,Pork Belly,not fresh,08:53:04,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_125821.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_130021.jpg,3,Pork Belly,not fresh,08:55:29,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_130021.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_130321.jpg,3,Pork Belly,not fresh,08:57:53,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_130321.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_130521.jpg,3,Pork Belly,not fresh,09:00:18,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_130521.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_130721.jpg,3,Pork Belly,not fresh,09:02:43,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_130721.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_131021.jpg,3,Pork Belly,not fresh,09:05:08,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_131021.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_131221.jpg,3,Pork Belly,not fresh,09:07:32,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_131221.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_131521.jpg,3,Pork Belly,not fresh,09:09:57,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_131521.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_131721.jpg,3,Pork Belly,not fresh,09:12:22,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_131721.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_131921.jpg,3,Pork Belly,not fresh,09:14:46,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_131921.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_132221.jpg,3,Pork Belly,not fresh,09:17:11,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_132221.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_132421.jpg,3,Pork Belly,not fresh,09:19:36,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_132421.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_132721.jpg,3,Pork Belly,not fresh,09:22:01,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_132721.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_132921.jpg,3,Pork Belly,not fresh,09:24:25,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_132921.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_133121.jpg,3,Pork Belly,not fresh,09:26:50,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_133121.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_133421.jpg,3,Pork Belly,not fresh,09:29:15,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_133421.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_133621.jpg,3,Pork Belly,not fresh,09:31:39,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_133621.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_133921.jpg,3,Pork Belly,not fresh,09:34:04,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_133921.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_134121.jpg,3,Pork Belly,not fresh,09:36:29,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_134121.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_134321.jpg,3,Pork Belly,not fresh,09:38:54,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_134321.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_134621.jpg,3,Pork Belly,not fresh,09:41:18,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_134621.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_134821.jpg,3,Pork Belly,not fresh,09:43:43,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_134821.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_135121.jpg,3,Pork Belly,not fresh,09:46:08,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_135121.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_135321.jpg,3,Pork Belly,not fresh,09:48:33,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_135321.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_135521.jpg,3,Pork Belly,not fresh,09:50:57,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_135521.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_135821.jpg,3,Pork Belly,not fresh,09:53:22,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_135821.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_140021.jpg,3,Pork Belly,not fresh,09:55:47,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_140021.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_140321.jpg,3,Pork Belly,not fresh,09:58:11,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_140321.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_140521.jpg,3,Pork Belly,not fresh,10:00:36,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_140521.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_140822.jpg,3,Pork Belly,not fresh,10:03:01,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_140822.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_141021.jpg,3,Pork Belly,not fresh,10:05:26,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_141021.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_141221.jpg,3,Pork Belly,not fresh,10:07:50,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_141221.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_141521.jpg,3,Pork Belly,not fresh,10:10:15,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_141521.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_141721.jpg,3,Pork Belly,not fresh,10:12:40,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_141721.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_142021.jpg,3,Pork Belly,not fresh,10:15:05,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_142021.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_142221.jpg,3,Pork Belly,not fresh,10:17:29,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_142221.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_142421.jpg,3,Pork Belly,not fresh,10:19:54,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_142421.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_142722.jpg,3,Pork Belly,not fresh,10:22:19,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_142722.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_142921.jpg,3,Pork Belly,not fresh,10:24:43,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_142921.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_143221.jpg,3,Pork Belly,not fresh,10:27:08,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_143221.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_143421.jpg,3,Pork Belly,not fresh,10:29:33,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_143421.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_143622.jpg,3,Pork Belly,not fresh,10:31:58,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_143622.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_143921.jpg,3,Pork Belly,not fresh,10:34:22,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_143921.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_144122.jpg,3,Pork Belly,not fresh,10:36:47,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_144122.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_144421.jpg,3,Pork Belly,not fresh,10:39:12,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_144421.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_144621.jpg,3,Pork Belly,not fresh,10:41:36,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_144621.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_144821.jpg,3,Pork Belly,not fresh,10:44:01,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_144821.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_145122.jpg,3,Pork Belly,not fresh,10:46:26,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_145122.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_145322.jpg,3,Pork Belly,not fresh,10:48:51,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_145322.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_145622.jpg,3,Pork Belly,not fresh,10:51:15,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_145622.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_145822.jpg,3,Pork Belly,not fresh,10:53:40,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_145822.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_150022.jpg,3,Pork Belly,not fresh,10:56:05,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_150022.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_150322.jpg,3,Pork Belly,not fresh,10:58:30,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_150322.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_150522.jpg,3,Pork Belly,not fresh,11:00:54,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_150522.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_150822.jpg,3,Pork Belly,not fresh,11:03:19,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_150822.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_151022.jpg,3,Pork Belly,not fresh,11:05:44,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_151022.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_151222.jpg,3,Pork Belly,not fresh,11:08:08,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_151222.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_151522.jpg,3,Pork Belly,not fresh,11:10:33,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_151522.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_151722.jpg,3,Pork Belly,not fresh,11:12:58,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_151722.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_152022.jpg,3,Pork Belly,not fresh,11:15:23,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_152022.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_152222.jpg,3,Pork Belly,not fresh,11:17:47,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_152222.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_152422.jpg,3,Pork Belly,not fresh,11:20:12,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_152422.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_152722.jpg,3,Pork Belly,not fresh,11:22:37,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_152722.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_152923.jpg,3,Pork Belly,not fresh,11:25:02,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_152923.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_153223.jpg,3,Pork Belly,not fresh,11:27:26,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_153223.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_153423.jpg,3,Pork Belly,not fresh,11:29:51,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_153423.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_153623.jpg,3,Pork Belly,not fresh,11:32:16,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_153623.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_153923.jpg,3,Pork Belly,not fresh,11:34:40,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_153923.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_154123.jpg,3,Pork Belly,not fresh,11:37:05,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_154123.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_154423.jpg,3,Pork Belly,not fresh,11:39:30,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_154423.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_154623.jpg,3,Pork Belly,not fresh,11:41:55,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_154623.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_154823.jpg,3,Pork Belly,not fresh,11:44:19,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_154823.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_155123.jpg,3,Pork Belly,not fresh,11:46:44,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_155123.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_155323.jpg,3,Pork Belly,not fresh,11:49:09,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_155323.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_155623.jpg,3,Pork Belly,not fresh,11:51:33,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_155623.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_155823.jpg,3,Pork Belly,not fresh,11:53:58,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_155823.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_160023.jpg,3,Pork Belly,not fresh,11:56:23,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_160023.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_160323.jpg,3,Pork Belly,not fresh,11:58:48,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_160323.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_160523.jpg,3,Pork Belly,not fresh,12:01:12,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_160523.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_160823.jpg,3,Pork Belly,not fresh,12:03:37,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_160823.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_161023.jpg,3,Pork Belly,not fresh,12:06:02,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_161023.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_161223.jpg,3,Pork Belly,not fresh,12:08:27,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_161223.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_161523.jpg,3,Pork Belly,not fresh,12:10:51,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_161523.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_161723.jpg,3,Pork Belly,not fresh,12:13:16,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_161723.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_162023.jpg,3,Pork Belly,not fresh,12:15:41,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_162023.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_162223.jpg,3,Pork Belly,not fresh,12:18:05,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_162223.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_162423.jpg,3,Pork Belly,not fresh,12:20:30,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_162423.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_162723.jpg,3,Pork Belly,not fresh,12:22:55,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_162723.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_162923.jpg,3,Pork Belly,not fresh,12:25:20,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_162923.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_163225.jpg,3,Pork Belly,not fresh,12:27:44,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_163225.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_163425.jpg,3,Pork Belly,not fresh,12:30:09,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_163425.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_163625.jpg,3,Pork Belly,not fresh,12:32:34,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_163625.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_163925.jpg,3,Pork Belly,not fresh,12:34:58,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_163925.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_164126.jpg,3,Pork Belly,not fresh,12:37:23,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_164126.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_164425.jpg,3,Pork Belly,not fresh,12:39:48,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_164425.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_164625.jpg,3,Pork Belly,not fresh,12:42:13,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_164625.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_164826.jpg,3,Pork Belly,not fresh,12:44:37,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_164826.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_165125.jpg,3,Pork Belly,not fresh,12:47:02,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_165125.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_165325.jpg,3,Pork Belly,not fresh,12:49:27,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_165325.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_165625.jpg,3,Pork Belly,not fresh,12:51:52,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_165625.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_165825.jpg,3,Pork Belly,not fresh,12:54:16,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_165825.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_170025.jpg,3,Pork Belly,not fresh,12:56:41,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_170025.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_170325.jpg,3,Pork Belly,not fresh,12:59:06,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_170325.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_170525.jpg,3,Pork Belly,not fresh,13:01:30,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_170525.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_170825.jpg,3,Pork Belly,not fresh,13:03:55,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_170825.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_171025.jpg,3,Pork Belly,not fresh,13:06:20,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_171025.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_171225.jpg,3,Pork Belly,not fresh,13:08:45,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_171225.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_171525.jpg,3,Pork Belly,not fresh,13:11:09,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_171525.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_171725.jpg,3,Pork Belly,not fresh,13:13:34,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_171725.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_172025.jpg,3,Pork Belly,not fresh,13:15:59,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_172025.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_172226.jpg,3,Pork Belly,not fresh,13:18:24,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_172226.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_172425.jpg,3,Pork Belly,not fresh,13:20:48,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_172425.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_172725.jpg,3,Pork Belly,not fresh,13:23:13,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_172725.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_172925.jpg,3,Pork Belly,not fresh,13:25:38,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_172925.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_173226.jpg,3,Pork Belly,not fresh,13:28:02,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_173226.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_173425.jpg,3,Pork Belly,not fresh,13:30:27,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_173425.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_173625.jpg,3,Pork Belly,not fresh,13:32:52,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_173625.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_173926.jpg,3,Pork Belly,not fresh,13:35:17,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_173926.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_174126.jpg,3,Pork Belly,not fresh,13:37:41,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_174126.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_174426.jpg,3,Pork Belly,not fresh,13:40:06,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_174426.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_174626.jpg,3,Pork Belly,not fresh,13:42:31,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_174626.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_174826.jpg,3,Pork Belly,not fresh,13:44:55,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_174826.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_175126.jpg,3,Pork Belly,not fresh,13:47:20,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_175126.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_175325.jpg,3,Pork Belly,not fresh,13:49:45,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_175325.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_175626.jpg,3,Pork Belly,not fresh,13:52:10,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_175626.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_175826.jpg,3,Pork Belly,not fresh,13:54:34,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_175826.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_180026.jpg,3,Pork Belly,not fresh,13:56:59,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_180026.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_180326.jpg,3,Pork Belly,not fresh,13:59:24,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_180326.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_180526.jpg,3,Pork Belly,not fresh,14:01:49,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_180526.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_180826.jpg,3,Pork Belly,not fresh,14:04:13,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_180826.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_181026.jpg,3,Pork Belly,not fresh,14:06:38,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_181026.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_181326.jpg,3,Pork Belly,not fresh,14:09:03,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_181326.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_181526.jpg,3,Pork Belly,not fresh,14:11:27,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_181526.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_181726.jpg,3,Pork Belly,not fresh,14:13:52,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_181726.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_182026.jpg,3,Pork Belly,not fresh,14:16:17,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_182026.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_182226.jpg,3,Pork Belly,not fresh,14:18:42,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_182226.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_182527.jpg,3,Pork Belly,not fresh,14:21:06,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_182527.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_182727.jpg,3,Pork Belly,not fresh,14:23:31,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_182727.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_182926.jpg,3,Pork Belly,not fresh,14:25:56,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_182926.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_183226.jpg,3,Pork Belly,not fresh,14:28:21,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_183226.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_183426.jpg,3,Pork Belly,not fresh,14:30:45,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_183426.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_183726.jpg,3,Pork Belly,not fresh,14:33:10,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_183726.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_183926.jpg,3,Pork Belly,not fresh,14:35:35,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_183926.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_184126.jpg,3,Pork Belly,not fresh,14:37:59,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_184126.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_184426.jpg,3,Pork Belly,not fresh,14:40:24,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_184426.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_184626.jpg,3,Pork Belly,not fresh,14:42:49,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_184626.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_184926.jpg,3,Pork Belly,not fresh,14:45:14,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_184926.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_185126.jpg,3,Pork Belly,not fresh,14:47:38,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_185126.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_185326.jpg,3,Pork Belly,not fresh,14:50:03,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_185326.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_185626.jpg,3,Pork Belly,not fresh,14:52:28,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_185626.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_185826.jpg,3,Pork Belly,not fresh,14:54:52,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_185826.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_190127.jpg,3,Pork Belly,not fresh,14:57:17,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_190127.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_190327.jpg,3,Pork Belly,not fresh,14:59:42,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_190327.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_190526.jpg,3,Pork Belly,not fresh,15:02:07,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_190526.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_190826.jpg,3,Pork Belly,not fresh,15:04:31,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_190826.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_191026.jpg,3,Pork Belly,not fresh,15:06:56,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_191026.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_191326.jpg,3,Pork Belly,not fresh,15:09:21,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_191326.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_191526.jpg,3,Pork Belly,not fresh,15:11:46,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_191526.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_191726.jpg,3,Pork Belly,not fresh,15:14:10,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_191726.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_192027.jpg,3,Pork Belly,not fresh,15:16:35,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_192027.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_192227.jpg,3,Pork Belly,not fresh,15:19:00,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_192227.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_192527.jpg,3,Pork Belly,not fresh,15:21:24,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_192527.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_192727.jpg,3,Pork Belly,not fresh,15:23:49,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_192727.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_192927.jpg,3,Pork Belly,not fresh,15:26:14,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_192927.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_193227.jpg,3,Pork Belly,not fresh,15:28:39,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_193227.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_193427.jpg,3,Pork Belly,not fresh,15:31:03,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_193427.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_193727.jpg,3,Pork Belly,not fresh,15:33:28,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_193727.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_193927.jpg,3,Pork Belly,not fresh,15:35:53,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_193927.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_194127.jpg,3,Pork Belly,not fresh,15:38:17,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_194127.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_194427.jpg,3,Pork Belly,not fresh,15:40:42,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_194427.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_194627.jpg,3,Pork Belly,not fresh,15:43:07,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_194627.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_194927.jpg,3,Pork Belly,not fresh,15:45:32,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_194927.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_195127.jpg,3,Pork Belly,not fresh,15:47:56,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_195127.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_195327.jpg,3,Pork Belly,not fresh,15:50:21,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_195327.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_195627.jpg,3,Pork Belly,not fresh,15:52:46,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_195627.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_195827.jpg,3,Pork Belly,not fresh,15:55:11,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_195827.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_200127.jpg,3,Pork Belly,not fresh,15:57:35,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_200127.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_200327.jpg,3,Pork Belly,not fresh,16:00:00,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\not fresh\20260429_200327.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_200427.jpg,3,Pork Belly,spoiled,16:00:00,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260429_200427.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_201327.jpg,3,Pork Belly,spoiled,16:06:02,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260429_201327.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_202227.jpg,3,Pork Belly,spoiled,16:12:04,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260429_202227.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_203127.jpg,3,Pork Belly,spoiled,16:18:05,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260429_203127.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_204028.jpg,3,Pork Belly,spoiled,16:24:07,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260429_204028.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_204928.jpg,3,Pork Belly,spoiled,16:30:09,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260429_204928.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_205828.jpg,3,Pork Belly,spoiled,16:36:11,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260429_205828.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_210729.jpg,3,Pork Belly,spoiled,16:42:13,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260429_210729.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_211628.jpg,3,Pork Belly,spoiled,16:48:14,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260429_211628.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_212528.jpg,3,Pork Belly,spoiled,16:54:16,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260429_212528.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_213428.jpg,3,Pork Belly,spoiled,17:00:18,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260429_213428.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_214328.jpg,3,Pork Belly,spoiled,17:06:20,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260429_214328.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_215229.jpg,3,Pork Belly,spoiled,17:12:22,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260429_215229.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_220129.jpg,3,Pork Belly,spoiled,17:18:24,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260429_220129.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_221029.jpg,3,Pork Belly,spoiled,17:24:25,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260429_221029.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_221929.jpg,3,Pork Belly,spoiled,17:30:27,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260429_221929.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_222829.jpg,3,Pork Belly,spoiled,17:36:29,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260429_222829.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_223729.jpg,3,Pork Belly,spoiled,17:42:31,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260429_223729.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_224629.jpg,3,Pork Belly,spoiled,17:48:33,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260429_224629.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_225529.jpg,3,Pork Belly,spoiled,17:54:34,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260429_225529.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_230429.jpg,3,Pork Belly,spoiled,18:00:36,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260429_230429.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_231329.jpg,3,Pork Belly,spoiled,18:06:38,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260429_231329.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_232229.jpg,3,Pork Belly,spoiled,18:12:40,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260429_232229.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_233129.jpg,3,Pork Belly,spoiled,18:18:42,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260429_233129.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_234030.jpg,3,Pork Belly,spoiled,18:24:43,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260429_234030.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_235029.jpg,3,Pork Belly,spoiled,18:30:45,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260429_235029.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260429_235930.jpg,3,Pork Belly,spoiled,18:36:47,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260429_235930.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_000830.jpg,3,Pork Belly,spoiled,18:42:49,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_000830.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_001731.jpg,3,Pork Belly,spoiled,18:48:51,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_001731.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_002630.jpg,3,Pork Belly,spoiled,18:54:52,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_002630.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_003530.jpg,3,Pork Belly,spoiled,19:00:54,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_003530.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_004430.jpg,3,Pork Belly,spoiled,19:06:56,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_004430.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_005330.jpg,3,Pork Belly,spoiled,19:12:58,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_005330.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_010230.jpg,3,Pork Belly,spoiled,19:19:00,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_010230.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_011130.jpg,3,Pork Belly,spoiled,19:25:02,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_011130.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_012030.jpg,3,Pork Belly,spoiled,19:31:03,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_012030.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_012930.jpg,3,Pork Belly,spoiled,19:37:05,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_012930.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_013830.jpg,3,Pork Belly,spoiled,19:43:07,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_013830.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_014730.jpg,3,Pork Belly,spoiled,19:49:09,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_014730.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_015631.jpg,3,Pork Belly,spoiled,19:55:11,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_015631.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_020530.jpg,3,Pork Belly,spoiled,20:01:12,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_020530.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_021430.jpg,3,Pork Belly,spoiled,20:07:14,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_021430.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_022330.jpg,3,Pork Belly,spoiled,20:13:16,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_022330.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_023230.jpg,3,Pork Belly,spoiled,20:19:18,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_023230.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_024131.jpg,3,Pork Belly,spoiled,20:25:20,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_024131.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_025031.jpg,3,Pork Belly,spoiled,20:31:21,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_025031.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_025932.jpg,3,Pork Belly,spoiled,20:37:23,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_025932.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_030831.jpg,3,Pork Belly,spoiled,20:43:25,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_030831.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_031731.jpg,3,Pork Belly,spoiled,20:49:27,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_031731.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_032631.jpg,3,Pork Belly,spoiled,20:55:29,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_032631.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_033531.jpg,3,Pork Belly,spoiled,21:01:30,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_033531.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_034432.jpg,3,Pork Belly,spoiled,21:07:32,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_034432.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_035332.jpg,3,Pork Belly,spoiled,21:13:34,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_035332.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_040232.jpg,3,Pork Belly,spoiled,21:19:36,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_040232.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_041132.jpg,3,Pork Belly,spoiled,21:25:38,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_041132.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_042032.jpg,3,Pork Belly,spoiled,21:31:39,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_042032.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_042932.jpg,3,Pork Belly,spoiled,21:37:41,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_042932.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_043833.jpg,3,Pork Belly,spoiled,21:43:43,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_043833.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_044734.jpg,3,Pork Belly,spoiled,21:49:45,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_044734.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_045633.jpg,3,Pork Belly,spoiled,21:55:47,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_045633.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_050534.jpg,3,Pork Belly,spoiled,22:01:49,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_050534.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_051434.jpg,3,Pork Belly,spoiled,22:07:50,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_051434.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_052334.jpg,3,Pork Belly,spoiled,22:13:52,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_052334.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_053234.jpg,3,Pork Belly,spoiled,22:19:54,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_053234.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_054134.jpg,3,Pork Belly,spoiled,22:25:56,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_054134.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_055034.jpg,3,Pork Belly,spoiled,22:31:58,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_055034.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_055934.jpg,3,Pork Belly,spoiled,22:37:59,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_055934.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_060834.jpg,3,Pork Belly,spoiled,22:44:01,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_060834.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_061734.jpg,3,Pork Belly,spoiled,22:50:03,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_061734.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_062634.jpg,3,Pork Belly,spoiled,22:56:05,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_062634.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_063535.jpg,3,Pork Belly,spoiled,23:02:07,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_063535.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_064434.jpg,3,Pork Belly,spoiled,23:08:08,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_064434.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_065335.jpg,3,Pork Belly,spoiled,23:14:10,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_065335.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_070234.jpg,3,Pork Belly,spoiled,23:20:12,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_070234.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_071134.jpg,3,Pork Belly,spoiled,23:26:14,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_071134.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_072136.jpg,3,Pork Belly,spoiled,23:32:16,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_072136.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_073035.jpg,3,Pork Belly,spoiled,23:38:17,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_073035.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_073935.jpg,3,Pork Belly,spoiled,23:44:19,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_073935.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_074835.jpg,3,Pork Belly,spoiled,23:50:21,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_074835.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_075736.jpg,3,Pork Belly,spoiled,23:56:23,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_075736.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_080635.jpg,3,Pork Belly,spoiled,24:02:25,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_080635.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_081535.jpg,3,Pork Belly,spoiled,24:08:27,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_081535.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_082435.jpg,3,Pork Belly,spoiled,24:14:28,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_082435.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_083335.jpg,3,Pork Belly,spoiled,24:20:30,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_083335.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_084235.jpg,3,Pork Belly,spoiled,24:26:32,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_084235.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_085136.jpg,3,Pork Belly,spoiled,24:32:34,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_085136.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_090036.jpg,3,Pork Belly,spoiled,24:38:36,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_090036.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_090936.jpg,3,Pork Belly,spoiled,24:44:37,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_090936.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_091836.jpg,3,Pork Belly,spoiled,24:50:39,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_091836.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_092736.jpg,3,Pork Belly,spoiled,24:56:41,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_092736.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_093636.jpg,3,Pork Belly,spoiled,25:02:43,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_093636.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_094537.jpg,3,Pork Belly,spoiled,25:08:45,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_094537.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_095437.jpg,3,Pork Belly,spoiled,25:14:46,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_095437.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_100338.jpg,3,Pork Belly,spoiled,25:20:48,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_100338.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_101239.jpg,3,Pork Belly,spoiled,25:26:50,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_101239.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_102138.jpg,3,Pork Belly,spoiled,25:32:52,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_102138.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_103038.jpg,3,Pork Belly,spoiled,25:38:54,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_103038.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_103939.jpg,3,Pork Belly,spoiled,25:44:55,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_103939.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_104839.jpg,3,Pork Belly,spoiled,25:50:57,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_104839.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_105739.jpg,3,Pork Belly,spoiled,25:56:59,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_105739.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_110639.jpg,3,Pork Belly,spoiled,26:03:01,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_110639.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_111541.jpg,3,Pork Belly,spoiled,26:09:03,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_111541.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_112439.jpg,3,Pork Belly,spoiled,26:15:05,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_112439.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_113339.jpg,3,Pork Belly,spoiled,26:21:06,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_113339.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_114239.jpg,3,Pork Belly,spoiled,26:27:08,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_114239.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_115139.jpg,3,Pork Belly,spoiled,26:33:10,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_115139.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_120040.jpg,3,Pork Belly,spoiled,26:39:12,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_120040.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_120940.jpg,3,Pork Belly,spoiled,26:45:14,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_120940.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_121840.jpg,3,Pork Belly,spoiled,26:51:15,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_121840.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_122740.jpg,3,Pork Belly,spoiled,26:57:17,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_122740.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_123640.jpg,3,Pork Belly,spoiled,27:03:19,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_123640.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_124540.jpg,3,Pork Belly,spoiled,27:09:21,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_124540.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_125440.jpg,3,Pork Belly,spoiled,27:15:23,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_125440.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_130340.jpg,3,Pork Belly,spoiled,27:21:24,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_130340.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_131240.jpg,3,Pork Belly,spoiled,27:27:26,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_131240.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_132142.jpg,3,Pork Belly,spoiled,27:33:28,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_132142.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_133041.jpg,3,Pork Belly,spoiled,27:39:30,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_133041.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_133941.jpg,3,Pork Belly,spoiled,27:45:32,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_133941.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_134841.jpg,3,Pork Belly,spoiled,27:51:33,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_134841.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_135741.jpg,3,Pork Belly,spoiled,27:57:35,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_135741.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_140641.jpg,3,Pork Belly,spoiled,28:03:37,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_140641.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_141541.jpg,3,Pork Belly,spoiled,28:09:39,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_141541.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_142441.jpg,3,Pork Belly,spoiled,28:15:41,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_142441.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_143341.jpg,3,Pork Belly,spoiled,28:21:43,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_143341.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_144241.jpg,3,Pork Belly,spoiled,28:27:44,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_144241.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_150141.jpg,3,Pork Belly,spoiled,28:33:46,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_150141.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_151042.jpg,3,Pork Belly,spoiled,28:39:48,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_151042.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_151942.jpg,3,Pork Belly,spoiled,28:45:50,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_151942.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_152842.jpg,3,Pork Belly,spoiled,28:51:52,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_152842.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_153742.jpg,3,Pork Belly,spoiled,28:57:53,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_153742.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_154642.jpg,3,Pork Belly,spoiled,29:03:55,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_154642.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_164155.jpg,3,Pork Belly,spoiled,29:09:57,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_164155.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_165053.jpg,3,Pork Belly,spoiled,29:15:59,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_165053.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_165953.jpg,3,Pork Belly,spoiled,29:22:01,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_165953.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_170853.jpg,3,Pork Belly,spoiled,29:28:02,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_170853.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_171753.jpg,3,Pork Belly,spoiled,29:34:04,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_171753.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_172653.jpg,3,Pork Belly,spoiled,29:40:06,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_172653.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_173554.jpg,3,Pork Belly,spoiled,29:46:08,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_173554.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_174453.jpg,3,Pork Belly,spoiled,29:52:10,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_174453.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_175354.jpg,3,Pork Belly,spoiled,29:58:11,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_175354.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_180254.jpg,3,Pork Belly,spoiled,30:04:13,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_180254.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_181154.jpg,3,Pork Belly,spoiled,30:10:15,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_181154.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_182054.jpg,3,Pork Belly,spoiled,30:16:17,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_182054.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_182954.jpg,3,Pork Belly,spoiled,30:22:19,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_182954.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_183854.jpg,3,Pork Belly,spoiled,30:28:21,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_183854.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_184754.jpg,3,Pork Belly,spoiled,30:34:22,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_184754.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_185654.jpg,3,Pork Belly,spoiled,30:40:24,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_185654.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_190554.jpg,3,Pork Belly,spoiled,30:46:26,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_190554.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_191454.jpg,3,Pork Belly,spoiled,30:52:28,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_191454.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_192354.jpg,3,Pork Belly,spoiled,30:58:30,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_192354.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_193254.jpg,3,Pork Belly,spoiled,31:04:31,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_193254.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_194154.jpg,3,Pork Belly,spoiled,31:10:33,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_194154.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_195055.jpg,3,Pork Belly,spoiled,31:16:35,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_195055.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_195955.jpg,3,Pork Belly,spoiled,31:22:37,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_195955.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_200855.jpg,3,Pork Belly,spoiled,31:28:39,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_200855.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_201755.jpg,3,Pork Belly,spoiled,31:34:40,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_201755.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_202655.jpg,3,Pork Belly,spoiled,31:40:42,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_202655.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_203555.jpg,3,Pork Belly,spoiled,31:46:44,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_203555.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_204455.jpg,3,Pork Belly,spoiled,31:52:46,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_204455.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_205355.jpg,3,Pork Belly,spoiled,31:58:48,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_205355.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_210255.jpg,3,Pork Belly,spoiled,32:04:49,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_210255.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_211155.jpg,3,Pork Belly,spoiled,32:10:51,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_211155.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_212055.jpg,3,Pork Belly,spoiled,32:16:53,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_212055.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_212955.jpg,3,Pork Belly,spoiled,32:22:55,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_212955.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_213855.jpg,3,Pork Belly,spoiled,32:28:57,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_213855.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_214756.jpg,3,Pork Belly,spoiled,32:34:58,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_214756.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_215656.jpg,3,Pork Belly,spoiled,32:41:00,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_215656.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_220556.jpg,3,Pork Belly,spoiled,32:47:02,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_220556.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_221456.jpg,3,Pork Belly,spoiled,32:53:04,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_221456.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_222356.jpg,3,Pork Belly,spoiled,32:59:06,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_222356.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_223256.jpg,3,Pork Belly,spoiled,33:05:08,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_223256.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_224156.jpg,3,Pork Belly,spoiled,33:11:09,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_224156.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_225056.jpg,3,Pork Belly,spoiled,33:17:11,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_225056.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_225956.jpg,3,Pork Belly,spoiled,33:23:13,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_225956.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_230856.jpg,3,Pork Belly,spoiled,33:29:15,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_230856.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_231856.jpg,3,Pork Belly,spoiled,33:35:17,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_231856.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_232756.jpg,3,Pork Belly,spoiled,33:41:18,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_232756.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_233657.jpg,3,Pork Belly,spoiled,33:47:20,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_233657.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_234556.jpg,3,Pork Belly,spoiled,33:53:22,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_234556.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260430_235457.jpg,3,Pork Belly,spoiled,33:59:24,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260430_235457.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260501_000357.jpg,3,Pork Belly,spoiled,34:05:26,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260501_000357.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260501_001257.jpg,3,Pork Belly,spoiled,34:11:27,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260501_001257.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260501_002157.jpg,3,Pork Belly,spoiled,34:17:29,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260501_002157.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260501_003057.jpg,3,Pork Belly,spoiled,34:23:31,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260501_003057.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260501_003957.jpg,3,Pork Belly,spoiled,34:29:33,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260501_003957.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260501_004857.jpg,3,Pork Belly,spoiled,34:35:35,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260501_004857.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260501_005757.jpg,3,Pork Belly,spoiled,34:41:36,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260501_005757.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260501_010657.jpg,3,Pork Belly,spoiled,34:47:38,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260501_010657.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260501_011557.jpg,3,Pork Belly,spoiled,34:53:40,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260501_011557.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260501_012457.jpg,3,Pork Belly,spoiled,34:59:42,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260501_012457.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260501_013357.jpg,3,Pork Belly,spoiled,35:05:44,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260501_013357.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260501_014257.jpg,3,Pork Belly,spoiled,35:11:46,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260501_014257.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260501_015158.jpg,3,Pork Belly,spoiled,35:17:47,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260501_015158.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260501_020058.jpg,3,Pork Belly,spoiled,35:23:49,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260501_020058.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260501_020958.jpg,3,Pork Belly,spoiled,35:29:51,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260501_020958.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260501_021858.jpg,3,Pork Belly,spoiled,35:35:53,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260501_021858.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260501_022858.jpg,3,Pork Belly,spoiled,35:41:55,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260501_022858.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260501_023758.jpg,3,Pork Belly,spoiled,35:47:56,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260501_023758.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260501_024658.jpg,3,Pork Belly,spoiled,35:53:58,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260501_024658.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens
+20260501_025558.jpg,3,Pork Belly,spoiled,36:00:00,E:\Thesis Code\processed_hsv_lab_threshold_roi_224\sample 3\spoiled\20260501_025558.jpg,pork_belly_sample_3,belly,cross_rotation,fold3,meatlens

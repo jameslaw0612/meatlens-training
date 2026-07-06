@@ -1,0 +1,6 @@
+true_transition_zone,clear_fresh,borderline_fresh_not_fresh,clear_not_fresh,borderline_not_fresh_spoiled,clear_spoiled,uncertain_non_adjacent_conflict
+clear_fresh,1052,991,50,641,202,244
+borderline_fresh_not_fresh,447,832,178,622,16,170
+clear_not_fresh,196,555,328,1088,120,113
+borderline_not_fresh_spoiled,36,491,301,623,367,582
+clear_spoiled,37,7,325,1001,1384,846

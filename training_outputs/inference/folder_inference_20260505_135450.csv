@@ -1,0 +1,4 @@
+image_path,file_name,predicted_class,confidence,freshness_score,recommendation,prob_fresh,prob_not fresh,prob_spoiled
+e:\Thesis Code\training_outputs\inference\uploaded_zips\zip_20260505_135447\extracted\New folder (2)\20260424_055602.jpg,20260424_055602.jpg,not fresh,0.748659,54.97,Consume Immediately,0.18728,0.748659,0.064061
+e:\Thesis Code\training_outputs\inference\uploaded_zips\zip_20260505_135447\extracted\New folder (2)\20260424_145248.jpg,20260424_145248.jpg,spoiled,0.712541,14.77,Not Suitable,0.078373,0.209087,0.712541
+e:\Thesis Code\training_outputs\inference\uploaded_zips\zip_20260505_135447\extracted\New folder (2)\20260425_122220.jpg,20260425_122220.jpg,spoiled,0.978281,5.74,Not Suitable,0.01397,0.007749,0.978281

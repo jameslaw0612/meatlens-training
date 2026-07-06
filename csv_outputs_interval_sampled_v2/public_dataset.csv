@@ -1,0 +1,484 @@
+image_file_name,sample_number,meat_part,label,time_frame,file_destination
+FRESH-1003-_JPG.rf.b410c33a04a1fba90032a9086d191d6d.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-1003-_JPG.rf.b410c33a04a1fba90032a9086d191d6d.jpg
+FRESH-102-_JPG.rf.97c72ce29de7a165b8b59fab7bd7c735.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-102-_JPG.rf.97c72ce29de7a165b8b59fab7bd7c735.jpg
+FRESH-107-_JPG.rf.ac43eaf2ed93ae57f4a26cfb1b2a71dd.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-107-_JPG.rf.ac43eaf2ed93ae57f4a26cfb1b2a71dd.jpg
+FRESH-112-_JPG.rf.19901d72a42a3bf8ef6c580c20e2d6e0.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-112-_JPG.rf.19901d72a42a3bf8ef6c580c20e2d6e0.jpg
+FRESH-117-_JPG.rf.85af4855817790543e63638c74b1270f.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-117-_JPG.rf.85af4855817790543e63638c74b1270f.jpg
+FRESH-121-_JPG.rf.e71429636d5ab76d68c334f961dc59bb.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-121-_JPG.rf.e71429636d5ab76d68c334f961dc59bb.jpg
+FRESH-126-_JPG.rf.3113e38c134f16abbde3e9c086af1e91.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-126-_JPG.rf.3113e38c134f16abbde3e9c086af1e91.jpg
+FRESH-131-_JPG.rf.0dd073a038bf984c5efd61c6221f46c6.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-131-_JPG.rf.0dd073a038bf984c5efd61c6221f46c6.jpg
+FRESH-136-_JPG.rf.22e99d560b6140ead2945e9363bf85f2.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-136-_JPG.rf.22e99d560b6140ead2945e9363bf85f2.jpg
+FRESH-140-_JPG.rf.3e530feb8b04a1d7ef6dfafa02d7fe6b.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-140-_JPG.rf.3e530feb8b04a1d7ef6dfafa02d7fe6b.jpg
+FRESH-149-_JPG.rf.38eb0713ff7c46446022a7cff2a08f63.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-149-_JPG.rf.38eb0713ff7c46446022a7cff2a08f63.jpg
+FRESH-158-_JPG.rf.8d9e2c5645a83539a4f02e9cf128c611.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-158-_JPG.rf.8d9e2c5645a83539a4f02e9cf128c611.jpg
+FRESH-163-_JPG.rf.ee56606bad77d7bcd99546f8f868cbbf.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-163-_JPG.rf.ee56606bad77d7bcd99546f8f868cbbf.jpg
+FRESH-168-_JPG.rf.931f3c9aa7d113cae934a1f840a1ac7f.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-168-_JPG.rf.931f3c9aa7d113cae934a1f840a1ac7f.jpg
+FRESH-175-_JPG.rf.237fbbda222246fcbbba326d80b54355.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-175-_JPG.rf.237fbbda222246fcbbba326d80b54355.jpg
+FRESH-184-_JPG.rf.d806cca9979608c318738949c8656f17.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-184-_JPG.rf.d806cca9979608c318738949c8656f17.jpg
+FRESH-19-_JPG.rf.6f2b4e647d1cb28b5b458be08f7fb176.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-19-_JPG.rf.6f2b4e647d1cb28b5b458be08f7fb176.jpg
+FRESH-194-_JPG.rf.3773b20d9bc9a37fe29c0726f46003be.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-194-_JPG.rf.3773b20d9bc9a37fe29c0726f46003be.jpg
+FRESH-199-_JPG.rf.ce221f7806fdc1714559a355556ed7c3.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-199-_JPG.rf.ce221f7806fdc1714559a355556ed7c3.jpg
+FRESH-202-_JPG.rf.4f13e1b8c1559b63d140d294269709e1.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-202-_JPG.rf.4f13e1b8c1559b63d140d294269709e1.jpg
+FRESH-207-_JPG.rf.565da96a329c389d0b7ba3894473f785.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-207-_JPG.rf.565da96a329c389d0b7ba3894473f785.jpg
+FRESH-211-_JPG.rf.020e3e472b72383dda2079fe0a8493b2.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-211-_JPG.rf.020e3e472b72383dda2079fe0a8493b2.jpg
+FRESH-216-_JPG.rf.f6de3bed77a8364997b08c2910c54096.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-216-_JPG.rf.f6de3bed77a8364997b08c2910c54096.jpg
+FRESH-220-_JPG.rf.ce6c30083406957c0e7536e8feccd854.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-220-_JPG.rf.ce6c30083406957c0e7536e8feccd854.jpg
+FRESH-225-_JPG.rf.aba57dfe913c3e8706c02ff8e81c2c68.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-225-_JPG.rf.aba57dfe913c3e8706c02ff8e81c2c68.jpg
+FRESH-23-_JPG.rf.f93b5446678bc61e5ae1c4ee24d39b87.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-23-_JPG.rf.f93b5446678bc61e5ae1c4ee24d39b87.jpg
+FRESH-234-_JPG.rf.f8663a22549a3c996c12bb7de946a11d.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-234-_JPG.rf.f8663a22549a3c996c12bb7de946a11d.jpg
+FRESH-239-_JPG.rf.f009953c3d9fccadd9ef4b5cdba95915.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-239-_JPG.rf.f009953c3d9fccadd9ef4b5cdba95915.jpg
+FRESH-243-_JPG.rf.7742fb40619f8a38d842831fdf2be71d.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-243-_JPG.rf.7742fb40619f8a38d842831fdf2be71d.jpg
+FRESH-248-_JPG.rf.0dce9e884dde13c29889b1f2a8169d65.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-248-_JPG.rf.0dce9e884dde13c29889b1f2a8169d65.jpg
+FRESH-252-_JPG.rf.3ddfcf3592c7aa95b8b6cd3ddb9c6315.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-252-_JPG.rf.3ddfcf3592c7aa95b8b6cd3ddb9c6315.jpg
+FRESH-257-_JPG.rf.a1b45828666648d876f93fcef450f982.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-257-_JPG.rf.a1b45828666648d876f93fcef450f982.jpg
+FRESH-262-_JPG.rf.36823745fa4a5cffae62676728b7c192.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-262-_JPG.rf.36823745fa4a5cffae62676728b7c192.jpg
+FRESH-267-_JPG.rf.b610905a30153a0b817e36a7fd37266b.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-267-_JPG.rf.b610905a30153a0b817e36a7fd37266b.jpg
+FRESH-271-_JPG.rf.46bd467f798b3e947390eaca2d7e355a.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-271-_JPG.rf.46bd467f798b3e947390eaca2d7e355a.jpg
+FRESH-276-_JPG.rf.77cbcabeba2b7d253ec1f1acfae57882.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-276-_JPG.rf.77cbcabeba2b7d253ec1f1acfae57882.jpg
+FRESH-280-_JPG.rf.a1b14f32b372a3c36248380cd6ea4d4f.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-280-_JPG.rf.a1b14f32b372a3c36248380cd6ea4d4f.jpg
+FRESH-285-_JPG.rf.3a02426e0426fd583be0e1377a0b982f.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-285-_JPG.rf.3a02426e0426fd583be0e1377a0b982f.jpg
+FRESH-29-_JPG.rf.4c952cae7791ccc45b5495a9691ee2fe.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-29-_JPG.rf.4c952cae7791ccc45b5495a9691ee2fe.jpg
+FRESH-294-_JPG.rf.3267da1cccb038b6a7bfc871f6166d3d.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-294-_JPG.rf.3267da1cccb038b6a7bfc871f6166d3d.jpg
+FRESH-299-_JPG.rf.d546b7b41dbe02a966385d94fbcd79f8.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-299-_JPG.rf.d546b7b41dbe02a966385d94fbcd79f8.jpg
+FRESH-303-_JPG.rf.b0e4b3896a54e115d5c6d79a14e360d8.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-303-_JPG.rf.b0e4b3896a54e115d5c6d79a14e360d8.jpg
+FRESH-308-_JPG.rf.d68b8044538e8a1323c274c85b9fad59.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-308-_JPG.rf.d68b8044538e8a1323c274c85b9fad59.jpg
+FRESH-312-_JPG.rf.f14bf3e0bd83ae0117c6b28cb811aa9c.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-312-_JPG.rf.f14bf3e0bd83ae0117c6b28cb811aa9c.jpg
+FRESH-317-_JPG.rf.2b24b4fa598090fbc920f315cf5308f0.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-317-_JPG.rf.2b24b4fa598090fbc920f315cf5308f0.jpg
+FRESH-321-_JPG.rf.fbf70afe7fe2ea2278f16f0e7ec40491.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-321-_JPG.rf.fbf70afe7fe2ea2278f16f0e7ec40491.jpg
+FRESH-326-_JPG.rf.a7802893cdeda5366e5380ba56805523.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-326-_JPG.rf.a7802893cdeda5366e5380ba56805523.jpg
+FRESH-330-_JPG.rf.e3d69a78325c8f246cfc5461137d5bbd.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-330-_JPG.rf.e3d69a78325c8f246cfc5461137d5bbd.jpg
+FRESH-335-_JPG.rf.087cc1e88b5103a4c5cff989ccf6b416.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-335-_JPG.rf.087cc1e88b5103a4c5cff989ccf6b416.jpg
+FRESH-34-_JPG.rf.6329d8993a0f99785931f87dbef162f2.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-34-_JPG.rf.6329d8993a0f99785931f87dbef162f2.jpg
+FRESH-344-_JPG.rf.5e8ec1875092af8f909b876ee314d536.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-344-_JPG.rf.5e8ec1875092af8f909b876ee314d536.jpg
+FRESH-349-_JPG.rf.13944c466e50ce66db1e8f7d2049525e.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-349-_JPG.rf.13944c466e50ce66db1e8f7d2049525e.jpg
+FRESH-353-_JPG.rf.1b9e727038635824ece721a5550a22c8.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-353-_JPG.rf.1b9e727038635824ece721a5550a22c8.jpg
+FRESH-358-_JPG.rf.ced6c325032406b084bf9d3ff8e084da.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-358-_JPG.rf.ced6c325032406b084bf9d3ff8e084da.jpg
+FRESH-362-_JPG.rf.cc85d85ed2489d62f6ac6b1187c5e0e1.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-362-_JPG.rf.cc85d85ed2489d62f6ac6b1187c5e0e1.jpg
+FRESH-367-_JPG.rf.5932f32c601ba2df084ace8ef7f7935e.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-367-_JPG.rf.5932f32c601ba2df084ace8ef7f7935e.jpg
+FRESH-371-_JPG.rf.7321fe6daf5785ba95055acd3f926a24.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-371-_JPG.rf.7321fe6daf5785ba95055acd3f926a24.jpg
+FRESH-376-_JPG.rf.affbbe98d840746c9ace52c42153283c.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-376-_JPG.rf.affbbe98d840746c9ace52c42153283c.jpg
+FRESH-380-_JPG.rf.75a3abb0b029578f5e8add8cf2e6dbd0.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-380-_JPG.rf.75a3abb0b029578f5e8add8cf2e6dbd0.jpg
+FRESH-386-_JPG.rf.cc97ca5e90b666faa46a8974c06e4ec6.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-386-_JPG.rf.cc97ca5e90b666faa46a8974c06e4ec6.jpg
+FRESH-393-_JPG.rf.9232768a572f4dd77389776f34234644.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-393-_JPG.rf.9232768a572f4dd77389776f34234644.jpg
+FRESH-402-_JPG.rf.df5bfbe283ebbeb75a60856eec2e82b0.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-402-_JPG.rf.df5bfbe283ebbeb75a60856eec2e82b0.jpg
+FRESH-411-_JPG.rf.32bb6ed621d124484688bed5c4e13340.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-411-_JPG.rf.32bb6ed621d124484688bed5c4e13340.jpg
+FRESH-420-_JPG.rf.1a55cf40f1cce6f94d7c820acc93ffc6.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-420-_JPG.rf.1a55cf40f1cce6f94d7c820acc93ffc6.jpg
+FRESH-427-_JPG.rf.bc525ee2ea51e47b1d42b8b33e92185c.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-427-_JPG.rf.bc525ee2ea51e47b1d42b8b33e92185c.jpg
+FRESH-431-_JPG.rf.45e2095fb5b3c8184d4fbbeecbad4b7c.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-431-_JPG.rf.45e2095fb5b3c8184d4fbbeecbad4b7c.jpg
+FRESH-438-_JPG.rf.2d61648fa01342753bc5ca524c1450fa.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-438-_JPG.rf.2d61648fa01342753bc5ca524c1450fa.jpg
+FRESH-446-_JPG.rf.92a635b82d776fdf394805e65d6d3e2c.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-446-_JPG.rf.92a635b82d776fdf394805e65d6d3e2c.jpg
+FRESH-453-_JPG.rf.0c74ad1b36658cc2264d002b57f02f9e.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-453-_JPG.rf.0c74ad1b36658cc2264d002b57f02f9e.jpg
+FRESH-458-_JPG.rf.aeb5300d5fa484b68a91d1580819893d.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-458-_JPG.rf.aeb5300d5fa484b68a91d1580819893d.jpg
+FRESH-464-_JPG.rf.94448350a48c11fce9f459449e5e0e36.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-464-_JPG.rf.94448350a48c11fce9f459449e5e0e36.jpg
+FRESH-471-_JPG.rf.579ceaadd7a72678e417d0bc9e81ec38.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-471-_JPG.rf.579ceaadd7a72678e417d0bc9e81ec38.jpg
+FRESH-48-_JPG.rf.4828ce42ef8d5feb06dd5b838da3cd0e.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-48-_JPG.rf.4828ce42ef8d5feb06dd5b838da3cd0e.jpg
+FRESH-484-_JPG.rf.c21cf5e2fc9cf459d486f9a3e996b5d6.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-484-_JPG.rf.c21cf5e2fc9cf459d486f9a3e996b5d6.jpg
+FRESH-49-_JPG.rf.bcec5bf4218ba8370282e0ad36a4c3b8.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-49-_JPG.rf.bcec5bf4218ba8370282e0ad36a4c3b8.jpg
+FRESH-498-_JPG.rf.cff0cacd4f7a00f0b178101295a9ad88.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-498-_JPG.rf.cff0cacd4f7a00f0b178101295a9ad88.jpg
+FRESH-508-_JPG.rf.18527c9a76f56173554bff8e1c7004b5.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-508-_JPG.rf.18527c9a76f56173554bff8e1c7004b5.jpg
+FRESH-516-_JPG.rf.ada2002610f2c47987df691b164f4c7d.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-516-_JPG.rf.ada2002610f2c47987df691b164f4c7d.jpg
+FRESH-524-_JPG.rf.22cf9c0a4f6d0e9b5a66be9e982b1cca.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-524-_JPG.rf.22cf9c0a4f6d0e9b5a66be9e982b1cca.jpg
+FRESH-529-_JPG.rf.0dafe6845ba2fc30cd5744abda49ff79.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-529-_JPG.rf.0dafe6845ba2fc30cd5744abda49ff79.jpg
+FRESH-533-_JPG.rf.a39beaf7e0fed527ff053259117966aa.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-533-_JPG.rf.a39beaf7e0fed527ff053259117966aa.jpg
+FRESH-538-_JPG.rf.70028baec8337749af5ce598b2d2a60b.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-538-_JPG.rf.70028baec8337749af5ce598b2d2a60b.jpg
+FRESH-542-_JPG.rf.23d30ab5edce698810f443695cfea494.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-542-_JPG.rf.23d30ab5edce698810f443695cfea494.jpg
+FRESH-547-_JPG.rf.a0c8b3bf2ede90c28a0def8881ee21e2.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-547-_JPG.rf.a0c8b3bf2ede90c28a0def8881ee21e2.jpg
+FRESH-551-_JPG.rf.2d03041f07124e5c3c59c7c5c12d1d6c.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-551-_JPG.rf.2d03041f07124e5c3c59c7c5c12d1d6c.jpg
+FRESH-56-_JPG.rf.1f13fcb98c41586dfe6758499c2e2a58.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-56-_JPG.rf.1f13fcb98c41586dfe6758499c2e2a58.jpg
+FRESH-569-_JPG.rf.461ec0a85fe43b7ab7a5d69ac333fad6.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-569-_JPG.rf.461ec0a85fe43b7ab7a5d69ac333fad6.jpg
+FRESH-573-_JPG.rf.3cbcf89a4232775aa8d234ef34b28d98.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-573-_JPG.rf.3cbcf89a4232775aa8d234ef34b28d98.jpg
+FRESH-578-_JPG.rf.2b06d0eb208f6c0fd941d46e448d8cf7.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-578-_JPG.rf.2b06d0eb208f6c0fd941d46e448d8cf7.jpg
+FRESH-582-_JPG.rf.9b2445c21293eb1cb1d2efb6a16a200c.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-582-_JPG.rf.9b2445c21293eb1cb1d2efb6a16a200c.jpg
+FRESH-587-_JPG.rf.5063eb175fcb6f3654d574a0bd01a160.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-587-_JPG.rf.5063eb175fcb6f3654d574a0bd01a160.jpg
+FRESH-591-_JPG.rf.f192b7a649218d44be427acbcc337e34.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-591-_JPG.rf.f192b7a649218d44be427acbcc337e34.jpg
+FRESH-596-_JPG.rf.caafe8174194c1ceca367b1a1b3192ff.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-596-_JPG.rf.caafe8174194c1ceca367b1a1b3192ff.jpg
+FRESH-60-_JPG.rf.e5066e6849331c20557252ef8819bb14.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-60-_JPG.rf.e5066e6849331c20557252ef8819bb14.jpg
+FRESH-604-_JPG.rf.f33dfdb0c0e90287e6134a79dbfae3d1.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-604-_JPG.rf.f33dfdb0c0e90287e6134a79dbfae3d1.jpg
+FRESH-609-_JPG.rf.ed8b4fde01900edacf097ab63d3d3c05.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-609-_JPG.rf.ed8b4fde01900edacf097ab63d3d3c05.jpg
+FRESH-613-_JPG.rf.9bd3f71f8e0ace2213e50b4e1a1463f5.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-613-_JPG.rf.9bd3f71f8e0ace2213e50b4e1a1463f5.jpg
+FRESH-618-_JPG.rf.9c4133986ef85a48e7c5bcc80ec3f02b.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-618-_JPG.rf.9c4133986ef85a48e7c5bcc80ec3f02b.jpg
+FRESH-622-_JPG.rf.652b58d22ac7b5953737dbc22014d261.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-622-_JPG.rf.652b58d22ac7b5953737dbc22014d261.jpg
+FRESH-627-_JPG.rf.6bcd9a311edc5f0f71b4e8a41f864b6b.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-627-_JPG.rf.6bcd9a311edc5f0f71b4e8a41f864b6b.jpg
+FRESH-631-_JPG.rf.3164ff97496d1cda0b0aee88275e3a7f.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-631-_JPG.rf.3164ff97496d1cda0b0aee88275e3a7f.jpg
+FRESH-636-_JPG.rf.abe3d2db7af9eb4e5a299c14cfc6291e.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-636-_JPG.rf.abe3d2db7af9eb4e5a299c14cfc6291e.jpg
+FRESH-640-_JPG.rf.496591c1c2902289be451c8b7aef3f79.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-640-_JPG.rf.496591c1c2902289be451c8b7aef3f79.jpg
+FRESH-645-_JPG.rf.53c3142ec2e98e09f5309a5666d4f33f.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-645-_JPG.rf.53c3142ec2e98e09f5309a5666d4f33f.jpg
+FRESH-65-_JPG.rf.07f6e525be38c9171588b35d9c0c2102.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-65-_JPG.rf.07f6e525be38c9171588b35d9c0c2102.jpg
+FRESH-654-_JPG.rf.a1893a038e7e6c3bbb7c2f08d71ae987.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-654-_JPG.rf.a1893a038e7e6c3bbb7c2f08d71ae987.jpg
+FRESH-659-_JPG.rf.f31f284453c1ec8abeef74ca5ff370c0.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-659-_JPG.rf.f31f284453c1ec8abeef74ca5ff370c0.jpg
+FRESH-667-_JPG.rf.95587747bc73fe2943e5c289c290d648.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-667-_JPG.rf.95587747bc73fe2943e5c289c290d648.jpg
+FRESH-675-_JPG.rf.c33a5725ebb108401e163c6e0a4dde9d.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-675-_JPG.rf.c33a5725ebb108401e163c6e0a4dde9d.jpg
+FRESH-680-_JPG.rf.ba5f871aba79196bca2c41877dd067f6.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-680-_JPG.rf.ba5f871aba79196bca2c41877dd067f6.jpg
+FRESH-685-_JPG.rf.6af4647bb13dbbc47ffb6f2a6b871316.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-685-_JPG.rf.6af4647bb13dbbc47ffb6f2a6b871316.jpg
+FRESH-69-_JPG.rf.f473717467f6f9ec355972e039167db3.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-69-_JPG.rf.f473717467f6f9ec355972e039167db3.jpg
+FRESH-694-_JPG.rf.5994d911beea575a81727c775ea89606.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-694-_JPG.rf.5994d911beea575a81727c775ea89606.jpg
+FRESH-699-_JPG.rf.1155594073ce19abacc787d02bc3fb61.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-699-_JPG.rf.1155594073ce19abacc787d02bc3fb61.jpg
+FRESH-703-_JPG.rf.3d54890caa0a762433d5065d3d3fcf7f.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-703-_JPG.rf.3d54890caa0a762433d5065d3d3fcf7f.jpg
+FRESH-708-_JPG.rf.0de6f6c30cce8ea5ca3781b2db24a6c3.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-708-_JPG.rf.0de6f6c30cce8ea5ca3781b2db24a6c3.jpg
+FRESH-712-_JPG.rf.ed5ad14459d1cc1c5ba37838b6b993ce.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-712-_JPG.rf.ed5ad14459d1cc1c5ba37838b6b993ce.jpg
+FRESH-717-_JPG.rf.3471675a8873814afc6f2241ecd5e39e.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-717-_JPG.rf.3471675a8873814afc6f2241ecd5e39e.jpg
+FRESH-721-_JPG.rf.4f770a93bd104098aa7ffb172a90a4df.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-721-_JPG.rf.4f770a93bd104098aa7ffb172a90a4df.jpg
+FRESH-726-_JPG.rf.517148c08602fc516cbc0021a6984098.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-726-_JPG.rf.517148c08602fc516cbc0021a6984098.jpg
+FRESH-730-_JPG.rf.a067325c1877065d1fea8d1d2bd365be.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-730-_JPG.rf.a067325c1877065d1fea8d1d2bd365be.jpg
+FRESH-735-_JPG.rf.e6d162c45a548bea469a309bb0831112.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-735-_JPG.rf.e6d162c45a548bea469a309bb0831112.jpg
+FRESH-74-_JPG.rf.e6ee8183402f7ca3bb378f5b25fad8c1.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-74-_JPG.rf.e6ee8183402f7ca3bb378f5b25fad8c1.jpg
+FRESH-748-_JPG.rf.d2e6892ecc92aa5bbfc7bbfab5413da6.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-748-_JPG.rf.d2e6892ecc92aa5bbfc7bbfab5413da6.jpg
+FRESH-756-_JPG.rf.b2ed011fa5b7a6ff8ecc7813e9cdec0e.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-756-_JPG.rf.b2ed011fa5b7a6ff8ecc7813e9cdec0e.jpg
+FRESH-761-_JPG.rf.e4daeaffa097b31bb273def2bb9df1d9.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-761-_JPG.rf.e4daeaffa097b31bb273def2bb9df1d9.jpg
+FRESH-766-_JPG.rf.e95baa188db8dd7cf0d2c3574fdf25f4.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-766-_JPG.rf.e95baa188db8dd7cf0d2c3574fdf25f4.jpg
+FRESH-770-_JPG.rf.cafe4e3ad770ff9de90313de8f07f247.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-770-_JPG.rf.cafe4e3ad770ff9de90313de8f07f247.jpg
+FRESH-775-_JPG.rf.72a8389b004f30d095410afd92fad963.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-775-_JPG.rf.72a8389b004f30d095410afd92fad963.jpg
+FRESH-78-_JPG.rf.118e13aad4c64d938f6501b3ddc773aa.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-78-_JPG.rf.118e13aad4c64d938f6501b3ddc773aa.jpg
+FRESH-784-_JPG.rf.c392b5d9844f6f163db55f8d4ac3aa07.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-784-_JPG.rf.c392b5d9844f6f163db55f8d4ac3aa07.jpg
+FRESH-789-_JPG.rf.16dffc0421bfe52879ec72f7b74a5d9b.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-789-_JPG.rf.16dffc0421bfe52879ec72f7b74a5d9b.jpg
+FRESH-793-_JPG.rf.f067f169f8d721cd12b9c2fca4569fc0.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-793-_JPG.rf.f067f169f8d721cd12b9c2fca4569fc0.jpg
+FRESH-798-_JPG.rf.1d7c45cbfdd9a2a907d589929d2892dd.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-798-_JPG.rf.1d7c45cbfdd9a2a907d589929d2892dd.jpg
+FRESH-809-_JPG.rf.abab5b0509c5b4c0a650c19713785e46.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-809-_JPG.rf.abab5b0509c5b4c0a650c19713785e46.jpg
+FRESH-813-_JPG.rf.eba88ffeff216c453a1f247145ce82b3.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-813-_JPG.rf.eba88ffeff216c453a1f247145ce82b3.jpg
+FRESH-818-_JPG.rf.05d77ebc8c5c32f3413dfa1ca85f3889.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-818-_JPG.rf.05d77ebc8c5c32f3413dfa1ca85f3889.jpg
+FRESH-822-_JPG.rf.fafaddd79cedd2e94615c57fb6259d6b.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-822-_JPG.rf.fafaddd79cedd2e94615c57fb6259d6b.jpg
+FRESH-827-_JPG.rf.7a6b4d293cd80de631dcb2dbfc5e29e8.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-827-_JPG.rf.7a6b4d293cd80de631dcb2dbfc5e29e8.jpg
+FRESH-831-_JPG.rf.a7fa0d6f603d0bb5adc9012834518931.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-831-_JPG.rf.a7fa0d6f603d0bb5adc9012834518931.jpg
+FRESH-836-_JPG.rf.0d2e79b9192b4a04d9a5f68064d6191e.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-836-_JPG.rf.0d2e79b9192b4a04d9a5f68064d6191e.jpg
+FRESH-844-_JPG.rf.580e9dbe7575c0cbdda8a8382bd43aa9.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-844-_JPG.rf.580e9dbe7575c0cbdda8a8382bd43aa9.jpg
+FRESH-856-_JPG.rf.8b52e60a79d65312c5ed03bfbe0eeb97.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-856-_JPG.rf.8b52e60a79d65312c5ed03bfbe0eeb97.jpg
+FRESH-865-_JPG.rf.33b8feabe435f15e633cdfd4aa4b88fc.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-865-_JPG.rf.33b8feabe435f15e633cdfd4aa4b88fc.jpg
+FRESH-870-_JPG.rf.9d3cf75d02f3479865ef12eecfd4b46b.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-870-_JPG.rf.9d3cf75d02f3479865ef12eecfd4b46b.jpg
+FRESH-875-_JPG.rf.2212570dfcdd9142fe026530e4a50217.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-875-_JPG.rf.2212570dfcdd9142fe026530e4a50217.jpg
+FRESH-88-_JPG.rf.df1540a0f1c697f443f728f3d5128a78.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-88-_JPG.rf.df1540a0f1c697f443f728f3d5128a78.jpg
+FRESH-887-_JPG.rf.b339ba23fd8a7c0018c6fbbbc9626878.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-887-_JPG.rf.b339ba23fd8a7c0018c6fbbbc9626878.jpg
+FRESH-896-_JPG.rf.dc3a9cf202d4e6643d86014b5cf8349c.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-896-_JPG.rf.dc3a9cf202d4e6643d86014b5cf8349c.jpg
+FRESH-901-_JPG.rf.1f5a8951ee64e15caf5058aa70d84baa.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-901-_JPG.rf.1f5a8951ee64e15caf5058aa70d84baa.jpg
+FRESH-906-_JPG.rf.6796a1941ec11cf8d3c6672e8fc84543.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-906-_JPG.rf.6796a1941ec11cf8d3c6672e8fc84543.jpg
+FRESH-910-_JPG.rf.3a49076c832c3ecb1f62276a018fda7f.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-910-_JPG.rf.3a49076c832c3ecb1f62276a018fda7f.jpg
+FRESH-915-_JPG.rf.f2b762060d4ddf5b1c7b1b80e51d3506.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-915-_JPG.rf.f2b762060d4ddf5b1c7b1b80e51d3506.jpg
+FRESH-92-_JPG.rf.725916a9817264c2c1b624929acb3eff.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-92-_JPG.rf.725916a9817264c2c1b624929acb3eff.jpg
+FRESH-924-_JPG.rf.35fc35cafa71d584686eb015a979b0f7.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-924-_JPG.rf.35fc35cafa71d584686eb015a979b0f7.jpg
+FRESH-929-_JPG.rf.129d80b43b9dfecb88e7248ddb0f3eef.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-929-_JPG.rf.129d80b43b9dfecb88e7248ddb0f3eef.jpg
+FRESH-933-_JPG.rf.8c077f5b7a18858ecef1448f2ed4e4d0.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-933-_JPG.rf.8c077f5b7a18858ecef1448f2ed4e4d0.jpg
+FRESH-938-_JPG.rf.9217a6fdd462b79a6456c2d89519c783.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-938-_JPG.rf.9217a6fdd462b79a6456c2d89519c783.jpg
+FRESH-942-_JPG.rf.8e56bb9d6c9b49180629c2dec2a76c75.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-942-_JPG.rf.8e56bb9d6c9b49180629c2dec2a76c75.jpg
+FRESH-947-_JPG.rf.2292ea6e5ee2c8b19d7faf74d430aaf2.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-947-_JPG.rf.2292ea6e5ee2c8b19d7faf74d430aaf2.jpg
+FRESH-951-_JPG.rf.602392766f216361842c3ce3f0871b70.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-951-_JPG.rf.602392766f216361842c3ce3f0871b70.jpg
+FRESH-956-_JPG.rf.afd3cfe5e06eca703e4bcc03341e2c56.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-956-_JPG.rf.afd3cfe5e06eca703e4bcc03341e2c56.jpg
+FRESH-960-_JPG.rf.7040eb0a51a5fbe9289a9185acace603.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-960-_JPG.rf.7040eb0a51a5fbe9289a9185acace603.jpg
+FRESH-965-_JPG.rf.90a1a809683a1def24247e5f21d94dd8.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-965-_JPG.rf.90a1a809683a1def24247e5f21d94dd8.jpg
+FRESH-97-_JPG.rf.d77115a90bdf09cc446a344c92857804.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-97-_JPG.rf.d77115a90bdf09cc446a344c92857804.jpg
+FRESH-974-_JPG.rf.1bcc2987fd7596374209e05903754112.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-974-_JPG.rf.1bcc2987fd7596374209e05903754112.jpg
+FRESH-979-_JPG.rf.dfa3f55a65425699a3ea637edaec8b98.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-979-_JPG.rf.dfa3f55a65425699a3ea637edaec8b98.jpg
+FRESH-983-_JPG.rf.be6bc4fcd46ca21e5223bcc4affd54e7.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-983-_JPG.rf.be6bc4fcd46ca21e5223bcc4affd54e7.jpg
+FRESH-988-_JPG.rf.5ae3b79cd35d4de5361b3bc1bd2d5376.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-988-_JPG.rf.5ae3b79cd35d4de5361b3bc1bd2d5376.jpg
+FRESH-995-_JPG.rf.ef523652c8e1da2eff417b05c6c150ee.jpg,,Unknown,fresh,,E:\Thesis Code\Public Dataset\fresh\FRESH-995-_JPG.rf.ef523652c8e1da2eff417b05c6c150ee.jpg
+HALF-FRESH-1001-_JPG.rf.bfb96164e1a01a454ea94c308f155fe7.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-1001-_JPG.rf.bfb96164e1a01a454ea94c308f155fe7.jpg
+HALF-FRESH-1006-_JPG.rf.0ca96c6328a236eaa3caf97806b43547.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-1006-_JPG.rf.0ca96c6328a236eaa3caf97806b43547.jpg
+HALF-FRESH-103-_JPG.rf.62ef772531acb7eb76a2ae6550511c7e.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-103-_JPG.rf.62ef772531acb7eb76a2ae6550511c7e.jpg
+HALF-FRESH-108-_JPG.rf.24aa54714dda06ed55a91ea55c81f2cf.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-108-_JPG.rf.24aa54714dda06ed55a91ea55c81f2cf.jpg
+HALF-FRESH-112-_JPG.rf.3a31b76c1056f01dcb13cd9cdf66cec2.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-112-_JPG.rf.3a31b76c1056f01dcb13cd9cdf66cec2.jpg
+HALF-FRESH-117-_JPG.rf.535200f57df206ee399fa9afa98c9678.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-117-_JPG.rf.535200f57df206ee399fa9afa98c9678.jpg
+HALF-FRESH-121-_JPG.rf.39f5bc037b0db29fe032c2349acc17d7.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-121-_JPG.rf.39f5bc037b0db29fe032c2349acc17d7.jpg
+HALF-FRESH-126-_JPG.rf.eef48d93938d08be9295014482dd18e5.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-126-_JPG.rf.eef48d93938d08be9295014482dd18e5.jpg
+HALF-FRESH-130-_JPG.rf.83f0ab6688076a423e859668338b358a.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-130-_JPG.rf.83f0ab6688076a423e859668338b358a.jpg
+HALF-FRESH-135-_JPG.rf.a7900e50cb597a212e749d51e076c1d9.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-135-_JPG.rf.a7900e50cb597a212e749d51e076c1d9.jpg
+HALF-FRESH-14-_JPG.rf.c84b9669389d55b7e69099fa75e9c9e6.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-14-_JPG.rf.c84b9669389d55b7e69099fa75e9c9e6.jpg
+HALF-FRESH-144-_JPG.rf.ff2c91a56c4993195d59b1ced2399c31.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-144-_JPG.rf.ff2c91a56c4993195d59b1ced2399c31.jpg
+HALF-FRESH-149-_JPG.rf.5d60c99f96f432036ee49abc8f94c532.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-149-_JPG.rf.5d60c99f96f432036ee49abc8f94c532.jpg
+HALF-FRESH-153-_JPG.rf.4160cb49f841c4baf0f7c7c8c67b9f46.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-153-_JPG.rf.4160cb49f841c4baf0f7c7c8c67b9f46.jpg
+HALF-FRESH-158-_JPG.rf.8278e577cf42f59ee17cb5b56c6268b6.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-158-_JPG.rf.8278e577cf42f59ee17cb5b56c6268b6.jpg
+HALF-FRESH-162-_JPG.rf.974d0134d4c77554836dabf2d69e3f9c.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-162-_JPG.rf.974d0134d4c77554836dabf2d69e3f9c.jpg
+HALF-FRESH-167-_JPG.rf.08f2a7da32e590c9b0f094b3cfd78af8.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-167-_JPG.rf.08f2a7da32e590c9b0f094b3cfd78af8.jpg
+HALF-FRESH-171-_JPG.rf.5c0296dd0b2daf3c8db0350445f23b51.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-171-_JPG.rf.5c0296dd0b2daf3c8db0350445f23b51.jpg
+HALF-FRESH-176-_JPG.rf.9f4932fb498d57f8e1eb509943148314.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-176-_JPG.rf.9f4932fb498d57f8e1eb509943148314.jpg
+HALF-FRESH-180-_JPG.rf.09baaa0e811dd1b8e21c15b202a526d4.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-180-_JPG.rf.09baaa0e811dd1b8e21c15b202a526d4.jpg
+HALF-FRESH-185-_JPG.rf.b950156ece77306800f765f435b53ad4.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-185-_JPG.rf.b950156ece77306800f765f435b53ad4.jpg
+HALF-FRESH-19-_JPG.rf.48e95d40891e7574e3fdc507504f19da.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-19-_JPG.rf.48e95d40891e7574e3fdc507504f19da.jpg
+HALF-FRESH-194-_JPG.rf.c3bfaed6e4f0482749382710f3c32e22.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-194-_JPG.rf.c3bfaed6e4f0482749382710f3c32e22.jpg
+HALF-FRESH-199-_JPG.rf.be30186b7a5dbb9e9f933e8f4a0d7161.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-199-_JPG.rf.be30186b7a5dbb9e9f933e8f4a0d7161.jpg
+HALF-FRESH-202-_JPG.rf.34cb509c9431b22483bfd383cd64ffb6.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-202-_JPG.rf.34cb509c9431b22483bfd383cd64ffb6.jpg
+HALF-FRESH-207-_JPG.rf.2d95c35d07031f6bff191687668f08a5.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-207-_JPG.rf.2d95c35d07031f6bff191687668f08a5.jpg
+HALF-FRESH-211-_JPG.rf.6a895fbc92b764c21dcad57edecae268.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-211-_JPG.rf.6a895fbc92b764c21dcad57edecae268.jpg
+HALF-FRESH-216-_JPG.rf.961ec81f885e86c18c8d38839ce53e21.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-216-_JPG.rf.961ec81f885e86c18c8d38839ce53e21.jpg
+HALF-FRESH-220-_JPG.rf.11c4189d15886860207c8980f22324e0.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-220-_JPG.rf.11c4189d15886860207c8980f22324e0.jpg
+HALF-FRESH-225-_JPG.rf.88878456f659751e674b4dba26f2301b.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-225-_JPG.rf.88878456f659751e674b4dba26f2301b.jpg
+HALF-FRESH-23-_JPG.rf.c25e501adcddb51e55351ab65450757e.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-23-_JPG.rf.c25e501adcddb51e55351ab65450757e.jpg
+HALF-FRESH-234-_JPG.rf.0a2cfb6613a209b7980611dc90d3763a.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-234-_JPG.rf.0a2cfb6613a209b7980611dc90d3763a.jpg
+HALF-FRESH-239-_JPG.rf.67cd3bbeaa0edaafb7d1b0893747ec44.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-239-_JPG.rf.67cd3bbeaa0edaafb7d1b0893747ec44.jpg
+HALF-FRESH-243-_JPG.rf.fc43ec6771c3395747792e60a89ccadc.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-243-_JPG.rf.fc43ec6771c3395747792e60a89ccadc.jpg
+HALF-FRESH-248-_JPG.rf.24d2260207ff2d27d49af4739cd875ba.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-248-_JPG.rf.24d2260207ff2d27d49af4739cd875ba.jpg
+HALF-FRESH-252-_JPG.rf.b6f1d862445a48edd54226a71cce5415.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-252-_JPG.rf.b6f1d862445a48edd54226a71cce5415.jpg
+HALF-FRESH-257-_JPG.rf.2c268a518d75a60e7ae8b94c4a21f358.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-257-_JPG.rf.2c268a518d75a60e7ae8b94c4a21f358.jpg
+HALF-FRESH-261-_JPG.rf.65e66e989ee25854a2bb15e2cc2a8100.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-261-_JPG.rf.65e66e989ee25854a2bb15e2cc2a8100.jpg
+HALF-FRESH-266-_JPG.rf.408660530e3eb0a318cc033c56dfb3fc.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-266-_JPG.rf.408660530e3eb0a318cc033c56dfb3fc.jpg
+HALF-FRESH-270-_JPG.rf.81f5f5da675305179bf00db9b794d5c7.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-270-_JPG.rf.81f5f5da675305179bf00db9b794d5c7.jpg
+HALF-FRESH-275-_JPG.rf.7caa655aee21b07e5686480a32cbb676.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-275-_JPG.rf.7caa655aee21b07e5686480a32cbb676.jpg
+HALF-FRESH-28-_JPG.rf.980fec2133ab90cbca43ca6bc5fac6be.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-28-_JPG.rf.980fec2133ab90cbca43ca6bc5fac6be.jpg
+HALF-FRESH-284-_JPG.rf.1e9a87fbbaa3a548e7b9dad8aef2ff85.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-284-_JPG.rf.1e9a87fbbaa3a548e7b9dad8aef2ff85.jpg
+HALF-FRESH-289-_JPG.rf.61d062f59c5107f1a0f6c1f3717eb668.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-289-_JPG.rf.61d062f59c5107f1a0f6c1f3717eb668.jpg
+HALF-FRESH-293-_JPG.rf.0519c7a2d77f6fdcaec097a1a5ae94d7.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-293-_JPG.rf.0519c7a2d77f6fdcaec097a1a5ae94d7.jpg
+HALF-FRESH-298-_JPG.rf.58e2b08245e81c3c43c50cd7b3be5d1f.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-298-_JPG.rf.58e2b08245e81c3c43c50cd7b3be5d1f.jpg
+HALF-FRESH-301-_JPG.rf.781401b718eae99c137921c5193f5d0f.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-301-_JPG.rf.781401b718eae99c137921c5193f5d0f.jpg
+HALF-FRESH-306-_JPG.rf.6d35f7f81bfd76132304794b99dfce2e.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-306-_JPG.rf.6d35f7f81bfd76132304794b99dfce2e.jpg
+HALF-FRESH-310-_JPG.rf.5a78a9b5eebd1ae6ac2e7c933c37541f.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-310-_JPG.rf.5a78a9b5eebd1ae6ac2e7c933c37541f.jpg
+HALF-FRESH-315-_JPG.rf.bade77943ed9e1767bbb0f797cda2e8e.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-315-_JPG.rf.bade77943ed9e1767bbb0f797cda2e8e.jpg
+HALF-FRESH-32-_JPG.rf.ef030046a930f7817929dc92753b4dc7.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-32-_JPG.rf.ef030046a930f7817929dc92753b4dc7.jpg
+HALF-FRESH-324-_JPG.rf.1635c5ff04ed66778e0a7541269ccabf.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-324-_JPG.rf.1635c5ff04ed66778e0a7541269ccabf.jpg
+HALF-FRESH-329-_JPG.rf.35d27f8f7c08c952e4ef9ad06f925226.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-329-_JPG.rf.35d27f8f7c08c952e4ef9ad06f925226.jpg
+HALF-FRESH-333-_JPG.rf.d60580486ebbb30f9503de907aabb54b.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-333-_JPG.rf.d60580486ebbb30f9503de907aabb54b.jpg
+HALF-FRESH-338-_JPG.rf.e1b73f9f08cb1d96a09ac455053c3355.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-338-_JPG.rf.e1b73f9f08cb1d96a09ac455053c3355.jpg
+HALF-FRESH-342-_JPG.rf.3ba00f574773f7f7d02c6fd8c5e8cc70.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-342-_JPG.rf.3ba00f574773f7f7d02c6fd8c5e8cc70.jpg
+HALF-FRESH-347-_JPG.rf.59fae4dc0c9452dd054db3113b4649f7.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-347-_JPG.rf.59fae4dc0c9452dd054db3113b4649f7.jpg
+HALF-FRESH-351-_JPG.rf.d2e9d76996c873d49374137919bbb2d9.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-351-_JPG.rf.d2e9d76996c873d49374137919bbb2d9.jpg
+HALF-FRESH-356-_JPG.rf.f80939aa0a8ea3ba5bd69fb84b56c148.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-356-_JPG.rf.f80939aa0a8ea3ba5bd69fb84b56c148.jpg
+HALF-FRESH-360-_JPG.rf.ace39679fc8c93a25ec4f015213191fa.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-360-_JPG.rf.ace39679fc8c93a25ec4f015213191fa.jpg
+HALF-FRESH-365-_JPG.rf.92d6344a939c8623d4fef9c9f2da28c2.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-365-_JPG.rf.92d6344a939c8623d4fef9c9f2da28c2.jpg
+HALF-FRESH-37-_JPG.rf.7dd407493eca2a35c4e00e49107ef4a3.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-37-_JPG.rf.7dd407493eca2a35c4e00e49107ef4a3.jpg
+HALF-FRESH-374-_JPG.rf.5ff7944f6e027a534af2bad036547f59.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-374-_JPG.rf.5ff7944f6e027a534af2bad036547f59.jpg
+HALF-FRESH-379-_JPG.rf.10ef088d4beaf69f2b1513a7078f036f.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-379-_JPG.rf.10ef088d4beaf69f2b1513a7078f036f.jpg
+HALF-FRESH-383-_JPG.rf.f36294af644d2aa1fbec56fa66fd44d2.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-383-_JPG.rf.f36294af644d2aa1fbec56fa66fd44d2.jpg
+HALF-FRESH-388-_JPG.rf.0b6442c68591d19794ea119b91dbda7e.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-388-_JPG.rf.0b6442c68591d19794ea119b91dbda7e.jpg
+HALF-FRESH-392-_JPG.rf.5ca8b93374e156f10fe53fc46c4863ee.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-392-_JPG.rf.5ca8b93374e156f10fe53fc46c4863ee.jpg
+HALF-FRESH-397-_JPG.rf.5fe57534f97cdf50221fcac91e9ed768.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-397-_JPG.rf.5fe57534f97cdf50221fcac91e9ed768.jpg
+HALF-FRESH-400-_JPG.rf.5c2f6010a1bb24030b1816453e3a6b24.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-400-_JPG.rf.5c2f6010a1bb24030b1816453e3a6b24.jpg
+HALF-FRESH-405-_JPG.rf.ccf8a22d076f298b967eda29b95278fa.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-405-_JPG.rf.ccf8a22d076f298b967eda29b95278fa.jpg
+HALF-FRESH-41-_JPG.rf.9037ed3e508242e4b6be05e37a42a687.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-41-_JPG.rf.9037ed3e508242e4b6be05e37a42a687.jpg
+HALF-FRESH-414-_JPG.rf.3516bdd2290fca8cc32d2ae35ec0d92f.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-414-_JPG.rf.3516bdd2290fca8cc32d2ae35ec0d92f.jpg
+HALF-FRESH-419-_JPG.rf.19e10b8eeea6dc072ea2b4e0a5c5fbae.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-419-_JPG.rf.19e10b8eeea6dc072ea2b4e0a5c5fbae.jpg
+HALF-FRESH-423-_JPG.rf.3e9300d884ca6e7fad28a65ae5ae207b.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-423-_JPG.rf.3e9300d884ca6e7fad28a65ae5ae207b.jpg
+HALF-FRESH-428-_JPG.rf.a0a7d384c1d8111e63445b223a634517.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-428-_JPG.rf.a0a7d384c1d8111e63445b223a634517.jpg
+HALF-FRESH-432-_JPG.rf.3b08dc6261baba5ee1ed940353650aeb.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-432-_JPG.rf.3b08dc6261baba5ee1ed940353650aeb.jpg
+HALF-FRESH-437-_JPG.rf.3e02a655adfc1e4da59baca2facc7177.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-437-_JPG.rf.3e02a655adfc1e4da59baca2facc7177.jpg
+HALF-FRESH-448-_JPG.rf.8d8f3f769ff5fb1b9b2c762b7f706c30.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-448-_JPG.rf.8d8f3f769ff5fb1b9b2c762b7f706c30.jpg
+HALF-FRESH-49-_JPG.rf.26cdd971299b9a20a0f75d20d82ec938.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-49-_JPG.rf.26cdd971299b9a20a0f75d20d82ec938.jpg
+HALF-FRESH-523-_JPG.rf.958b3b51b83a0649614f1818bbe75ace.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-523-_JPG.rf.958b3b51b83a0649614f1818bbe75ace.jpg
+HALF-FRESH-528-_JPG.rf.dc521a311943fe26e2f7bd47bc6533af.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-528-_JPG.rf.dc521a311943fe26e2f7bd47bc6533af.jpg
+HALF-FRESH-535-_JPG.rf.54848b4bdcf42746bfd5c5362cb0f208.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-535-_JPG.rf.54848b4bdcf42746bfd5c5362cb0f208.jpg
+HALF-FRESH-543-_JPG.rf.00f8f01db815a19d089563d1eb96d578.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-543-_JPG.rf.00f8f01db815a19d089563d1eb96d578.jpg
+HALF-FRESH-551-_JPG.rf.bc621d3e19136bfe06218d065a601abe.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-551-_JPG.rf.bc621d3e19136bfe06218d065a601abe.jpg
+HALF-FRESH-560-_JPG.rf.e91619a2e5b828434f7a21d085cd1f4f.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-560-_JPG.rf.e91619a2e5b828434f7a21d085cd1f4f.jpg
+HALF-FRESH-569-_JPG.rf.f360ff1e4358136ea967d55ff4e7f476.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-569-_JPG.rf.f360ff1e4358136ea967d55ff4e7f476.jpg
+HALF-FRESH-577-_JPG.rf.0e6ffbe8ccede31b1e21829e30f77cc5.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-577-_JPG.rf.0e6ffbe8ccede31b1e21829e30f77cc5.jpg
+HALF-FRESH-586-_JPG.rf.4ff77fc6671e98ebface999d35b75865.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-586-_JPG.rf.4ff77fc6671e98ebface999d35b75865.jpg
+HALF-FRESH-593-_JPG.rf.636b55a97361564d2264dd7b6fd4729c.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-593-_JPG.rf.636b55a97361564d2264dd7b6fd4729c.jpg
+HALF-FRESH-60-_JPG.rf.cdf619064876852a6bf176a20da85776.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-60-_JPG.rf.cdf619064876852a6bf176a20da85776.jpg
+HALF-FRESH-609-_JPG.rf.a5ac03d3978a40741f68bbbce392bf26.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-609-_JPG.rf.a5ac03d3978a40741f68bbbce392bf26.jpg
+HALF-FRESH-617-_JPG.rf.4c5f0c2feb6d9f41ce92e7d2a7b5f3ed.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-617-_JPG.rf.4c5f0c2feb6d9f41ce92e7d2a7b5f3ed.jpg
+HALF-FRESH-625-_JPG.rf.c1a571e77ef5c42a2bbda3a123271b85.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-625-_JPG.rf.c1a571e77ef5c42a2bbda3a123271b85.jpg
+HALF-FRESH-633-_JPG.rf.d557f3330cd6e06a3e0340fb9de834f6.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-633-_JPG.rf.d557f3330cd6e06a3e0340fb9de834f6.jpg
+HALF-FRESH-641-_JPG.rf.874ca66b5a4729517f440399c46ca107.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-641-_JPG.rf.874ca66b5a4729517f440399c46ca107.jpg
+HALF-FRESH-65-_JPG.rf.94479e8e8bf0e8fb8b33d23b0ccc4e59.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-65-_JPG.rf.94479e8e8bf0e8fb8b33d23b0ccc4e59.jpg
+HALF-FRESH-659-_JPG.rf.2d1c13d75b6e9dc25eec3af3471428ac.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-659-_JPG.rf.2d1c13d75b6e9dc25eec3af3471428ac.jpg
+HALF-FRESH-667-_JPG.rf.ae53a108dccfbaab547f7144a64aa680.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-667-_JPG.rf.ae53a108dccfbaab547f7144a64aa680.jpg
+HALF-FRESH-676-_JPG.rf.17b396e4aa7210c32bc2be1621ff744b.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-676-_JPG.rf.17b396e4aa7210c32bc2be1621ff744b.jpg
+HALF-FRESH-683-_JPG.rf.3106a0f9d1fd7f47a8448c968b2221f3.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-683-_JPG.rf.3106a0f9d1fd7f47a8448c968b2221f3.jpg
+HALF-FRESH-689-_JPG.rf.aad08e4605ff0ec6cb31b995de0e0c40.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-689-_JPG.rf.aad08e4605ff0ec6cb31b995de0e0c40.jpg
+HALF-FRESH-693-_JPG.rf.487992d65715ef94f1b44b2c0c88ca34.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-693-_JPG.rf.487992d65715ef94f1b44b2c0c88ca34.jpg
+HALF-FRESH-698-_JPG.rf.81eb4ef47e882fa2c564e7373b191ffe.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-698-_JPG.rf.81eb4ef47e882fa2c564e7373b191ffe.jpg
+HALF-FRESH-701-_JPG.rf.fc03be9671b1dd3a566babcc14dfec3c.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-701-_JPG.rf.fc03be9671b1dd3a566babcc14dfec3c.jpg
+HALF-FRESH-706-_JPG.rf.2eccbbe88c655a43dc6848daa0b01254.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-706-_JPG.rf.2eccbbe88c655a43dc6848daa0b01254.jpg
+HALF-FRESH-710-_JPG.rf.d4b2b44586251920230dfa704b68bf30.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-710-_JPG.rf.d4b2b44586251920230dfa704b68bf30.jpg
+HALF-FRESH-715-_JPG.rf.bc8a4bb60afedae77317970409000def.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-715-_JPG.rf.bc8a4bb60afedae77317970409000def.jpg
+HALF-FRESH-72-_JPG.rf.4b70972dc021cab1e2cd004529523565.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-72-_JPG.rf.4b70972dc021cab1e2cd004529523565.jpg
+HALF-FRESH-724-_JPG.rf.81c32c3a3b375807e53096e895950b8e.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-724-_JPG.rf.81c32c3a3b375807e53096e895950b8e.jpg
+HALF-FRESH-729-_JPG.rf.dc1cccb9f4df1a4096b8411bdedaf849.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-729-_JPG.rf.dc1cccb9f4df1a4096b8411bdedaf849.jpg
+HALF-FRESH-733-_JPG.rf.ac6c93606aaf868eac63a1ebe2861402.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-733-_JPG.rf.ac6c93606aaf868eac63a1ebe2861402.jpg
+HALF-FRESH-738-_JPG.rf.ec1633bf6b5411fc5130ceb4cb320b79.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-738-_JPG.rf.ec1633bf6b5411fc5130ceb4cb320b79.jpg
+HALF-FRESH-742-_JPG.rf.336134b7a8c0a20be8edeed4451b23f3.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-742-_JPG.rf.336134b7a8c0a20be8edeed4451b23f3.jpg
+HALF-FRESH-747-_JPG.rf.cdcf6f998f5231aa617283981864899a.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-747-_JPG.rf.cdcf6f998f5231aa617283981864899a.jpg
+HALF-FRESH-751-_JPG.rf.27ee104b6721dd3eaa06f7daf659fce7.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-751-_JPG.rf.27ee104b6721dd3eaa06f7daf659fce7.jpg
+HALF-FRESH-756-_JPG.rf.c3a8acf970067c07becb68ec2db1efda.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-756-_JPG.rf.c3a8acf970067c07becb68ec2db1efda.jpg
+HALF-FRESH-760-_JPG.rf.11cf40167c7b4fa434d4692ec14966da.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-760-_JPG.rf.11cf40167c7b4fa434d4692ec14966da.jpg
+HALF-FRESH-765-_JPG.rf.1086387e06b2a835464938a0320887c3.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-765-_JPG.rf.1086387e06b2a835464938a0320887c3.jpg
+HALF-FRESH-77-_JPG.rf.6892cc3fd4a99d83c01429c4e9439959.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-77-_JPG.rf.6892cc3fd4a99d83c01429c4e9439959.jpg
+HALF-FRESH-774-_JPG.rf.058f17577707b546120e70374b4ea0ed.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-774-_JPG.rf.058f17577707b546120e70374b4ea0ed.jpg
+HALF-FRESH-779-_JPG.rf.ca50863f0b1fdbf318229944c46712e2.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-779-_JPG.rf.ca50863f0b1fdbf318229944c46712e2.jpg
+HALF-FRESH-783-_JPG.rf.2da8d316b913353a9e9584b11616615f.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-783-_JPG.rf.2da8d316b913353a9e9584b11616615f.jpg
+HALF-FRESH-788-_JPG.rf.9a7eed28fd572381e0e9016fbdec0ef4.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-788-_JPG.rf.9a7eed28fd572381e0e9016fbdec0ef4.jpg
+HALF-FRESH-792-_JPG.rf.ff84f0cd688cf30acadf307fce38181c.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-792-_JPG.rf.ff84f0cd688cf30acadf307fce38181c.jpg
+HALF-FRESH-797-_JPG.rf.7d22c5cb2d99f18da1c89aac6860ad5b.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-797-_JPG.rf.7d22c5cb2d99f18da1c89aac6860ad5b.jpg
+HALF-FRESH-800-_JPG.rf.9b8d60a069b6ecb78fbd82f6dd4e94ba.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-800-_JPG.rf.9b8d60a069b6ecb78fbd82f6dd4e94ba.jpg
+HALF-FRESH-805-_JPG.rf.1e840242efad8e21812c4d4f14a3645f.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-805-_JPG.rf.1e840242efad8e21812c4d4f14a3645f.jpg
+HALF-FRESH-81-_JPG.rf.ded4b7a467794bafecc71148e66d50fd.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-81-_JPG.rf.ded4b7a467794bafecc71148e66d50fd.jpg
+HALF-FRESH-814-_JPG.rf.52d48eb04aaa64016f2907f5a8ae19dd.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-814-_JPG.rf.52d48eb04aaa64016f2907f5a8ae19dd.jpg
+HALF-FRESH-819-_JPG.rf.b3af5f9b2914f5b067220e2d39d48f39.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-819-_JPG.rf.b3af5f9b2914f5b067220e2d39d48f39.jpg
+HALF-FRESH-823-_JPG.rf.11d847a016bbf64fc31a9a09741c5745.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-823-_JPG.rf.11d847a016bbf64fc31a9a09741c5745.jpg
+HALF-FRESH-828-_JPG.rf.e31f0f5ca00a4625ac92658a25a89f44.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-828-_JPG.rf.e31f0f5ca00a4625ac92658a25a89f44.jpg
+HALF-FRESH-832-_JPG.rf.f53729fcaeebd749abf598a77a1db500.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-832-_JPG.rf.f53729fcaeebd749abf598a77a1db500.jpg
+HALF-FRESH-837-_JPG.rf.e05c5b67b62eacdcafdfbaf7f3e21da4.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-837-_JPG.rf.e05c5b67b62eacdcafdfbaf7f3e21da4.jpg
+HALF-FRESH-841-_JPG.rf.31fd4749d2003960d5c96e340e152d8f.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-841-_JPG.rf.31fd4749d2003960d5c96e340e152d8f.jpg
+HALF-FRESH-87-_JPG.rf.d5fe974dc3b0b8515524740d61c3ce99.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-87-_JPG.rf.d5fe974dc3b0b8515524740d61c3ce99.jpg
+HALF-FRESH-904-_JPG.rf.c2aa54c3cd47526cb264e94b28d98f24.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-904-_JPG.rf.c2aa54c3cd47526cb264e94b28d98f24.jpg
+HALF-FRESH-909-_JPG.rf.e1a7bb5d099d7e0aa98f591dbc4aa062.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-909-_JPG.rf.e1a7bb5d099d7e0aa98f591dbc4aa062.jpg
+HALF-FRESH-913-_JPG.rf.98156a7c65153b2e3cd3fb2912764e36.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-913-_JPG.rf.98156a7c65153b2e3cd3fb2912764e36.jpg
+HALF-FRESH-918-_JPG.rf.cc2eddf02348bd3aded1f6129ce2a7d9.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-918-_JPG.rf.cc2eddf02348bd3aded1f6129ce2a7d9.jpg
+HALF-FRESH-922-_JPG.rf.3dda0e313a6d84ce89a58c585ef68edd.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-922-_JPG.rf.3dda0e313a6d84ce89a58c585ef68edd.jpg
+HALF-FRESH-927-_JPG.rf.9ce3c972f885b55f507e4f5ccc4a45fb.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-927-_JPG.rf.9ce3c972f885b55f507e4f5ccc4a45fb.jpg
+HALF-FRESH-931-_JPG.rf.8bbc4c354b67bb772c311c2757082b85.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-931-_JPG.rf.8bbc4c354b67bb772c311c2757082b85.jpg
+HALF-FRESH-936-_JPG.rf.653c51c901397101f447178030feefb3.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-936-_JPG.rf.653c51c901397101f447178030feefb3.jpg
+HALF-FRESH-940-_JPG.rf.af3a9a5995dd8981d76567b894838b0c.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-940-_JPG.rf.af3a9a5995dd8981d76567b894838b0c.jpg
+HALF-FRESH-945-_JPG.rf.914087d04fcf3a9374180ef225ceada7.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-945-_JPG.rf.914087d04fcf3a9374180ef225ceada7.jpg
+HALF-FRESH-95-_JPG.rf.9a6ed709225d072699313c9dd8ac2995.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-95-_JPG.rf.9a6ed709225d072699313c9dd8ac2995.jpg
+HALF-FRESH-954-_JPG.rf.54339ccadc196984be197b56fe15e139.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-954-_JPG.rf.54339ccadc196984be197b56fe15e139.jpg
+HALF-FRESH-959-_JPG.rf.6defca0803abf522bf3b82127d583ab4.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-959-_JPG.rf.6defca0803abf522bf3b82127d583ab4.jpg
+HALF-FRESH-963-_JPG.rf.7304bc0b2743459cf081c81b6956afa1.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-963-_JPG.rf.7304bc0b2743459cf081c81b6956afa1.jpg
+HALF-FRESH-968-_JPG.rf.e6fbb14b3e8d3af52d56b4f2b1ae3a06.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-968-_JPG.rf.e6fbb14b3e8d3af52d56b4f2b1ae3a06.jpg
+HALF-FRESH-972-_JPG.rf.72dd24572fc70680e5255bf3c24e7520.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-972-_JPG.rf.72dd24572fc70680e5255bf3c24e7520.jpg
+HALF-FRESH-977-_JPG.rf.9bf66b759e122b2d5474b045001320f1.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-977-_JPG.rf.9bf66b759e122b2d5474b045001320f1.jpg
+HALF-FRESH-981-_JPG.rf.07d1ae3614ae9d24f94c8813a2045c68.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-981-_JPG.rf.07d1ae3614ae9d24f94c8813a2045c68.jpg
+HALF-FRESH-986-_JPG.rf.adc08699861328a19dcf15f9fcedf334.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-986-_JPG.rf.adc08699861328a19dcf15f9fcedf334.jpg
+HALF-FRESH-990-_JPG.rf.3e0ab8373e787e84301419b8390007ff.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-990-_JPG.rf.3e0ab8373e787e84301419b8390007ff.jpg
+HALF-FRESH-995-_JPG.rf.f296689549e1d1e028136846420c5733.jpg,,Unknown,not fresh,,E:\Thesis Code\Public Dataset\not fresh\HALF-FRESH-995-_JPG.rf.f296689549e1d1e028136846420c5733.jpg
+SPOILED-1000-_JPG.rf.a2604327a078b85c939c65b75396f9bc.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-1000-_JPG.rf.a2604327a078b85c939c65b75396f9bc.jpg
+SPOILED-1004-_JPG.rf.22b3b6738c70c2ccabcf88970ac8edd5.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-1004-_JPG.rf.22b3b6738c70c2ccabcf88970ac8edd5.jpg
+SPOILED-1008-_JPG.rf.51acdf3d5ccb48a46aafe8786859e0a2.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-1008-_JPG.rf.51acdf3d5ccb48a46aafe8786859e0a2.jpg
+SPOILED-1011-_JPG.rf.f68dba34f5b3f609ad02aecb7070e35e.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-1011-_JPG.rf.f68dba34f5b3f609ad02aecb7070e35e.jpg
+SPOILED-1015-_JPG.rf.26b167b2e4ce44b06d92064ea93b29a5.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-1015-_JPG.rf.26b167b2e4ce44b06d92064ea93b29a5.jpg
+SPOILED-1019-_JPG.rf.3dee20fa7d9dbb94730b5189389716a6.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-1019-_JPG.rf.3dee20fa7d9dbb94730b5189389716a6.jpg
+SPOILED-1022-_JPG.rf.12d65949903bca7e2b686957c0a0f3bb.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-1022-_JPG.rf.12d65949903bca7e2b686957c0a0f3bb.jpg
+SPOILED-1026-_JPG.rf.583052b156fe328ada1cc3fd6ff6d1a4.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-1026-_JPG.rf.583052b156fe328ada1cc3fd6ff6d1a4.jpg
+SPOILED-103-_JPG.rf.181559f1233681da19cf1b0ccc5dc8ee.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-103-_JPG.rf.181559f1233681da19cf1b0ccc5dc8ee.jpg
+SPOILED-1033-_JPG.rf.98fa05a79b29a4923b2fd2dc2091a508.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-1033-_JPG.rf.98fa05a79b29a4923b2fd2dc2091a508.jpg
+SPOILED-1037-_JPG.rf.6d97cea6bae1c64662be7d0ad760670e.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-1037-_JPG.rf.6d97cea6bae1c64662be7d0ad760670e.jpg
+SPOILED-1040-_JPG.rf.ef59512d394e3aaca84c6cf3412a9d4e.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-1040-_JPG.rf.ef59512d394e3aaca84c6cf3412a9d4e.jpg
+SPOILED-1044-_JPG.rf.8c7095652a88b07d66b9c4510dd9ee96.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-1044-_JPG.rf.8c7095652a88b07d66b9c4510dd9ee96.jpg
+SPOILED-108-_JPG.rf.26b827d99ef96fea05aec73fcd23098b.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-108-_JPG.rf.26b827d99ef96fea05aec73fcd23098b.jpg
+SPOILED-111-_JPG.rf.5238ce07a45a93e8cc632f6dbf7c80c3.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-111-_JPG.rf.5238ce07a45a93e8cc632f6dbf7c80c3.jpg
+SPOILED-115-_JPG.rf.06beedbf8f6c6a3f694ca7aa2a076af4.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-115-_JPG.rf.06beedbf8f6c6a3f694ca7aa2a076af4.jpg
+SPOILED-119-_JPG.rf.674ca40eeeb7bf735312b19380d2846d.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-119-_JPG.rf.674ca40eeeb7bf735312b19380d2846d.jpg
+SPOILED-122-_JPG.rf.0207f2ad2acf8ebf37ef4811ff95e5a9.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-122-_JPG.rf.0207f2ad2acf8ebf37ef4811ff95e5a9.jpg
+SPOILED-126-_JPG.rf.1b638b1f916cf4b6557da16b27e9e07f.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-126-_JPG.rf.1b638b1f916cf4b6557da16b27e9e07f.jpg
+SPOILED-13-_JPG.rf.d6d70fb4e4a2e2751dc4bfd36a18566f.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-13-_JPG.rf.d6d70fb4e4a2e2751dc4bfd36a18566f.jpg
+SPOILED-133-_JPG.rf.16e3599c53f44b661ed7186ab8bc6a5e.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-133-_JPG.rf.16e3599c53f44b661ed7186ab8bc6a5e.jpg
+SPOILED-137-_JPG.rf.db8a98d035e6a26ef7d063f244a2c189.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-137-_JPG.rf.db8a98d035e6a26ef7d063f244a2c189.jpg
+SPOILED-140-_JPG.rf.f797ca810009695fa9eb22e8b2c11492.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-140-_JPG.rf.f797ca810009695fa9eb22e8b2c11492.jpg
+SPOILED-144-_JPG.rf.0023c32411f03c7ab38608c60b530724.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-144-_JPG.rf.0023c32411f03c7ab38608c60b530724.jpg
+SPOILED-148-_JPG.rf.53cc7f93785f3514a057574fe7f0f7df.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-148-_JPG.rf.53cc7f93785f3514a057574fe7f0f7df.jpg
+SPOILED-151-_JPG.rf.f1bafc98431171433ceacf834b751b4c.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-151-_JPG.rf.f1bafc98431171433ceacf834b751b4c.jpg
+SPOILED-155-_JPG.rf.9639cc7171d7850615e43aeaffcfedfb.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-155-_JPG.rf.9639cc7171d7850615e43aeaffcfedfb.jpg
+SPOILED-159-_JPG.rf.91b1db3ef42447d4fe5763ab17b8e7fa.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-159-_JPG.rf.91b1db3ef42447d4fe5763ab17b8e7fa.jpg
+SPOILED-162-_JPG.rf.4bd9a0c812af465ebe013c1a8c577341.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-162-_JPG.rf.4bd9a0c812af465ebe013c1a8c577341.jpg
+SPOILED-166-_JPG.rf.ba1e0b31163d4f4a0643b975d531e5ee.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-166-_JPG.rf.ba1e0b31163d4f4a0643b975d531e5ee.jpg
+SPOILED-17-_JPG.rf.ead567e55cab851938dd327279bccdba.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-17-_JPG.rf.ead567e55cab851938dd327279bccdba.jpg
+SPOILED-173-_JPG.rf.275135e32307de9009f569ef59936b58.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-173-_JPG.rf.275135e32307de9009f569ef59936b58.jpg
+SPOILED-177-_JPG.rf.913814bce729c6fdd754bec1248b0d04.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-177-_JPG.rf.913814bce729c6fdd754bec1248b0d04.jpg
+SPOILED-180-_JPG.rf.b585d4e642b35da0c395188964f330fa.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-180-_JPG.rf.b585d4e642b35da0c395188964f330fa.jpg
+SPOILED-184-_JPG.rf.62cea6d27c093827eba7f8dc41aade4a.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-184-_JPG.rf.62cea6d27c093827eba7f8dc41aade4a.jpg
+SPOILED-188-_JPG.rf.ef484e0d0de6654db9552491fe5d8cf1.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-188-_JPG.rf.ef484e0d0de6654db9552491fe5d8cf1.jpg
+SPOILED-191-_JPG.rf.b8d9c35b6cfc74168bf2b4a508a4bf15.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-191-_JPG.rf.b8d9c35b6cfc74168bf2b4a508a4bf15.jpg
+SPOILED-195-_JPG.rf.aafbafc8e14972581f5be25dc3b301cf.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-195-_JPG.rf.aafbafc8e14972581f5be25dc3b301cf.jpg
+SPOILED-199-_JPG.rf.520a79d0f1fc703151b3f26a323b4d84.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-199-_JPG.rf.520a79d0f1fc703151b3f26a323b4d84.jpg
+SPOILED-201-_JPG.rf.3d1edf32905e6fb4cc85c5579e5f4e37.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-201-_JPG.rf.3d1edf32905e6fb4cc85c5579e5f4e37.jpg
+SPOILED-205-_JPG.rf.c826274ba0aa34fced46ae17586119d6.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-205-_JPG.rf.c826274ba0aa34fced46ae17586119d6.jpg
+SPOILED-209-_JPG.rf.242c9e5d39874eaf9e99d8d3c3598094.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-209-_JPG.rf.242c9e5d39874eaf9e99d8d3c3598094.jpg
+SPOILED-212-_JPG.rf.eb1e871e98a6f661efee1986a729d51c.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-212-_JPG.rf.eb1e871e98a6f661efee1986a729d51c.jpg
+SPOILED-216-_JPG.rf.17ef12b9c692ff9c10077ea35a9c0b4c.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-216-_JPG.rf.17ef12b9c692ff9c10077ea35a9c0b4c.jpg
+SPOILED-22-_JPG.rf.e836d9c52f179b2b0689301629e86c15.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-22-_JPG.rf.e836d9c52f179b2b0689301629e86c15.jpg
+SPOILED-223-_JPG.rf.d8b30303843cee4840d2b39a77a23412.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-223-_JPG.rf.d8b30303843cee4840d2b39a77a23412.jpg
+SPOILED-227-_JPG.rf.993370965ad56ce7773bef3b3cf09ef8.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-227-_JPG.rf.993370965ad56ce7773bef3b3cf09ef8.jpg
+SPOILED-230-_JPG.rf.796339e7b787db3b8ff8a5bea55421d2.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-230-_JPG.rf.796339e7b787db3b8ff8a5bea55421d2.jpg
+SPOILED-234-_JPG.rf.fc667e9e6ed0cf128e3beebc7437d192.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-234-_JPG.rf.fc667e9e6ed0cf128e3beebc7437d192.jpg
+SPOILED-238-_JPG.rf.6dbbd7f7812978644c959b17a15725fd.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-238-_JPG.rf.6dbbd7f7812978644c959b17a15725fd.jpg
+SPOILED-241-_JPG.rf.a6520b61c944bf35a1ae0e36ed1d58d4.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-241-_JPG.rf.a6520b61c944bf35a1ae0e36ed1d58d4.jpg
+SPOILED-245-_JPG.rf.9b711c86c1142a8bbcb1682a1f8dadad.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-245-_JPG.rf.9b711c86c1142a8bbcb1682a1f8dadad.jpg
+SPOILED-249-_JPG.rf.6b435a30fd4b284c3391c1a6946c0a6c.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-249-_JPG.rf.6b435a30fd4b284c3391c1a6946c0a6c.jpg
+SPOILED-252-_JPG.rf.caf31d5ca7dccd81139bf97b99457a4d.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-252-_JPG.rf.caf31d5ca7dccd81139bf97b99457a4d.jpg
+SPOILED-256-_JPG.rf.6217e05592290a2d261398b682a1103f.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-256-_JPG.rf.6217e05592290a2d261398b682a1103f.jpg
+SPOILED-26-_JPG.rf.59b69017d91e0af8f36accf2d71aef25.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-26-_JPG.rf.59b69017d91e0af8f36accf2d71aef25.jpg
+SPOILED-263-_JPG.rf.eef959c9ba893274d66616917863a808.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-263-_JPG.rf.eef959c9ba893274d66616917863a808.jpg
+SPOILED-267-_JPG.rf.2d41d58155f2a07e054170d5fea75cb3.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-267-_JPG.rf.2d41d58155f2a07e054170d5fea75cb3.jpg
+SPOILED-270-_JPG.rf.3d3633e435149dee95a5d68d621c6f1b.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-270-_JPG.rf.3d3633e435149dee95a5d68d621c6f1b.jpg
+SPOILED-274-_JPG.rf.44e2def2b04de2a1c3bba2266e76f271.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-274-_JPG.rf.44e2def2b04de2a1c3bba2266e76f271.jpg
+SPOILED-278-_JPG.rf.b80b2ffcc22a51a8028267a249072e8e.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-278-_JPG.rf.b80b2ffcc22a51a8028267a249072e8e.jpg
+SPOILED-281-_JPG.rf.58a002ca0f7da2273d0b2e22bec18fb2.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-281-_JPG.rf.58a002ca0f7da2273d0b2e22bec18fb2.jpg
+SPOILED-285-_JPG.rf.41d5af3903f068a76346b93ef20a78f0.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-285-_JPG.rf.41d5af3903f068a76346b93ef20a78f0.jpg
+SPOILED-289-_JPG.rf.b3ad5d5b14aef62c43b4b6751ab0434a.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-289-_JPG.rf.b3ad5d5b14aef62c43b4b6751ab0434a.jpg
+SPOILED-292-_JPG.rf.bd7a56c8ccd89e5b11a37956c4c10c48.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-292-_JPG.rf.bd7a56c8ccd89e5b11a37956c4c10c48.jpg
+SPOILED-296-_JPG.rf.d2979c14a84e6766b4252f5fcd3ac610.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-296-_JPG.rf.d2979c14a84e6766b4252f5fcd3ac610.jpg
+SPOILED-3-_JPG.rf.61ddb6d24fa910f849334bc4032b2be2.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-3-_JPG.rf.61ddb6d24fa910f849334bc4032b2be2.jpg
+SPOILED-302-_JPG.rf.563d23f5f86bb8b458c541383ce9a466.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-302-_JPG.rf.563d23f5f86bb8b458c541383ce9a466.jpg
+SPOILED-306-_JPG.rf.c97045698def759193405a29a708152d.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-306-_JPG.rf.c97045698def759193405a29a708152d.jpg
+SPOILED-31-_JPG.rf.b4e897419671520bd255ad09ad8c0d6c.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-31-_JPG.rf.b4e897419671520bd255ad09ad8c0d6c.jpg
+SPOILED-313-_JPG.rf.61cdc7646ad8b7c4d1b02ab59b779efa.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-313-_JPG.rf.61cdc7646ad8b7c4d1b02ab59b779efa.jpg
+SPOILED-317-_JPG.rf.97e559b83cf3109bf8f6934c6e14f791.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-317-_JPG.rf.97e559b83cf3109bf8f6934c6e14f791.jpg
+SPOILED-320-_JPG.rf.627331cd226ef82c59a01fe34047ab23.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-320-_JPG.rf.627331cd226ef82c59a01fe34047ab23.jpg
+SPOILED-324-_JPG.rf.22ef4a6301bde210b16e515268dc6835.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-324-_JPG.rf.22ef4a6301bde210b16e515268dc6835.jpg
+SPOILED-328-_JPG.rf.04d8f06ddbca439d22a7916b36fd3646.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-328-_JPG.rf.04d8f06ddbca439d22a7916b36fd3646.jpg
+SPOILED-331-_JPG.rf.248b20f0b3c568d2dda7ebcf17826d17.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-331-_JPG.rf.248b20f0b3c568d2dda7ebcf17826d17.jpg
+SPOILED-335-_JPG.rf.244e5a9baad3aaad28435ff538efb14b.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-335-_JPG.rf.244e5a9baad3aaad28435ff538efb14b.jpg
+SPOILED-339-_JPG.rf.fa2ba7a841d2fc746694253675b72cf2.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-339-_JPG.rf.fa2ba7a841d2fc746694253675b72cf2.jpg
+SPOILED-342-_JPG.rf.86ec23f1b0b6b51217f70687adfb403c.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-342-_JPG.rf.86ec23f1b0b6b51217f70687adfb403c.jpg
+SPOILED-346-_JPG.rf.84dcdd0d78459de103679fc4072923b9.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-346-_JPG.rf.84dcdd0d78459de103679fc4072923b9.jpg
+SPOILED-35-_JPG.rf.ba65c912d2f737e7859d763fa3ab9e37.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-35-_JPG.rf.ba65c912d2f737e7859d763fa3ab9e37.jpg
+SPOILED-353-_JPG.rf.5d4b9a9ad1386320d6e2dc46abdf47ab.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-353-_JPG.rf.5d4b9a9ad1386320d6e2dc46abdf47ab.jpg
+SPOILED-357-_JPG.rf.83548a5778b455a96a2b9d84c3a67ce4.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-357-_JPG.rf.83548a5778b455a96a2b9d84c3a67ce4.jpg
+SPOILED-360-_JPG.rf.bc5eed1c8f75a6a7022c1b7a0d4166f8.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-360-_JPG.rf.bc5eed1c8f75a6a7022c1b7a0d4166f8.jpg
+SPOILED-364-_JPG.rf.eb68b3d198e0ab408670be094c7aa859.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-364-_JPG.rf.eb68b3d198e0ab408670be094c7aa859.jpg
+SPOILED-368-_JPG.rf.240071fcbd5d5001aea9e2a7008091c9.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-368-_JPG.rf.240071fcbd5d5001aea9e2a7008091c9.jpg
+SPOILED-371-_JPG.rf.7a63742c2755b0fd68371503f6612608.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-371-_JPG.rf.7a63742c2755b0fd68371503f6612608.jpg
+SPOILED-375-_JPG.rf.1be2c832dc13b0ea5a0394819b017520.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-375-_JPG.rf.1be2c832dc13b0ea5a0394819b017520.jpg
+SPOILED-379-_JPG.rf.b64185006f6e6bff9d26a549649e6ab4.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-379-_JPG.rf.b64185006f6e6bff9d26a549649e6ab4.jpg
+SPOILED-382-_JPG.rf.0c7130dd8d5cc3eb74d85112562bfc9f.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-382-_JPG.rf.0c7130dd8d5cc3eb74d85112562bfc9f.jpg
+SPOILED-386-_JPG.rf.4c0a158c78b03b55be3c75f727ba0da8.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-386-_JPG.rf.4c0a158c78b03b55be3c75f727ba0da8.jpg
+SPOILED-39-_JPG.rf.48faa1a806a673049769d072dbb65495.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-39-_JPG.rf.48faa1a806a673049769d072dbb65495.jpg
+SPOILED-393-_JPG.rf.14345009e9da7d6390b42682ceb6da4d.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-393-_JPG.rf.14345009e9da7d6390b42682ceb6da4d.jpg
+SPOILED-397-_JPG.rf.1dd1c04f4f044cf2fc0460104f5fdaa3.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-397-_JPG.rf.1dd1c04f4f044cf2fc0460104f5fdaa3.jpg
+SPOILED-40-_JPG.rf.2eb02484e53dbc1fc2e5ca518408992b.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-40-_JPG.rf.2eb02484e53dbc1fc2e5ca518408992b.jpg
+SPOILED-403-_JPG.rf.78991dffa472cb9889b03826d10752d9.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-403-_JPG.rf.78991dffa472cb9889b03826d10752d9.jpg
+SPOILED-407-_JPG.rf.6689c3e0f9c8c27f3ab75b46011c478d.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-407-_JPG.rf.6689c3e0f9c8c27f3ab75b46011c478d.jpg
+SPOILED-410-_JPG.rf.a608c232079175ee255eb0cb619f3859.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-410-_JPG.rf.a608c232079175ee255eb0cb619f3859.jpg
+SPOILED-414-_JPG.rf.dc2716796b148a91adc2d4ccda25bb2d.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-414-_JPG.rf.dc2716796b148a91adc2d4ccda25bb2d.jpg
+SPOILED-418-_JPG.rf.b9c343ef6a19a166eb2fab6c91e9c530.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-418-_JPG.rf.b9c343ef6a19a166eb2fab6c91e9c530.jpg
+SPOILED-421-_JPG.rf.61efd71ac6ac9848122d08178ad73a17.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-421-_JPG.rf.61efd71ac6ac9848122d08178ad73a17.jpg
+SPOILED-425-_JPG.rf.b1473b0bcfab61536c49a3ee2514d4df.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-425-_JPG.rf.b1473b0bcfab61536c49a3ee2514d4df.jpg
+SPOILED-429-_JPG.rf.a16f7b658e0d15e9f96547ffc386a11b.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-429-_JPG.rf.a16f7b658e0d15e9f96547ffc386a11b.jpg
+SPOILED-432-_JPG.rf.9841dfec28281cfa54452d3f0c306aa6.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-432-_JPG.rf.9841dfec28281cfa54452d3f0c306aa6.jpg
+SPOILED-436-_JPG.rf.d4df357e45cbe65489a4a1ebee9775da.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-436-_JPG.rf.d4df357e45cbe65489a4a1ebee9775da.jpg
+SPOILED-44-_JPG.rf.482cfeb04ad330ac8dc9af0a7f8ef81b.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-44-_JPG.rf.482cfeb04ad330ac8dc9af0a7f8ef81b.jpg
+SPOILED-443-_JPG.rf.ab9f0a07398e798cb9fa684417d7926c.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-443-_JPG.rf.ab9f0a07398e798cb9fa684417d7926c.jpg
+SPOILED-447-_JPG.rf.1778631c1a6f966856c2c6d810ea1774.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-447-_JPG.rf.1778631c1a6f966856c2c6d810ea1774.jpg
+SPOILED-450-_JPG.rf.58adf9a41e7c63876ec256a0136258b6.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-450-_JPG.rf.58adf9a41e7c63876ec256a0136258b6.jpg
+SPOILED-454-_JPG.rf.82a5d6ea1511fa867caf8416048277ab.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-454-_JPG.rf.82a5d6ea1511fa867caf8416048277ab.jpg
+SPOILED-458-_JPG.rf.ea9ab7bf5d432407de720dde17192a54.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-458-_JPG.rf.ea9ab7bf5d432407de720dde17192a54.jpg
+SPOILED-461-_JPG.rf.e862421f436b769edf7e9e85dbdbadb0.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-461-_JPG.rf.e862421f436b769edf7e9e85dbdbadb0.jpg
+SPOILED-465-_JPG.rf.a4f6ddac61460f82d29916c02b50d158.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-465-_JPG.rf.a4f6ddac61460f82d29916c02b50d158.jpg
+SPOILED-469-_JPG.rf.39cdfffaf30b04c82b9fb86c1e54727d.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-469-_JPG.rf.39cdfffaf30b04c82b9fb86c1e54727d.jpg
+SPOILED-472-_JPG.rf.8ed2c7308ef6840cdc3221e2cf6dcc88.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-472-_JPG.rf.8ed2c7308ef6840cdc3221e2cf6dcc88.jpg
+SPOILED-476-_JPG.rf.a57743c8cb76d6c0e4ce57edae4e982a.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-476-_JPG.rf.a57743c8cb76d6c0e4ce57edae4e982a.jpg
+SPOILED-48-_JPG.rf.9305a3e41fe952c0fcd813c8347e72be.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-48-_JPG.rf.9305a3e41fe952c0fcd813c8347e72be.jpg
+SPOILED-483-_JPG.rf.0f6bfa14ba10442e76cccff3dcf0d575.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-483-_JPG.rf.0f6bfa14ba10442e76cccff3dcf0d575.jpg
+SPOILED-487-_JPG.rf.34963daef43af9b2a6fd9af7e1f21f27.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-487-_JPG.rf.34963daef43af9b2a6fd9af7e1f21f27.jpg
+SPOILED-490-_JPG.rf.56a0be42dae8e67015a027f8dab97711.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-490-_JPG.rf.56a0be42dae8e67015a027f8dab97711.jpg
+SPOILED-494-_JPG.rf.5cc05c8e9e258b9ae1e7e83cbe3b4fa8.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-494-_JPG.rf.5cc05c8e9e258b9ae1e7e83cbe3b4fa8.jpg
+SPOILED-498-_JPG.rf.3f5d957e2319e6437d0c991918bc337c.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-498-_JPG.rf.3f5d957e2319e6437d0c991918bc337c.jpg
+SPOILED-500-_JPG.rf.8200b98156b4df76a6f2e4899f6a0078.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-500-_JPG.rf.8200b98156b4df76a6f2e4899f6a0078.jpg
+SPOILED-504-_JPG.rf.bd7adde8075295a77ae4f7252203d9d7.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-504-_JPG.rf.bd7adde8075295a77ae4f7252203d9d7.jpg
+SPOILED-508-_JPG.rf.eedb8e2188bccca579c38a72ac7d0d92.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-508-_JPG.rf.eedb8e2188bccca579c38a72ac7d0d92.jpg
+SPOILED-53-_JPG.rf.e87aafe80cbf417051770195a68ac32a.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-53-_JPG.rf.e87aafe80cbf417051770195a68ac32a.jpg
+SPOILED-549-_JPG.rf.47c51c92793de156596240948093598e.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-549-_JPG.rf.47c51c92793de156596240948093598e.jpg
+SPOILED-57-_JPG.rf.aaa5d027b6745af87f790032b26ae147.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-57-_JPG.rf.aaa5d027b6745af87f790032b26ae147.jpg
+SPOILED-602-_JPG.rf.e6c32f1c0a323459e665ed3dce04aa09.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-602-_JPG.rf.e6c32f1c0a323459e665ed3dce04aa09.jpg
+SPOILED-606-_JPG.rf.4be03c863f3f2173b2defed33d7a70bc.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-606-_JPG.rf.4be03c863f3f2173b2defed33d7a70bc.jpg
+SPOILED-610-_JPG.rf.12c0cef522c270d73cf619adb48b78f0.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-610-_JPG.rf.12c0cef522c270d73cf619adb48b78f0.jpg
+SPOILED-614-_JPG.rf.3a58eab162fb64ca2c63a5af7a7e51fa.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-614-_JPG.rf.3a58eab162fb64ca2c63a5af7a7e51fa.jpg
+SPOILED-618-_JPG.rf.0b077de48b3ecc5e5c3a969336b24f11.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-618-_JPG.rf.0b077de48b3ecc5e5c3a969336b24f11.jpg
+SPOILED-622-_JPG.rf.a22c779a915b4f4690e0af2f3cee0e7a.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-622-_JPG.rf.a22c779a915b4f4690e0af2f3cee0e7a.jpg
+SPOILED-626-_JPG.rf.15a81026aa20f3640e7684692e7db5e7.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-626-_JPG.rf.15a81026aa20f3640e7684692e7db5e7.jpg
+SPOILED-630-_JPG.rf.2eeb2e013056f437bb53f3e5e2075686.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-630-_JPG.rf.2eeb2e013056f437bb53f3e5e2075686.jpg
+SPOILED-634-_JPG.rf.0c76e7e9c6e74f11474d68012941f0df.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-634-_JPG.rf.0c76e7e9c6e74f11474d68012941f0df.jpg
+SPOILED-638-_JPG.rf.37a2cea7214a0c5526b56bd1256b6c0c.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-638-_JPG.rf.37a2cea7214a0c5526b56bd1256b6c0c.jpg
+SPOILED-642-_JPG.rf.0e47b3898bb3d8ed8fa931bc32e150a3.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-642-_JPG.rf.0e47b3898bb3d8ed8fa931bc32e150a3.jpg
+SPOILED-646-_JPG.rf.5d1fd109686f21a3a4b1bd5ed67e69f0.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-646-_JPG.rf.5d1fd109686f21a3a4b1bd5ed67e69f0.jpg
+SPOILED-650-_JPG.rf.11a574eca3bc268018e869e91f039ca4.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-650-_JPG.rf.11a574eca3bc268018e869e91f039ca4.jpg
+SPOILED-713-_JPG.rf.87db25da7f74c708f7760e1534aac620.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-713-_JPG.rf.87db25da7f74c708f7760e1534aac620.jpg
+SPOILED-717-_JPG.rf.fcbe0e42c739be106c95e2b9d0943ffc.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-717-_JPG.rf.fcbe0e42c739be106c95e2b9d0943ffc.jpg
+SPOILED-721-_JPG.rf.fc1a8292a0d6fa025fdfcac84bf5b360.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-721-_JPG.rf.fc1a8292a0d6fa025fdfcac84bf5b360.jpg
+SPOILED-725-_JPG.rf.8d4cde4529fc4c6a8f0d6f58af5b4e00.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-725-_JPG.rf.8d4cde4529fc4c6a8f0d6f58af5b4e00.jpg
+SPOILED-729-_JPG.rf.c5deea5bde14914acf8fb974ce12cab4.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-729-_JPG.rf.c5deea5bde14914acf8fb974ce12cab4.jpg
+SPOILED-733-_JPG.rf.b8835c71d7fd1a81912f85c52b021595.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-733-_JPG.rf.b8835c71d7fd1a81912f85c52b021595.jpg
+SPOILED-737-_JPG.rf.06eacf8226eafbfafe207543740a3541.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-737-_JPG.rf.06eacf8226eafbfafe207543740a3541.jpg
+SPOILED-741-_JPG.rf.b7b96075503ac33d7333fba5d65d05d6.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-741-_JPG.rf.b7b96075503ac33d7333fba5d65d05d6.jpg
+SPOILED-745-_JPG.rf.f7a377399dd86380a0ce3bdad589bf40.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-745-_JPG.rf.f7a377399dd86380a0ce3bdad589bf40.jpg
+SPOILED-749-_JPG.rf.65f8c37152b1a8cd010934be13ee83d8.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-749-_JPG.rf.65f8c37152b1a8cd010934be13ee83d8.jpg
+SPOILED-753-_JPG.rf.79c794df2f85966285cf29c1a84a1265.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-753-_JPG.rf.79c794df2f85966285cf29c1a84a1265.jpg
+SPOILED-757-_JPG.rf.912208b1011d424748665d384b364362.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-757-_JPG.rf.912208b1011d424748665d384b364362.jpg
+SPOILED-991-_JPG.rf.6755b4d50f457223c97fc78eaaeb79d0.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-991-_JPG.rf.6755b4d50f457223c97fc78eaaeb79d0.jpg
+SPOILED-995-_JPG.rf.4d3e95391d8c2c344d9bad8d4d988b2b.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-995-_JPG.rf.4d3e95391d8c2c344d9bad8d4d988b2b.jpg
+SPOILED-999-_JPG.rf.2f42605fadf7e6952691ca1e549fa296.jpg,,Unknown,spoiled,,E:\Thesis Code\Public Dataset\spoiled\SPOILED-999-_JPG.rf.2f42605fadf7e6952691ca1e549fa296.jpg

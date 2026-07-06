@@ -1,0 +1,9 @@
+fold,held_out_sample,present_in_train,present_in_val,status
+fold1,pork_shoulder_sample_1,False,False,PASS
+fold2,pork_shoulder_sample_2,False,False,PASS
+fold3,pork_belly_sample_3,False,False,PASS
+fold4,pork_belly_sample_4,False,False,PASS
+fold5,pork_ham_sample_5,False,False,PASS
+fold6,pork_ham_sample_6,False,False,PASS
+fold7,pork_loin_sample_7,False,False,PASS
+fold8,pork_loin_sample_8,False,False,PASS

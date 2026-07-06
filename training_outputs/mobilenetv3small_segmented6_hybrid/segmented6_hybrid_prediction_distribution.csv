@@ -1,0 +1,55 @@
+fold_name,seed,label,predicted_count
+fold1,42,fresh,19
+fold1,42,not fresh,0
+fold1,42,spoiled,581
+fold1,123,fresh,49
+fold1,123,not fresh,1
+fold1,123,spoiled,550
+fold1,2026,fresh,68
+fold1,2026,not fresh,18
+fold1,2026,spoiled,514
+fold2,42,fresh,24
+fold2,42,not fresh,123
+fold2,42,spoiled,453
+fold2,123,fresh,1
+fold2,123,not fresh,95
+fold2,123,spoiled,504
+fold2,2026,fresh,9
+fold2,2026,not fresh,0
+fold2,2026,spoiled,591
+fold3,42,fresh,160
+fold3,42,not fresh,92
+fold3,42,spoiled,266
+fold3,123,fresh,154
+fold3,123,not fresh,105
+fold3,123,spoiled,259
+fold3,2026,fresh,168
+fold3,2026,not fresh,167
+fold3,2026,spoiled,183
+fold4,42,fresh,175
+fold4,42,not fresh,118
+fold4,42,spoiled,257
+fold4,123,fresh,231
+fold4,123,not fresh,55
+fold4,123,spoiled,264
+fold4,2026,fresh,204
+fold4,2026,not fresh,72
+fold4,2026,spoiled,274
+fold5,42,fresh,299
+fold5,42,not fresh,56
+fold5,42,spoiled,245
+fold5,123,fresh,369
+fold5,123,not fresh,39
+fold5,123,spoiled,192
+fold5,2026,fresh,347
+fold5,2026,not fresh,18
+fold5,2026,spoiled,235
+fold6,42,fresh,159
+fold6,42,not fresh,441
+fold6,42,spoiled,0
+fold6,123,fresh,93
+fold6,123,not fresh,507
+fold6,123,spoiled,0
+fold6,2026,fresh,208
+fold6,2026,not fresh,392
+fold6,2026,spoiled,0

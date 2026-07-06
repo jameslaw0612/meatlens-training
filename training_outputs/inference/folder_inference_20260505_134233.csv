@@ -1,0 +1,4 @@
+image_path,file_name,predicted_class,confidence,freshness_score,recommendation,prob_fresh,prob_not fresh,prob_spoiled
+e:\Thesis Code\training_outputs\inference\uploaded_zips\zip_20260505_134231\extracted\New folder (2)\20260424_055602.jpg,20260424_055602.jpg,fresh,0.999766,99.99,Good for Consumption,0.999766,3.8e-05,0.000196
+e:\Thesis Code\training_outputs\inference\uploaded_zips\zip_20260505_134231\extracted\New folder (2)\20260424_145248.jpg,20260424_145248.jpg,fresh,0.998602,99.96,Good for Consumption,0.998602,0.000122,0.001276
+e:\Thesis Code\training_outputs\inference\uploaded_zips\zip_20260505_134231\extracted\New folder (2)\20260425_122220.jpg,20260425_122220.jpg,fresh,0.97538,99.26,Good for Consumption,0.97538,0.018469,0.006151

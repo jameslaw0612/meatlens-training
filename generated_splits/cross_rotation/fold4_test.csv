@@ -1,0 +1,473 @@
+image_file_name,sample_number,meat_part,label,time_frame,file_destination,sample_id,pork_cut,split_type,fold,source
+20260429_065044.jpg,4,Pork Belly,fresh,00:00:00,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_065044.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_065114.jpg,4,Pork Belly,fresh,00:02:25,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_065114.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_065144.jpg,4,Pork Belly,fresh,00:04:50,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_065144.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_065214.jpg,4,Pork Belly,fresh,00:07:15,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_065214.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_065244.jpg,4,Pork Belly,fresh,00:09:40,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_065244.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_065315.jpg,4,Pork Belly,fresh,00:12:05,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_065315.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_065344.jpg,4,Pork Belly,fresh,00:14:30,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_065344.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_065415.jpg,4,Pork Belly,fresh,00:16:55,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_065415.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_065445.jpg,4,Pork Belly,fresh,00:19:20,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_065445.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_065515.jpg,4,Pork Belly,fresh,00:21:45,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_065515.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_065545.jpg,4,Pork Belly,fresh,00:24:10,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_065545.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_065615.jpg,4,Pork Belly,fresh,00:26:35,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_065615.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_065645.jpg,4,Pork Belly,fresh,00:29:00,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_065645.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_065715.jpg,4,Pork Belly,fresh,00:31:25,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_065715.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_065745.jpg,4,Pork Belly,fresh,00:33:50,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_065745.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_065815.jpg,4,Pork Belly,fresh,00:36:14,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_065815.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_065845.jpg,4,Pork Belly,fresh,00:38:39,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_065845.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_065915.jpg,4,Pork Belly,fresh,00:41:04,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_065915.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_065946.jpg,4,Pork Belly,fresh,00:43:29,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_065946.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_070015.jpg,4,Pork Belly,fresh,00:45:54,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_070015.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_070045.jpg,4,Pork Belly,fresh,00:48:19,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_070045.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_070116.jpg,4,Pork Belly,fresh,00:50:44,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_070116.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_070146.jpg,4,Pork Belly,fresh,00:53:09,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_070146.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_070216.jpg,4,Pork Belly,fresh,00:55:34,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_070216.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_070246.jpg,4,Pork Belly,fresh,00:57:59,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_070246.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_070316.jpg,4,Pork Belly,fresh,01:00:24,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_070316.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_070346.jpg,4,Pork Belly,fresh,01:02:49,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_070346.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_070416.jpg,4,Pork Belly,fresh,01:05:14,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_070416.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_070446.jpg,4,Pork Belly,fresh,01:07:39,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_070446.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_070517.jpg,4,Pork Belly,fresh,01:10:04,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_070517.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_070547.jpg,4,Pork Belly,fresh,01:12:29,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_070547.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_070616.jpg,4,Pork Belly,fresh,01:14:54,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_070616.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_070647.jpg,4,Pork Belly,fresh,01:17:19,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_070647.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_070716.jpg,4,Pork Belly,fresh,01:19:44,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_070716.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_070747.jpg,4,Pork Belly,fresh,01:22:09,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_070747.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_070817.jpg,4,Pork Belly,fresh,01:24:34,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_070817.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_070847.jpg,4,Pork Belly,fresh,01:26:59,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_070847.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_070917.jpg,4,Pork Belly,fresh,01:29:24,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_070917.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_070947.jpg,4,Pork Belly,fresh,01:31:49,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_070947.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_071017.jpg,4,Pork Belly,fresh,01:34:14,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_071017.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_071047.jpg,4,Pork Belly,fresh,01:36:39,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_071047.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_071117.jpg,4,Pork Belly,fresh,01:39:04,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_071117.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_071147.jpg,4,Pork Belly,fresh,01:41:29,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_071147.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_071217.jpg,4,Pork Belly,fresh,01:43:54,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_071217.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_071248.jpg,4,Pork Belly,fresh,01:46:19,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_071248.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_071318.jpg,4,Pork Belly,fresh,01:48:43,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_071318.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_071348.jpg,4,Pork Belly,fresh,01:51:08,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_071348.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_071418.jpg,4,Pork Belly,fresh,01:53:33,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_071418.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_071448.jpg,4,Pork Belly,fresh,01:55:58,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_071448.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_071518.jpg,4,Pork Belly,fresh,01:58:23,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_071518.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_071548.jpg,4,Pork Belly,fresh,02:00:48,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_071548.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_071618.jpg,4,Pork Belly,fresh,02:03:13,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_071618.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_071648.jpg,4,Pork Belly,fresh,02:05:38,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_071648.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_071718.jpg,4,Pork Belly,fresh,02:08:03,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_071718.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_071748.jpg,4,Pork Belly,fresh,02:10:28,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_071748.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_071819.jpg,4,Pork Belly,fresh,02:12:53,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_071819.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_071849.jpg,4,Pork Belly,fresh,02:15:18,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_071849.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_071919.jpg,4,Pork Belly,fresh,02:17:43,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_071919.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_071949.jpg,4,Pork Belly,fresh,02:20:08,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_071949.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_072019.jpg,4,Pork Belly,fresh,02:22:33,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_072019.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_072049.jpg,4,Pork Belly,fresh,02:24:58,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_072049.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_072119.jpg,4,Pork Belly,fresh,02:27:23,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_072119.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_072149.jpg,4,Pork Belly,fresh,02:29:48,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_072149.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_072219.jpg,4,Pork Belly,fresh,02:32:13,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_072219.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_072249.jpg,4,Pork Belly,fresh,02:34:38,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_072249.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_072319.jpg,4,Pork Belly,fresh,02:37:03,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_072319.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_072350.jpg,4,Pork Belly,fresh,02:39:28,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_072350.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_072419.jpg,4,Pork Belly,fresh,02:41:53,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_072419.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_072449.jpg,4,Pork Belly,fresh,02:44:18,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_072449.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_072520.jpg,4,Pork Belly,fresh,02:46:43,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_072520.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_072550.jpg,4,Pork Belly,fresh,02:49:08,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_072550.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_072620.jpg,4,Pork Belly,fresh,02:51:33,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_072620.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_072650.jpg,4,Pork Belly,fresh,02:53:58,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_072650.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_072720.jpg,4,Pork Belly,fresh,02:56:23,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_072720.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_072750.jpg,4,Pork Belly,fresh,02:58:48,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_072750.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_072820.jpg,4,Pork Belly,fresh,03:01:12,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_072820.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_072850.jpg,4,Pork Belly,fresh,03:03:37,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_072850.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_072920.jpg,4,Pork Belly,fresh,03:06:02,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_072920.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_072950.jpg,4,Pork Belly,fresh,03:08:27,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_072950.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_073020.jpg,4,Pork Belly,fresh,03:10:52,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_073020.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_073050.jpg,4,Pork Belly,fresh,03:13:17,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_073050.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_073121.jpg,4,Pork Belly,fresh,03:15:42,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_073121.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_073151.jpg,4,Pork Belly,fresh,03:18:07,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_073151.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_073221.jpg,4,Pork Belly,fresh,03:20:32,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_073221.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_073251.jpg,4,Pork Belly,fresh,03:22:57,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_073251.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_073321.jpg,4,Pork Belly,fresh,03:25:22,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_073321.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_073351.jpg,4,Pork Belly,fresh,03:27:47,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_073351.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_073421.jpg,4,Pork Belly,fresh,03:30:12,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_073421.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_073451.jpg,4,Pork Belly,fresh,03:32:37,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_073451.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_073521.jpg,4,Pork Belly,fresh,03:35:02,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_073521.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_073551.jpg,4,Pork Belly,fresh,03:37:27,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_073551.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_073622.jpg,4,Pork Belly,fresh,03:39:52,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_073622.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_073651.jpg,4,Pork Belly,fresh,03:42:17,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_073651.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_073721.jpg,4,Pork Belly,fresh,03:44:42,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_073721.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_073752.jpg,4,Pork Belly,fresh,03:47:07,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_073752.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_073822.jpg,4,Pork Belly,fresh,03:49:32,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_073822.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_073852.jpg,4,Pork Belly,fresh,03:51:57,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_073852.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_073922.jpg,4,Pork Belly,fresh,03:54:22,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_073922.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_073952.jpg,4,Pork Belly,fresh,03:56:47,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_073952.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_074022.jpg,4,Pork Belly,fresh,03:59:12,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_074022.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_074052.jpg,4,Pork Belly,fresh,04:01:37,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_074052.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_074122.jpg,4,Pork Belly,fresh,04:04:02,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_074122.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_074152.jpg,4,Pork Belly,fresh,04:06:27,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_074152.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_074222.jpg,4,Pork Belly,fresh,04:08:52,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_074222.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_074252.jpg,4,Pork Belly,fresh,04:11:17,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_074252.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_074322.jpg,4,Pork Belly,fresh,04:13:41,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_074322.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_074352.jpg,4,Pork Belly,fresh,04:16:06,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_074352.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_074423.jpg,4,Pork Belly,fresh,04:18:31,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_074423.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_074453.jpg,4,Pork Belly,fresh,04:20:56,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_074453.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_074523.jpg,4,Pork Belly,fresh,04:23:21,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_074523.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_074553.jpg,4,Pork Belly,fresh,04:25:46,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_074553.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_074623.jpg,4,Pork Belly,fresh,04:28:11,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_074623.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_074653.jpg,4,Pork Belly,fresh,04:30:36,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_074653.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_074723.jpg,4,Pork Belly,fresh,04:33:01,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_074723.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_074753.jpg,4,Pork Belly,fresh,04:35:26,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_074753.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_074823.jpg,4,Pork Belly,fresh,04:37:51,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_074823.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_074854.jpg,4,Pork Belly,fresh,04:40:16,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_074854.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_074924.jpg,4,Pork Belly,fresh,04:42:41,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_074924.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_074954.jpg,4,Pork Belly,fresh,04:45:06,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_074954.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_075024.jpg,4,Pork Belly,fresh,04:47:31,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_075024.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_075054.jpg,4,Pork Belly,fresh,04:49:56,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_075054.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_075124.jpg,4,Pork Belly,fresh,04:52:21,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_075124.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_075154.jpg,4,Pork Belly,fresh,04:54:46,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_075154.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_075224.jpg,4,Pork Belly,fresh,04:57:11,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_075224.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_075254.jpg,4,Pork Belly,fresh,04:59:36,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_075254.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_075324.jpg,4,Pork Belly,fresh,05:02:01,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_075324.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_075354.jpg,4,Pork Belly,fresh,05:04:26,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_075354.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_075424.jpg,4,Pork Belly,fresh,05:06:51,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_075424.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_075454.jpg,4,Pork Belly,fresh,05:09:16,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_075454.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_075524.jpg,4,Pork Belly,fresh,05:11:41,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_075524.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_075554.jpg,4,Pork Belly,fresh,05:14:06,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_075554.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_075625.jpg,4,Pork Belly,fresh,05:16:31,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_075625.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_075655.jpg,4,Pork Belly,fresh,05:18:56,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_075655.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_075725.jpg,4,Pork Belly,fresh,05:21:21,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_075725.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_075755.jpg,4,Pork Belly,fresh,05:23:46,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_075755.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_075825.jpg,4,Pork Belly,fresh,05:26:10,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_075825.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_075855.jpg,4,Pork Belly,fresh,05:28:35,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_075855.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_075925.jpg,4,Pork Belly,fresh,05:31:00,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_075925.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_075955.jpg,4,Pork Belly,fresh,05:33:25,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_075955.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_080025.jpg,4,Pork Belly,fresh,05:35:50,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_080025.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_080055.jpg,4,Pork Belly,fresh,05:38:15,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_080055.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_080125.jpg,4,Pork Belly,fresh,05:40:40,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_080125.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_080155.jpg,4,Pork Belly,fresh,05:43:05,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_080155.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_080226.jpg,4,Pork Belly,fresh,05:45:30,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_080226.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_080256.jpg,4,Pork Belly,fresh,05:47:55,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_080256.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_080326.jpg,4,Pork Belly,fresh,05:50:20,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_080326.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_080356.jpg,4,Pork Belly,fresh,05:52:45,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_080356.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_080426.jpg,4,Pork Belly,fresh,05:55:10,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_080426.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_080456.jpg,4,Pork Belly,fresh,05:57:35,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_080456.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_080526.jpg,4,Pork Belly,fresh,06:00:00,E:\Thesis Code\Pork Belly - Sample 4\Fresh - 0 to 6 hours\20260429_080526.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_141500.jpg,4,Pork Belly,not fresh,06:01:36,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_141500.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_141630.jpg,4,Pork Belly,not fresh,06:04:01,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_141630.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_141800.jpg,4,Pork Belly,not fresh,06:06:25,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_141800.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_141931.jpg,4,Pork Belly,not fresh,06:08:49,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_141931.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_142101.jpg,4,Pork Belly,not fresh,06:11:13,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_142101.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_142231.jpg,4,Pork Belly,not fresh,06:13:38,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_142231.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_142401.jpg,4,Pork Belly,not fresh,06:16:02,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_142401.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_142532.jpg,4,Pork Belly,not fresh,06:18:26,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_142532.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_142702.jpg,4,Pork Belly,not fresh,06:20:51,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_142702.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_142832.jpg,4,Pork Belly,not fresh,06:23:15,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_142832.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_143002.jpg,4,Pork Belly,not fresh,06:25:39,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_143002.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_143132.jpg,4,Pork Belly,not fresh,06:28:04,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_143132.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_143303.jpg,4,Pork Belly,not fresh,06:30:28,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_143303.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_143433.jpg,4,Pork Belly,not fresh,06:32:52,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_143433.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_143603.jpg,4,Pork Belly,not fresh,06:35:17,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_143603.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_143734.jpg,4,Pork Belly,not fresh,06:37:41,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_143734.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_143904.jpg,4,Pork Belly,not fresh,06:40:05,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_143904.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_144034.jpg,4,Pork Belly,not fresh,06:42:30,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_144034.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_144204.jpg,4,Pork Belly,not fresh,06:44:54,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_144204.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_144334.jpg,4,Pork Belly,not fresh,06:47:18,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_144334.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_144505.jpg,4,Pork Belly,not fresh,06:49:43,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_144505.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_144635.jpg,4,Pork Belly,not fresh,06:52:07,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_144635.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_144805.jpg,4,Pork Belly,not fresh,06:54:31,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_144805.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_144935.jpg,4,Pork Belly,not fresh,06:56:56,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_144935.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_145105.jpg,4,Pork Belly,not fresh,06:59:20,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_145105.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_145236.jpg,4,Pork Belly,not fresh,07:01:44,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_145236.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_145406.jpg,4,Pork Belly,not fresh,07:04:09,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_145406.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_145536.jpg,4,Pork Belly,not fresh,07:06:33,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_145536.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_145706.jpg,4,Pork Belly,not fresh,07:08:57,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_145706.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_145837.jpg,4,Pork Belly,not fresh,07:11:22,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_145837.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_150007.jpg,4,Pork Belly,not fresh,07:13:46,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_150007.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_150137.jpg,4,Pork Belly,not fresh,07:16:10,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_150137.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_150308.jpg,4,Pork Belly,not fresh,07:18:34,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_150308.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_150438.jpg,4,Pork Belly,not fresh,07:20:59,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_150438.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_150608.jpg,4,Pork Belly,not fresh,07:23:23,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_150608.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_150807.jpg,4,Pork Belly,not fresh,07:25:47,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_150807.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_150939.jpg,4,Pork Belly,not fresh,07:28:12,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_150939.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_151109.jpg,4,Pork Belly,not fresh,07:30:36,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_151109.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_151239.jpg,4,Pork Belly,not fresh,07:33:00,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_151239.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_151410.jpg,4,Pork Belly,not fresh,07:35:25,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_151410.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_151540.jpg,4,Pork Belly,not fresh,07:37:49,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_151540.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_151710.jpg,4,Pork Belly,not fresh,07:40:13,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_151710.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_151840.jpg,4,Pork Belly,not fresh,07:42:38,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_151840.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_152011.jpg,4,Pork Belly,not fresh,07:45:02,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_152011.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_152141.jpg,4,Pork Belly,not fresh,07:47:26,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_152141.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_152311.jpg,4,Pork Belly,not fresh,07:49:51,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_152311.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_152441.jpg,4,Pork Belly,not fresh,07:52:15,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_152441.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_152611.jpg,4,Pork Belly,not fresh,07:54:39,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_152611.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_152742.jpg,4,Pork Belly,not fresh,07:57:04,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_152742.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_152912.jpg,4,Pork Belly,not fresh,07:59:28,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_152912.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_153042.jpg,4,Pork Belly,not fresh,08:01:52,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_153042.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_153212.jpg,4,Pork Belly,not fresh,08:04:17,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_153212.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_153343.jpg,4,Pork Belly,not fresh,08:06:41,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_153343.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_153513.jpg,4,Pork Belly,not fresh,08:09:05,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_153513.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_153643.jpg,4,Pork Belly,not fresh,08:11:30,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_153643.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_153814.jpg,4,Pork Belly,not fresh,08:13:54,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_153814.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_153944.jpg,4,Pork Belly,not fresh,08:16:18,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_153944.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_154114.jpg,4,Pork Belly,not fresh,08:18:42,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_154114.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_154244.jpg,4,Pork Belly,not fresh,08:21:07,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_154244.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_154414.jpg,4,Pork Belly,not fresh,08:23:31,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_154414.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_154545.jpg,4,Pork Belly,not fresh,08:25:55,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_154545.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_154715.jpg,4,Pork Belly,not fresh,08:28:20,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_154715.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_154845.jpg,4,Pork Belly,not fresh,08:30:44,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_154845.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_155015.jpg,4,Pork Belly,not fresh,08:33:08,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_155015.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_155145.jpg,4,Pork Belly,not fresh,08:35:33,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_155145.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_155316.jpg,4,Pork Belly,not fresh,08:37:57,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_155316.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_155446.jpg,4,Pork Belly,not fresh,08:40:21,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_155446.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_155616.jpg,4,Pork Belly,not fresh,08:42:46,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_155616.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_155747.jpg,4,Pork Belly,not fresh,08:45:10,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_155747.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_155917.jpg,4,Pork Belly,not fresh,08:47:34,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_155917.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_160047.jpg,4,Pork Belly,not fresh,08:49:59,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_160047.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_160217.jpg,4,Pork Belly,not fresh,08:52:23,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_160217.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_160347.jpg,4,Pork Belly,not fresh,08:54:47,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_160347.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_160518.jpg,4,Pork Belly,not fresh,08:57:12,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_160518.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_160648.jpg,4,Pork Belly,not fresh,08:59:36,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_160648.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_160818.jpg,4,Pork Belly,not fresh,09:02:00,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_160818.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_160948.jpg,4,Pork Belly,not fresh,09:04:25,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_160948.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_161119.jpg,4,Pork Belly,not fresh,09:06:49,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_161119.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_161249.jpg,4,Pork Belly,not fresh,09:09:13,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_161249.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_161419.jpg,4,Pork Belly,not fresh,09:11:38,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_161419.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_161550.jpg,4,Pork Belly,not fresh,09:14:02,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_161550.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_161720.jpg,4,Pork Belly,not fresh,09:16:26,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_161720.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_161850.jpg,4,Pork Belly,not fresh,09:18:51,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_161850.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_162020.jpg,4,Pork Belly,not fresh,09:21:15,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_162020.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_162150.jpg,4,Pork Belly,not fresh,09:23:39,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_162150.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_162321.jpg,4,Pork Belly,not fresh,09:26:03,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_162321.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_162451.jpg,4,Pork Belly,not fresh,09:28:28,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_162451.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_162621.jpg,4,Pork Belly,not fresh,09:30:52,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_162621.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_162752.jpg,4,Pork Belly,not fresh,09:33:16,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_162752.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_162921.jpg,4,Pork Belly,not fresh,09:35:41,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_162921.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_163052.jpg,4,Pork Belly,not fresh,09:38:05,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_163052.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_163222.jpg,4,Pork Belly,not fresh,09:40:29,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_163222.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_163352.jpg,4,Pork Belly,not fresh,09:42:54,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_163352.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_163522.jpg,4,Pork Belly,not fresh,09:45:18,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_163522.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_163653.jpg,4,Pork Belly,not fresh,09:47:42,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_163653.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_163823.jpg,4,Pork Belly,not fresh,09:50:07,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_163823.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_163953.jpg,4,Pork Belly,not fresh,09:52:31,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_163953.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_164123.jpg,4,Pork Belly,not fresh,09:54:55,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_164123.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_164254.jpg,4,Pork Belly,not fresh,09:57:20,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_164254.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_164424.jpg,4,Pork Belly,not fresh,09:59:44,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_164424.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_164554.jpg,4,Pork Belly,not fresh,10:02:08,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_164554.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_164725.jpg,4,Pork Belly,not fresh,10:04:33,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_164725.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_164855.jpg,4,Pork Belly,not fresh,10:06:57,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_164855.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_165025.jpg,4,Pork Belly,not fresh,10:09:21,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_165025.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_165155.jpg,4,Pork Belly,not fresh,10:11:46,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_165155.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_165325.jpg,4,Pork Belly,not fresh,10:14:10,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_165325.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_165456.jpg,4,Pork Belly,not fresh,10:16:34,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_165456.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_165626.jpg,4,Pork Belly,not fresh,10:18:59,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_165626.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_165756.jpg,4,Pork Belly,not fresh,10:21:23,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_165756.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_165926.jpg,4,Pork Belly,not fresh,10:23:47,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_165926.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_170057.jpg,4,Pork Belly,not fresh,10:26:11,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_170057.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_170227.jpg,4,Pork Belly,not fresh,10:28:36,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_170227.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_170357.jpg,4,Pork Belly,not fresh,10:31:00,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_170357.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_170527.jpg,4,Pork Belly,not fresh,10:33:24,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_170527.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_170657.jpg,4,Pork Belly,not fresh,10:35:49,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_170657.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_170828.jpg,4,Pork Belly,not fresh,10:38:13,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_170828.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_170958.jpg,4,Pork Belly,not fresh,10:40:37,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_170958.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_171128.jpg,4,Pork Belly,not fresh,10:43:02,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_171128.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_171258.jpg,4,Pork Belly,not fresh,10:45:26,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_171258.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_171429.jpg,4,Pork Belly,not fresh,10:47:50,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_171429.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_171559.jpg,4,Pork Belly,not fresh,10:50:15,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_171559.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_171729.jpg,4,Pork Belly,not fresh,10:52:39,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_171729.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_171859.jpg,4,Pork Belly,not fresh,10:55:03,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_171859.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_172030.jpg,4,Pork Belly,not fresh,10:57:28,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_172030.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_172200.jpg,4,Pork Belly,not fresh,10:59:52,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_172200.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_172330.jpg,4,Pork Belly,not fresh,11:02:16,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_172330.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_172500.jpg,4,Pork Belly,not fresh,11:04:41,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_172500.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_172631.jpg,4,Pork Belly,not fresh,11:07:05,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_172631.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_172801.jpg,4,Pork Belly,not fresh,11:09:29,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_172801.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_172931.jpg,4,Pork Belly,not fresh,11:11:54,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_172931.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_173102.jpg,4,Pork Belly,not fresh,11:14:18,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_173102.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_173232.jpg,4,Pork Belly,not fresh,11:16:42,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_173232.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_173402.jpg,4,Pork Belly,not fresh,11:19:07,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_173402.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_173532.jpg,4,Pork Belly,not fresh,11:21:31,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_173532.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_173703.jpg,4,Pork Belly,not fresh,11:23:55,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_173703.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_173833.jpg,4,Pork Belly,not fresh,11:26:20,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_173833.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_174003.jpg,4,Pork Belly,not fresh,11:28:44,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_174003.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_174133.jpg,4,Pork Belly,not fresh,11:31:08,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_174133.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_174304.jpg,4,Pork Belly,not fresh,11:33:32,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_174304.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_174434.jpg,4,Pork Belly,not fresh,11:35:57,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_174434.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_174604.jpg,4,Pork Belly,not fresh,11:38:21,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_174604.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_174735.jpg,4,Pork Belly,not fresh,11:40:45,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_174735.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_174905.jpg,4,Pork Belly,not fresh,11:43:10,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_174905.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_175035.jpg,4,Pork Belly,not fresh,11:45:34,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_175035.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_175205.jpg,4,Pork Belly,not fresh,11:47:58,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_175205.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_175335.jpg,4,Pork Belly,not fresh,11:50:23,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_175335.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_175506.jpg,4,Pork Belly,not fresh,11:52:47,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_175506.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_175636.jpg,4,Pork Belly,not fresh,11:55:11,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_175636.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_175806.jpg,4,Pork Belly,not fresh,11:57:36,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_175806.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_175937.jpg,4,Pork Belly,not fresh,12:00:00,E:\Thesis Code\Pork Belly - Sample 4\Not fresh - 6 to 12 hours\20260429_175937.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_180607.jpg,4,Pork Belly,spoiled,12:07:42,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_180607.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_181239.jpg,4,Pork Belly,spoiled,12:16:02,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_181239.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_181910.jpg,4,Pork Belly,spoiled,12:24:22,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_181910.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_182540.jpg,4,Pork Belly,spoiled,12:32:42,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_182540.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_183211.jpg,4,Pork Belly,spoiled,12:41:02,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_183211.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_183843.jpg,4,Pork Belly,spoiled,12:49:22,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_183843.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_184514.jpg,4,Pork Belly,spoiled,12:57:42,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_184514.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_185144.jpg,4,Pork Belly,spoiled,13:06:02,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_185144.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_185816.jpg,4,Pork Belly,spoiled,13:14:22,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_185816.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_190447.jpg,4,Pork Belly,spoiled,13:22:42,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_190447.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_191118.jpg,4,Pork Belly,spoiled,13:31:03,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_191118.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_191749.jpg,4,Pork Belly,spoiled,13:39:23,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_191749.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_192420.jpg,4,Pork Belly,spoiled,13:47:43,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_192420.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_193051.jpg,4,Pork Belly,spoiled,13:56:03,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_193051.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_193722.jpg,4,Pork Belly,spoiled,14:04:23,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_193722.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_194353.jpg,4,Pork Belly,spoiled,14:12:43,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_194353.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_195025.jpg,4,Pork Belly,spoiled,14:21:03,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_195025.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_195655.jpg,4,Pork Belly,spoiled,14:29:23,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_195655.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_200326.jpg,4,Pork Belly,spoiled,14:37:43,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_200326.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_200957.jpg,4,Pork Belly,spoiled,14:46:03,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_200957.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_201628.jpg,4,Pork Belly,spoiled,14:54:23,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_201628.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_202300.jpg,4,Pork Belly,spoiled,15:02:43,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_202300.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_202931.jpg,4,Pork Belly,spoiled,15:11:04,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_202931.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_203601.jpg,4,Pork Belly,spoiled,15:19:24,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_203601.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_204233.jpg,4,Pork Belly,spoiled,15:27:44,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_204233.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_204904.jpg,4,Pork Belly,spoiled,15:36:04,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_204904.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_205605.jpg,4,Pork Belly,spoiled,15:44:24,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_205605.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_210236.jpg,4,Pork Belly,spoiled,15:52:44,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_210236.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_210907.jpg,4,Pork Belly,spoiled,16:01:04,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_210907.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_211538.jpg,4,Pork Belly,spoiled,16:09:24,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_211538.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_212209.jpg,4,Pork Belly,spoiled,16:17:44,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_212209.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_212840.jpg,4,Pork Belly,spoiled,16:26:04,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_212840.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_213511.jpg,4,Pork Belly,spoiled,16:34:24,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_213511.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_214142.jpg,4,Pork Belly,spoiled,16:42:45,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_214142.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_214843.jpg,4,Pork Belly,spoiled,16:51:05,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_214843.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_215544.jpg,4,Pork Belly,spoiled,16:59:25,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_215544.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_220215.jpg,4,Pork Belly,spoiled,17:07:45,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_220215.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_220847.jpg,4,Pork Belly,spoiled,17:16:05,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_220847.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_221517.jpg,4,Pork Belly,spoiled,17:24:25,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_221517.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_222219.jpg,4,Pork Belly,spoiled,17:32:45,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_222219.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_222850.jpg,4,Pork Belly,spoiled,17:41:05,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_222850.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_223521.jpg,4,Pork Belly,spoiled,17:49:25,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_223521.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_224152.jpg,4,Pork Belly,spoiled,17:57:45,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_224152.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_224823.jpg,4,Pork Belly,spoiled,18:06:05,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_224823.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_225454.jpg,4,Pork Belly,spoiled,18:14:26,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_225454.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_230125.jpg,4,Pork Belly,spoiled,18:22:46,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_230125.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_230756.jpg,4,Pork Belly,spoiled,18:31:06,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_230756.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_231427.jpg,4,Pork Belly,spoiled,18:39:26,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_231427.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_232058.jpg,4,Pork Belly,spoiled,18:47:46,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_232058.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260429_232759.jpg,4,Pork Belly,spoiled,18:56:06,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260429_232759.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_072918.jpg,4,Pork Belly,spoiled,19:04:26,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_072918.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_073549.jpg,4,Pork Belly,spoiled,19:12:46,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_073549.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_074350.jpg,4,Pork Belly,spoiled,19:21:06,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_074350.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_075222.jpg,4,Pork Belly,spoiled,19:29:26,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_075222.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_075853.jpg,4,Pork Belly,spoiled,19:37:46,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_075853.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_080524.jpg,4,Pork Belly,spoiled,19:46:07,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_080524.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_081155.jpg,4,Pork Belly,spoiled,19:54:27,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_081155.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_081826.jpg,4,Pork Belly,spoiled,20:02:47,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_081826.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_082457.jpg,4,Pork Belly,spoiled,20:11:07,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_082457.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_083128.jpg,4,Pork Belly,spoiled,20:19:27,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_083128.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_083759.jpg,4,Pork Belly,spoiled,20:27:47,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_083759.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_084430.jpg,4,Pork Belly,spoiled,20:36:07,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_084430.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_085101.jpg,4,Pork Belly,spoiled,20:44:27,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_085101.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_085732.jpg,4,Pork Belly,spoiled,20:52:47,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_085732.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_090403.jpg,4,Pork Belly,spoiled,21:01:07,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_090403.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_091034.jpg,4,Pork Belly,spoiled,21:09:27,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_091034.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_091705.jpg,4,Pork Belly,spoiled,21:17:47,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_091705.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_092336.jpg,4,Pork Belly,spoiled,21:26:08,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_092336.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_093007.jpg,4,Pork Belly,spoiled,21:34:28,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_093007.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_093638.jpg,4,Pork Belly,spoiled,21:42:48,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_093638.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_094309.jpg,4,Pork Belly,spoiled,21:51:08,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_094309.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_094940.jpg,4,Pork Belly,spoiled,21:59:28,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_094940.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_095611.jpg,4,Pork Belly,spoiled,22:07:48,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_095611.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_100242.jpg,4,Pork Belly,spoiled,22:16:08,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_100242.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_100913.jpg,4,Pork Belly,spoiled,22:24:28,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_100913.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_101544.jpg,4,Pork Belly,spoiled,22:32:48,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_101544.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_102215.jpg,4,Pork Belly,spoiled,22:41:08,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_102215.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_102846.jpg,4,Pork Belly,spoiled,22:49:28,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_102846.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_103518.jpg,4,Pork Belly,spoiled,22:57:49,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_103518.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_104148.jpg,4,Pork Belly,spoiled,23:06:09,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_104148.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_104820.jpg,4,Pork Belly,spoiled,23:14:29,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_104820.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_105451.jpg,4,Pork Belly,spoiled,23:22:49,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_105451.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_110122.jpg,4,Pork Belly,spoiled,23:31:09,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_110122.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_110753.jpg,4,Pork Belly,spoiled,23:39:29,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_110753.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_111424.jpg,4,Pork Belly,spoiled,23:47:49,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_111424.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_112055.jpg,4,Pork Belly,spoiled,23:56:09,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_112055.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_112726.jpg,4,Pork Belly,spoiled,24:04:29,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_112726.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_113357.jpg,4,Pork Belly,spoiled,24:12:49,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_113357.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_114028.jpg,4,Pork Belly,spoiled,24:21:09,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_114028.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_114659.jpg,4,Pork Belly,spoiled,24:29:30,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_114659.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_115330.jpg,4,Pork Belly,spoiled,24:37:50,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_115330.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_120001.jpg,4,Pork Belly,spoiled,24:46:10,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_120001.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_120632.jpg,4,Pork Belly,spoiled,24:54:30,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_120632.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_121303.jpg,4,Pork Belly,spoiled,25:02:50,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_121303.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_121934.jpg,4,Pork Belly,spoiled,25:11:10,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_121934.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_122606.jpg,4,Pork Belly,spoiled,25:19:30,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_122606.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_123236.jpg,4,Pork Belly,spoiled,25:27:50,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_123236.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_123908.jpg,4,Pork Belly,spoiled,25:36:10,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_123908.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_124539.jpg,4,Pork Belly,spoiled,25:44:30,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_124539.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_125210.jpg,4,Pork Belly,spoiled,25:52:50,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_125210.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_125841.jpg,4,Pork Belly,spoiled,26:01:11,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_125841.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_130512.jpg,4,Pork Belly,spoiled,26:09:31,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_130512.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_131143.jpg,4,Pork Belly,spoiled,26:17:51,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_131143.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_131814.jpg,4,Pork Belly,spoiled,26:26:11,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_131814.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_132445.jpg,4,Pork Belly,spoiled,26:34:31,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_132445.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_133116.jpg,4,Pork Belly,spoiled,26:42:51,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_133116.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_133747.jpg,4,Pork Belly,spoiled,26:51:11,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_133747.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_134418.jpg,4,Pork Belly,spoiled,26:59:31,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_134418.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_135049.jpg,4,Pork Belly,spoiled,27:07:51,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_135049.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_135720.jpg,4,Pork Belly,spoiled,27:16:11,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_135720.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_140351.jpg,4,Pork Belly,spoiled,27:24:31,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_140351.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_141022.jpg,4,Pork Belly,spoiled,27:32:52,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_141022.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_141653.jpg,4,Pork Belly,spoiled,27:41:12,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_141653.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_142324.jpg,4,Pork Belly,spoiled,27:49:32,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_142324.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_142955.jpg,4,Pork Belly,spoiled,27:57:52,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_142955.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_143626.jpg,4,Pork Belly,spoiled,28:06:12,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_143626.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_144257.jpg,4,Pork Belly,spoiled,28:14:32,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_144257.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_144928.jpg,4,Pork Belly,spoiled,28:22:52,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_144928.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_145559.jpg,4,Pork Belly,spoiled,28:31:12,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_145559.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_150231.jpg,4,Pork Belly,spoiled,28:39:32,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_150231.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_150902.jpg,4,Pork Belly,spoiled,28:47:52,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_150902.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_151533.jpg,4,Pork Belly,spoiled,28:56:12,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_151533.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_152204.jpg,4,Pork Belly,spoiled,29:04:32,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_152204.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_152835.jpg,4,Pork Belly,spoiled,29:12:53,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_152835.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_153506.jpg,4,Pork Belly,spoiled,29:21:13,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_153506.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_154137.jpg,4,Pork Belly,spoiled,29:29:33,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_154137.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_154808.jpg,4,Pork Belly,spoiled,29:37:53,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_154808.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_155439.jpg,4,Pork Belly,spoiled,29:46:13,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_155439.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_160110.jpg,4,Pork Belly,spoiled,29:54:33,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_160110.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_160741.jpg,4,Pork Belly,spoiled,30:02:53,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_160741.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_161412.jpg,4,Pork Belly,spoiled,30:11:13,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_161412.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_162043.jpg,4,Pork Belly,spoiled,30:19:33,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_162043.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_162714.jpg,4,Pork Belly,spoiled,30:27:53,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_162714.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_163345.jpg,4,Pork Belly,spoiled,30:36:13,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_163345.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_164016.jpg,4,Pork Belly,spoiled,30:44:34,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_164016.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_164647.jpg,4,Pork Belly,spoiled,30:52:54,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_164647.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_165319.jpg,4,Pork Belly,spoiled,31:01:14,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_165319.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_165950.jpg,4,Pork Belly,spoiled,31:09:34,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_165950.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_170620.jpg,4,Pork Belly,spoiled,31:17:54,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_170620.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_171252.jpg,4,Pork Belly,spoiled,31:26:14,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_171252.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_171923.jpg,4,Pork Belly,spoiled,31:34:34,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_171923.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_172554.jpg,4,Pork Belly,spoiled,31:42:54,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_172554.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_173225.jpg,4,Pork Belly,spoiled,31:51:14,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_173225.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_173856.jpg,4,Pork Belly,spoiled,31:59:34,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_173856.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_174527.jpg,4,Pork Belly,spoiled,32:07:54,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_174527.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_175158.jpg,4,Pork Belly,spoiled,32:16:15,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_175158.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_175829.jpg,4,Pork Belly,spoiled,32:24:35,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_175829.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_180500.jpg,4,Pork Belly,spoiled,32:32:55,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_180500.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_181131.jpg,4,Pork Belly,spoiled,32:41:15,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_181131.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_181802.jpg,4,Pork Belly,spoiled,32:49:35,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_181802.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_182503.jpg,4,Pork Belly,spoiled,32:57:55,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_182503.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_183134.jpg,4,Pork Belly,spoiled,33:06:15,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_183134.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_183805.jpg,4,Pork Belly,spoiled,33:14:35,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_183805.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_184436.jpg,4,Pork Belly,spoiled,33:22:55,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_184436.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_185138.jpg,4,Pork Belly,spoiled,33:31:15,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_185138.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_185808.jpg,4,Pork Belly,spoiled,33:39:35,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_185808.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_190440.jpg,4,Pork Belly,spoiled,33:47:56,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_190440.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_191111.jpg,4,Pork Belly,spoiled,33:56:16,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_191111.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_191742.jpg,4,Pork Belly,spoiled,34:04:36,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_191742.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_192412.jpg,4,Pork Belly,spoiled,34:12:56,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_192412.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_193044.jpg,4,Pork Belly,spoiled,34:21:16,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_193044.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_193715.jpg,4,Pork Belly,spoiled,34:29:36,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_193715.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_194346.jpg,4,Pork Belly,spoiled,34:37:56,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_194346.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_195017.jpg,4,Pork Belly,spoiled,34:46:16,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_195017.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_195648.jpg,4,Pork Belly,spoiled,34:54:36,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_195648.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_200319.jpg,4,Pork Belly,spoiled,35:02:56,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_200319.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_200950.jpg,4,Pork Belly,spoiled,35:11:16,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_200950.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_201621.jpg,4,Pork Belly,spoiled,35:19:36,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_201621.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_202252.jpg,4,Pork Belly,spoiled,35:27:57,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_202252.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_202923.jpg,4,Pork Belly,spoiled,35:36:17,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_202923.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_203554.jpg,4,Pork Belly,spoiled,35:44:37,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_203554.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens
+20260430_204225.jpg,4,Pork Belly,spoiled,35:52:57,E:\Thesis Code\Pork Belly - Sample 4\Spoiled - 12 hours to 36 hours\20260430_204225.jpg,pork_belly_sample_4,belly,cross_rotation,fold4,meatlens

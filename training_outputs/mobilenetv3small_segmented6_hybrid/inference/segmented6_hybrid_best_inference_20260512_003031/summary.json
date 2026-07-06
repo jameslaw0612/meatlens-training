@@ -1,0 +1,27 @@
+{
+  "timestamp": "20260512_003031",
+  "model_path": "e:\\Thesis Code\\training_outputs\\mobilenetv3small_segmented6_hybrid\\models\\meatlens_best_segmented6_hybrid_mobilenetv3small.h5",
+  "metadata_path": "e:\\Thesis Code\\training_outputs\\mobilenetv3small_segmented6_hybrid\\models\\meatlens_best_segmented6_hybrid_mobilenetv3small_metadata.json",
+  "source_folder": "e:\\Thesis Code\\training_outputs\\mobilenetv3small_segmented6_hybrid\\inference\\uploaded_zips\\zip_20260512_003031\\extracted",
+  "run_dir": "e:\\Thesis Code\\training_outputs\\mobilenetv3small_segmented6_hybrid\\inference\\segmented6_hybrid_best_inference_20260512_003031",
+  "processed_dir": "e:\\Thesis Code\\training_outputs\\mobilenetv3small_segmented6_hybrid\\inference\\segmented6_hybrid_best_inference_20260512_003031\\processed_segmented_roi",
+  "background_mode": "gray",
+  "best_fold": "fold5",
+  "best_seed": 42,
+  "total_images": 3,
+  "successful_predictions": 3,
+  "failed_predictions": 0,
+  "segmentation_failed_count": 0,
+  "mean_top_confidence": 0.9869683333333334,
+  "mean_freshness_score": 54.53666666666666,
+  "class_counts": {
+    "fresh": 1,
+    "not fresh": 1,
+    "spoiled": 1
+  },
+  "freshness_band_counts": {
+    "Good for Consumption": 1,
+    "Consume Immediately": 1,
+    "Not Suitable": 1
+  }
+}

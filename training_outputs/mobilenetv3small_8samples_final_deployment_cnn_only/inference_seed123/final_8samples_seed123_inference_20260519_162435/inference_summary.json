@@ -1,0 +1,12 @@
+{
+  "timestamp": "20260519_162435",
+  "model_path": "e:\\Thesis Code\\training_outputs\\mobilenetv3small_8samples_final_deployment_cnn_only\\models\\meatlens_final_8samples_cnn_only_mobilenetv3small_seed123.h5",
+  "metadata_path": "e:\\Thesis Code\\training_outputs\\mobilenetv3small_8samples_final_deployment_cnn_only\\models\\meatlens_final_8samples_cnn_only_mobilenetv3small_seed123_metadata.json",
+  "source_folder": "e:\\Thesis Code\\training_outputs\\mobilenetv3small_8samples_final_deployment_cnn_only\\inference_seed123\\uploaded_zips\\zip_20260519_162435\\extracted",
+  "run_dir": "e:\\Thesis Code\\training_outputs\\mobilenetv3small_8samples_final_deployment_cnn_only\\inference_seed123\\final_8samples_seed123_inference_20260519_162435",
+  "total_images_found": 3,
+  "successful_predictions": 3,
+  "errors": 0,
+  "background_mode": "gray",
+  "deployment_note": "This final model was trained using all 8 validated samples for deployment/demo use. Official evaluation metrics should be taken from the 8-fold cross-rotation experiment, not from this final training run."
+}

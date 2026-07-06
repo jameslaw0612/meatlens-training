@@ -1,0 +1,71 @@
+# Ignore common image file types while keeping CSVs committable
+# Image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tif
+*.tiff
+*.webp
+*.heic
+*.ico
+
+# Camera / raw formats
+*.raw
+*.cr2
+*.nef
+*.arw
+*.dng
+
+# OS thumbnails / caches
+Thumbs.db
+ehthumbs.db
+.DS_Store
+
+# Python Virtual Environments
+.venv/
+.venv-gpu/
+.venv-tf/
+venv/
+env/
+
+# Python Cache and Compiled Files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter & IPython Caches/Runtime
+.ipynb_checkpoints/
+.ipython_meatlens_gpu/
+.jupyter_runtime/
+
+# IDE Settings
+.vscode/
+.idea/
+
+# Large Datasets & Processed Images
+Public Dataset/
+processed_hsv_lab_threshold_roi_224/
+interval sampled/
+
+# Machine Learning Model Weights, Checkpoints & Scalers
+*.h5
+*.tflite
+*.onnx
+*.joblib
+*.weights.h5
+*.pkl
+*.pickle
+*.pt
+*.pth
+*.pb
+checkpoints/
+
+# Common log files
+*.log
+
+# Ensure CSV files remain tracked
+!*.csv
+!**/*.csv
+

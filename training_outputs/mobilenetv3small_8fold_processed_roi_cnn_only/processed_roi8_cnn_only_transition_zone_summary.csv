@@ -1,0 +1,6 @@
+transition_zone,prediction_rows,transition_aware_accuracy,correct_count,incorrect_count,accepted_predictions
+clear_fresh,3180,0.5289308176100629,1682,1498,"[""fresh""]"
+borderline_fresh_not_fresh,2265,0.8304635761589404,1881,384,"[""fresh"", ""not fresh""]"
+clear_not_fresh,2400,0.6675,1602,798,"[""not fresh""]"
+borderline_not_fresh_spoiled,2400,0.735,1764,636,"[""not fresh"", ""spoiled""]"
+clear_spoiled,3600,0.7702777777777777,2773,827,"[""spoiled""]"
